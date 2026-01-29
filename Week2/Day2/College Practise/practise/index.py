@@ -167,11 +167,11 @@ st.sidebar.title("This is a Side bar ")
 option = st.sidebar.selectbox("select page" , ["page1" , "page2" , "page3"])
 st.write(f"current page {option}")
 
-@st.cache_data
-class load_data:
-    def userData(self):
-        return "User"
+# @st.cache_data
+# class load_data:
+#     def userData(self):
+#         return "User"
     
     
-data = load_data()
-st.write(data)
+# data = load_data()
+# st.write(data)
