@@ -18,6 +18,7 @@ if st.button("submit"):
 
 st.subheader("-------------Tasks-------------")
 records = db.readRows()
+
 # df = pd.DataFrame(records, columns=["Id", "Task", "Status"])
 # st.dataframe(df)
 
