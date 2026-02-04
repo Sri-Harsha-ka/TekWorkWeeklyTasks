@@ -1,0 +1,1001 @@
+user_id,age,salary,department,join_date,city,performance_score,experience_years,is_active
+user_0,-5,₹50000,HR,2020/12/01,DELHI,3,five,True
+U1001,30,45000,Finance,15/02/2021,Delhi,3,1,yes
+U1002,30,25000,HR,,Delhi,excellent,10,False
+,unknown,N/A,HR,invalid,Hyderabad,excellent,5,yes
+,,120000.75,IT,,DELHI,,-1,False
+user_5,,25000,IT,invalid,,3,0,no
+,45,25000,,invalid,mumbai,5,,
+,45,45000,,invalid,Delhi,3,,yes
+user_8,,N/A,HR,invalid,mumbai,3,-1,yes
+U1009,200,,IT,,Bangalore,poor,1,False
+U1010,45,78000,Sales,,mumbai,excellent,5,False
+user_11,18,120000.75,Finance,invalid,Mumbai,,,
+,60,45000,IT,invalid,,3,5,no
+,-5,25000,HR,2020/12/01,Mumbai,4,10,
+,,78000,HR,2022-01-15,DELHI,,1,
+,45,,it ,2022-01-15,Hyderabad,4,,True
+U1016,25,45000,Finance,2020/12/01,DELHI,4,1,yes
+,25,120000.75,IT,,mumbai,1,3,yes
+,-5,,it ,2020/12/01,Mumbai,1,5,True
+,30,N/A,Finance,invalid,,4,1,True
+,30,N/A,IT,invalid,,2,-1,True
+,45,45000,HR,15/02/2021,Delhi,1,-1,True
+,18,₹50000,it ,invalid,Bangalore,poor,1,True
+U1023,60,78000,Sales,invalid,Hyderabad,,0,False
+,25,120000.75,Sales,,Mumbai,2,5,yes
+,unknown,45000,HR,2020/12/01,DELHI,excellent,five,
+,-5,N/A,HR,2022-01-15,Hyderabad,1,-1,yes
+,,25000,HR,2020/12/01,Bangalore,2,0,yes
+user_28,unknown,₹50000,it ,,DELHI,poor,3,yes
+user_29,25,25000,HR,2020/12/01,DELHI,poor,3,yes
+U1030,200,45000,IT,2022-01-15,DELHI,3,five,yes
+U1031,18,25000,Finance,invalid,Hyderabad,poor,,False
+,,25000,HR,,,2,10,True
+,,25000,HR,15/02/2021,Mumbai,,5,True
+,200,N/A,Sales,invalid,Delhi,2,,no
+U1035,18,45000,Sales,,Bangalore,,3,no
+U1036,200,₹50000,IT,invalid,Bangalore,3,,no
+U1037,unknown,25000,it ,2020/12/01,Bangalore,poor,1,yes
+,60,120000.75,it ,,,2,,False
+U1039,200,78000,,2022-01-15,DELHI,1,1,
+,unknown,N/A,HR,2022-01-15,Hyderabad,excellent,,False
+U1041,18,120000.75,IT,2020/12/01,Mumbai,poor,-1,
+,60,45000,Sales,invalid,Mumbai,5,five,True
+,,,IT,,Delhi,poor,3,yes
+user_44,,45000,HR,2022-01-15,Mumbai,excellent,,yes
+U1045,-5,45000,IT,15/02/2021,Mumbai,2,0,yes
+,-5,,Sales,,DELHI,2,,no
+,unknown,78000,it ,2022-01-15,,excellent,3,no
+user_48,45,78000,HR,invalid,Delhi,4,1,True
+U1049,30,₹50000,HR,,,excellent,,yes
+U1050,200,₹50000,,,,3,1,no
+,18,25000,IT,2020/12/01,Hyderabad,4,10,yes
+,200,120000.75,Finance,2020/12/01,mumbai,poor,0,yes
+user_53,45,25000,,15/02/2021,Delhi,,3,False
+user_54,200,120000.75,,2022-01-15,DELHI,4,-1,
+user_55,200,120000.75,HR,15/02/2021,Hyderabad,1,0,yes
+U1056,18,,Finance,invalid,mumbai,1,10,no
+,60,,,2020/12/01,mumbai,,3,False
+user_58,-5,,Sales,2022-01-15,Mumbai,2,10,yes
+,30,25000,,2022-01-15,Mumbai,3,five,
+U1060,45,₹50000,HR,invalid,DELHI,1,,False
+user_61,25,₹50000,Finance,2020/12/01,mumbai,3,10,yes
+U1062,45,45000,it ,,DELHI,1,3,no
+,-5,₹50000,IT,2020/12/01,DELHI,poor,0,
+user_64,,78000,HR,,Delhi,excellent,0,yes
+user_65,,N/A,HR,,mumbai,poor,3,
+user_66,45,N/A,it ,15/02/2021,mumbai,excellent,10,yes
+,200,,HR,invalid,,excellent,-1,False
+,-5,N/A,IT,invalid,Delhi,4,-1,no
+,200,45000,IT,2020/12/01,Bangalore,1,10,False
+,200,78000,HR,invalid,Bangalore,excellent,five,True
+user_71,60,120000.75,IT,2022-01-15,Bangalore,1,3,
+,,N/A,Sales,invalid,Hyderabad,,10,yes
+U1073,45,45000,IT,invalid,Hyderabad,poor,1,yes
+,200,,Sales,,Hyderabad,5,3,False
+user_75,18,,IT,2020/12/01,Hyderabad,1,5,True
+,45,₹50000,Sales,,,5,-1,True
+U1077,,N/A,HR,,Bangalore,1,3,no
+U1078,200,45000,HR,,Bangalore,,1,True
+U1079,-5,₹50000,IT,invalid,Mumbai,excellent,1,False
+U1080,-5,N/A,HR,2022-01-15,Mumbai,4,1,no
+,-5,45000,HR,2022-01-15,Delhi,poor,0,no
+,45,₹50000,,,Bangalore,2,0,yes
+user_83,unknown,25000,HR,2022-01-15,Delhi,5,-1,no
+user_84,30,25000,HR,15/02/2021,Delhi,5,3,False
+U1085,unknown,N/A,IT,2020/12/01,Delhi,3,10,
+,18,N/A,Finance,2022-01-15,Hyderabad,2,10,False
+user_87,30,45000,,2022-01-15,DELHI,2,five,False
+U1088,,,,invalid,mumbai,4,5,no
+,18,45000,Finance,,,excellent,5,False
+,unknown,₹50000,HR,invalid,Hyderabad,excellent,five,False
+,,N/A,it ,2020/12/01,DELHI,4,0,False
+,18,₹50000,Sales,invalid,Bangalore,,5,no
+,30,120000.75,,,,5,,no
+user_94,18,₹50000,it ,2022-01-15,mumbai,4,3,
+,-5,120000.75,,2022-01-15,Hyderabad,5,5,
+,200,₹50000,it ,15/02/2021,Delhi,poor,,False
+user_97,unknown,N/A,Finance,15/02/2021,Hyderabad,,10,False
+U1098,,78000,IT,invalid,Delhi,poor,0,False
+,45,N/A,HR,2020/12/01,Bangalore,5,-1,False
+,25,45000,HR,invalid,Hyderabad,2,1,yes
+U1101,60,78000,Sales,,mumbai,1,3,yes
+,60,₹50000,HR,2020/12/01,mumbai,3,0,True
+,-5,25000,Finance,2022-01-15,mumbai,1,five,True
+user_104,25,25000,IT,2020/12/01,DELHI,3,5,
+user_105,,₹50000,Finance,,DELHI,excellent,five,False
+,25,78000,HR,2022-01-15,Bangalore,,10,no
+U1107,18,₹50000,it ,15/02/2021,Mumbai,poor,5,no
+,-5,25000,IT,,DELHI,2,0,
+,18,N/A,Finance,15/02/2021,mumbai,5,3,yes
+U1110,18,120000.75,Sales,invalid,mumbai,4,five,no
+,18,N/A,Sales,2020/12/01,mumbai,excellent,1,yes
+,-5,,IT,2022-01-15,mumbai,4,10,True
+,unknown,,HR,15/02/2021,DELHI,2,3,True
+,unknown,45000,,2020/12/01,mumbai,5,5,True
+,-5,78000,it ,2022-01-15,,poor,3,no
+U1116,-5,,Finance,2022-01-15,Bangalore,,10,no
+,60,N/A,,,Mumbai,excellent,0,True
+U1118,,N/A,,2020/12/01,,5,-1,no
+,30,78000,,15/02/2021,mumbai,1,,
+,-5,78000,it ,15/02/2021,Mumbai,4,10,False
+user_121,-5,N/A,Finance,15/02/2021,Delhi,2,1,no
+U1122,,₹50000,IT,invalid,,2,3,True
+user_123,unknown,120000.75,IT,,Mumbai,5,5,no
+U1124,30,78000,,2022-01-15,Bangalore,3,5,
+,18,25000,it ,2022-01-15,Mumbai,excellent,1,
+U1126,18,₹50000,HR,invalid,Mumbai,,3,True
+,unknown,78000,HR,2022-01-15,,5,-1,
+,200,N/A,Finance,invalid,Hyderabad,1,-1,False
+U1129,18,,Finance,15/02/2021,Bangalore,1,five,True
+,18,120000.75,,15/02/2021,Bangalore,excellent,5,True
+,,25000,IT,invalid,Mumbai,2,five,no
+U1132,unknown,78000,,2022-01-15,Mumbai,4,10,yes
+,45,₹50000,HR,2022-01-15,,,-1,True
+,45,,Sales,2020/12/01,,poor,-1,
+,,78000,HR,2020/12/01,Delhi,3,-1,
+,25,78000,IT,invalid,mumbai,1,-1,yes
+,45,120000.75,Sales,2022-01-15,Hyderabad,1,-1,False
+U1138,60,120000.75,IT,invalid,Mumbai,3,five,
+,200,,Sales,2022-01-15,mumbai,5,10,yes
+,30,₹50000,IT,2022-01-15,DELHI,,10,
+,unknown,N/A,Sales,2020/12/01,,1,,False
+U1142,45,45000,,2020/12/01,Delhi,1,3,True
+,25,₹50000,,2022-01-15,,4,5,False
+user_144,-5,₹50000,,2020/12/01,DELHI,excellent,,
+user_145,200,₹50000,Sales,2020/12/01,Bangalore,5,3,False
+user_146,200,120000.75,Finance,2020/12/01,Delhi,5,-1,yes
+,-5,78000,HR,2022-01-15,,4,,no
+,30,120000.75,Finance,,Delhi,3,3,
+U1149,25,78000,IT,15/02/2021,mumbai,5,0,yes
+,18,N/A,,15/02/2021,Delhi,4,-1,True
+user_151,60,,Sales,2022-01-15,Bangalore,3,0,True
+U1152,,78000,it ,2022-01-15,Delhi,1,3,False
+,200,₹50000,IT,,Hyderabad,3,5,False
+,25,N/A,it ,,Delhi,4,-1,
+,60,₹50000,it ,2020/12/01,Mumbai,excellent,1,yes
+,30,78000,HR,invalid,Delhi,4,1,True
+,unknown,25000,Finance,invalid,Delhi,3,,True
+,200,,HR,invalid,Mumbai,,5,no
+,45,45000,IT,invalid,DELHI,excellent,,no
+user_160,unknown,45000,HR,15/02/2021,mumbai,2,3,
+user_161,-5,,,,Mumbai,poor,5,
+U1162,,,,15/02/2021,Delhi,1,-1,no
+,25,,Sales,2020/12/01,DELHI,,10,no
+user_164,-5,78000,Sales,,DELHI,1,0,False
+user_165,18,N/A,HR,invalid,Bangalore,3,,no
+user_166,60,120000.75,IT,2020/12/01,,excellent,-1,False
+U1167,-5,78000,IT,invalid,Hyderabad,5,,True
+,60,120000.75,HR,2022-01-15,mumbai,1,10,
+,unknown,N/A,IT,2022-01-15,Bangalore,2,1,True
+user_170,unknown,45000,HR,invalid,,excellent,five,yes
+,unknown,78000,HR,15/02/2021,Bangalore,5,0,no
+,60,25000,HR,2022-01-15,mumbai,4,1,
+,200,78000,,2020/12/01,mumbai,poor,,no
+user_174,60,45000,IT,,Mumbai,poor,10,yes
+,,N/A,IT,,mumbai,excellent,,yes
+,25,78000,IT,invalid,Bangalore,4,,no
+U1177,30,120000.75,,invalid,Mumbai,1,1,False
+,18,N/A,it ,invalid,mumbai,1,five,True
+,60,N/A,IT,2020/12/01,Mumbai,5,,True
+,45,₹50000,HR,invalid,mumbai,4,3,yes
+,30,,IT,2020/12/01,Mumbai,2,10,
+U1182,-5,120000.75,,,Hyderabad,,3,
+,45,120000.75,,2020/12/01,Mumbai,excellent,3,True
+user_184,45,₹50000,HR,,,poor,-1,no
+,25,N/A,Finance,2020/12/01,Delhi,poor,five,
+,200,₹50000,IT,15/02/2021,DELHI,3,5,False
+,45,45000,,,,2,,yes
+,25,78000,Sales,15/02/2021,Bangalore,excellent,-1,
+,,25000,Sales,2022-01-15,Hyderabad,,3,no
+user_190,60,,IT,2020/12/01,DELHI,excellent,0,False
+,25,,Finance,15/02/2021,mumbai,excellent,3,False
+user_192,-5,45000,Sales,2020/12/01,Hyderabad,2,1,no
+,18,25000,HR,invalid,,poor,-1,True
+,-5,,it ,,Delhi,4,5,True
+U1195,unknown,,Finance,2020/12/01,Delhi,,3,
+,25,₹50000,HR,,,poor,3,yes
+user_197,45,,IT,2022-01-15,,,0,no
+user_198,45,120000.75,,invalid,DELHI,1,,yes
+U1199,-5,25000,HR,15/02/2021,Bangalore,4,five,False
+user_200,unknown,25000,HR,2022-01-15,mumbai,3,10,True
+,60,25000,Sales,invalid,DELHI,,five,
+,60,45000,HR,,,5,0,False
+U1203,-5,25000,HR,2020/12/01,DELHI,excellent,-1,yes
+U1204,,78000,HR,15/02/2021,mumbai,3,five,no
+user_205,30,45000,Finance,2020/12/01,Delhi,4,5,no
+U1206,-5,₹50000,HR,2020/12/01,Bangalore,1,five,True
+,30,N/A,Finance,invalid,Delhi,1,10,yes
+,18,120000.75,,2022-01-15,Mumbai,2,-1,
+user_209,200,,HR,2022-01-15,Delhi,excellent,0,True
+,-5,120000.75,IT,invalid,Bangalore,4,10,yes
+U1211,30,N/A,Sales,2020/12/01,Delhi,2,3,True
+U1212,-5,78000,,2022-01-15,Bangalore,2,10,
+,18,45000,Finance,2022-01-15,Mumbai,4,0,
+,25,78000,Sales,2020/12/01,Delhi,5,five,
+,-5,N/A,HR,2020/12/01,Hyderabad,poor,1,yes
+user_216,18,78000,Finance,2022-01-15,Delhi,poor,,yes
+,18,78000,HR,invalid,mumbai,2,,yes
+user_218,25,120000.75,,,Mumbai,poor,-1,False
+,60,25000,it ,invalid,,1,10,no
+user_220,30,₹50000,Finance,2022-01-15,Bangalore,excellent,five,
+U1221,-5,,IT,invalid,Delhi,excellent,1,False
+,18,120000.75,IT,invalid,,2,0,
+,-5,N/A,,2020/12/01,Delhi,poor,1,False
+,unknown,120000.75,IT,2020/12/01,DELHI,3,1,False
+user_225,-5,78000,it ,15/02/2021,DELHI,2,3,no
+,unknown,25000,it ,,DELHI,excellent,10,no
+,200,N/A,IT,15/02/2021,Hyderabad,2,-1,no
+,18,₹50000,HR,,Bangalore,1,0,
+U1229,200,120000.75,HR,2020/12/01,mumbai,,0,yes
+U1230,45,45000,HR,2022-01-15,DELHI,2,10,True
+U1231,30,45000,Finance,2022-01-15,,4,five,False
+U1232,18,₹50000,,2022-01-15,Hyderabad,excellent,1,True
+user_233,18,78000,,2022-01-15,Bangalore,4,five,
+,200,N/A,Finance,2022-01-15,Hyderabad,poor,,True
+U1235,unknown,N/A,,2020/12/01,Bangalore,2,5,
+U1236,unknown,N/A,it ,2022-01-15,Hyderabad,excellent,5,True
+,200,,IT,,Delhi,2,-1,
+,45,25000,Sales,,mumbai,3,0,yes
+user_239,25,25000,,,,5,1,False
+,30,120000.75,,15/02/2021,mumbai,2,,yes
+user_241,60,120000.75,HR,invalid,,2,-1,
+U1242,18,25000,Finance,2020/12/01,Delhi,1,1,yes
+,60,N/A,HR,2020/12/01,Bangalore,2,,False
+user_244,unknown,,Sales,2020/12/01,Bangalore,5,3,False
+,unknown,₹50000,,2022-01-15,Hyderabad,2,1,False
+user_246,30,N/A,Finance,,Delhi,5,,no
+U1247,18,120000.75,Sales,15/02/2021,mumbai,5,10,yes
+,60,₹50000,Sales,15/02/2021,Bangalore,5,3,
+user_249,unknown,78000,Sales,15/02/2021,Hyderabad,poor,five,True
+U1250,200,120000.75,Finance,invalid,mumbai,5,-1,False
+,200,N/A,HR,invalid,,poor,-1,False
+,45,₹50000,IT,2022-01-15,Mumbai,excellent,3,False
+U1253,,N/A,it ,2020/12/01,Bangalore,excellent,3,yes
+user_254,60,,HR,2020/12/01,Hyderabad,excellent,10,yes
+,200,120000.75,IT,,mumbai,2,3,True
+,60,78000,Sales,,Delhi,3,five,
+,45,25000,,15/02/2021,Mumbai,excellent,3,False
+user_258,,45000,Sales,2020/12/01,Bangalore,5,5,False
+,30,25000,Finance,15/02/2021,Bangalore,5,5,False
+user_260,18,78000,Sales,2020/12/01,mumbai,2,0,yes
+user_261,200,45000,Finance,2020/12/01,Bangalore,poor,3,
+user_262,60,25000,IT,invalid,Bangalore,5,3,no
+,,,,2022-01-15,Hyderabad,5,3,False
+,45,25000,,15/02/2021,mumbai,3,3,False
+user_265,,45000,Finance,2020/12/01,mumbai,2,3,True
+,45,78000,Sales,2020/12/01,Mumbai,1,1,no
+U1267,30,78000,it ,invalid,,2,10,no
+user_268,,120000.75,Sales,,Hyderabad,2,,True
+user_269,18,,IT,2022-01-15,Hyderabad,3,1,True
+,,₹50000,Finance,2020/12/01,Mumbai,excellent,3,True
+U1271,25,₹50000,Sales,2020/12/01,DELHI,5,1,True
+user_272,60,N/A,Finance,2020/12/01,mumbai,excellent,1,True
+U1273,60,78000,Finance,15/02/2021,mumbai,4,5,no
+user_274,30,120000.75,it ,invalid,Hyderabad,4,5,
+user_275,60,,HR,2020/12/01,Mumbai,5,5,no
+U1276,18,78000,,2022-01-15,Bangalore,1,,yes
+,60,₹50000,Sales,invalid,Bangalore,poor,1,no
+,unknown,120000.75,IT,,Bangalore,3,five,no
+U1279,45,45000,HR,,Mumbai,5,,
+U1280,18,78000,HR,invalid,Delhi,,,
+user_281,60,78000,IT,2020/12/01,Mumbai,5,,True
+user_282,unknown,45000,,,Hyderabad,5,3,
+,45,45000,HR,invalid,DELHI,2,five,False
+,,78000,HR,,Hyderabad,1,0,True
+user_285,25,N/A,Sales,invalid,Delhi,poor,-1,True
+U1286,200,25000,,2022-01-15,Delhi,2,-1,no
+,-5,,it ,,Bangalore,excellent,5,False
+user_288,unknown,120000.75,Sales,2022-01-15,Delhi,1,10,True
+user_289,200,120000.75,it ,,,3,,True
+,unknown,₹50000,it ,,Mumbai,4,1,
+,18,25000,HR,15/02/2021,DELHI,5,1,no
+,unknown,,Finance,,Delhi,5,5,no
+,30,25000,HR,invalid,mumbai,4,,yes
+,,120000.75,,invalid,DELHI,4,five,no
+U1295,18,120000.75,it ,invalid,Bangalore,1,3,yes
+user_296,30,78000,IT,2022-01-15,Bangalore,4,five,True
+,18,25000,Sales,2020/12/01,Mumbai,poor,5,False
+,,,HR,2020/12/01,Bangalore,1,10,True
+,18,120000.75,,,DELHI,poor,-1,False
+,-5,N/A,Sales,,Delhi,5,10,
+,18,45000,it ,2022-01-15,DELHI,poor,3,no
+,-5,25000,it ,15/02/2021,,3,,no
+U1303,-5,,Finance,15/02/2021,mumbai,poor,0,no
+U1304,-5,N/A,,2022-01-15,,5,0,
+,-5,45000,it ,15/02/2021,mumbai,4,0,False
+,60,,it ,invalid,mumbai,2,10,
+,-5,45000,IT,invalid,Delhi,poor,1,yes
+user_308,45,N/A,it ,,Mumbai,2,3,no
+,18,120000.75,HR,15/02/2021,Mumbai,,3,False
+,200,45000,HR,15/02/2021,Bangalore,5,,yes
+U1311,200,25000,Sales,invalid,mumbai,poor,five,
+,unknown,45000,Finance,2020/12/01,mumbai,poor,3,yes
+,18,45000,Sales,invalid,Mumbai,,10,no
+,200,,Finance,2020/12/01,DELHI,1,0,True
+U1315,unknown,N/A,,,mumbai,poor,,True
+,60,N/A,Finance,,mumbai,5,10,False
+U1317,-5,,HR,,Bangalore,3,0,no
+U1318,-5,N/A,Finance,invalid,Delhi,excellent,,True
+,45,N/A,HR,,,2,five,False
+,30,78000,,2020/12/01,Mumbai,excellent,5,no
+U1321,60,₹50000,HR,15/02/2021,Bangalore,4,,True
+,unknown,120000.75,Finance,invalid,mumbai,1,0,no
+,-5,,Finance,,mumbai,3,five,False
+,25,120000.75,IT,2020/12/01,Bangalore,3,5,
+,60,25000,IT,15/02/2021,Hyderabad,4,3,no
+user_326,18,N/A,HR,2020/12/01,Delhi,4,five,no
+,60,45000,Finance,invalid,Bangalore,poor,5,True
+,-5,₹50000,Sales,,mumbai,5,5,
+user_329,60,₹50000,,2022-01-15,DELHI,,,
+,unknown,25000,HR,invalid,Delhi,4,5,yes
+,45,N/A,it ,invalid,Delhi,4,-1,
+U1332,,78000,HR,15/02/2021,Hyderabad,3,0,True
+U1333,60,120000.75,Sales,2020/12/01,Hyderabad,poor,0,
+,60,120000.75,Finance,15/02/2021,Bangalore,poor,-1,no
+user_335,-5,120000.75,HR,2020/12/01,Mumbai,excellent,5,no
+U1336,60,120000.75,HR,invalid,Delhi,2,0,
+user_337,25,45000,HR,invalid,Delhi,3,10,False
+,45,120000.75,,2020/12/01,Delhi,5,-1,True
+,60,,Sales,15/02/2021,,,3,False
+,,25000,HR,invalid,Bangalore,5,5,no
+user_341,-5,25000,Sales,15/02/2021,mumbai,4,5,yes
+user_342,60,N/A,Sales,15/02/2021,Delhi,poor,-1,yes
+,unknown,,IT,15/02/2021,Bangalore,3,5,False
+U1344,-5,₹50000,IT,invalid,Mumbai,1,10,False
+,200,N/A,it ,invalid,,5,five,
+user_346,200,25000,HR,,DELHI,2,1,
+U1347,30,120000.75,HR,15/02/2021,,,0,no
+U1348,45,25000,,15/02/2021,Hyderabad,poor,1,
+user_349,200,N/A,Finance,2020/12/01,mumbai,1,five,yes
+U1350,60,N/A,HR,15/02/2021,DELHI,4,10,no
+,45,120000.75,Sales,2020/12/01,Delhi,poor,10,yes
+,18,₹50000,,15/02/2021,Mumbai,poor,five,
+U1353,,₹50000,Finance,,Hyderabad,4,3,True
+,60,78000,HR,2020/12/01,DELHI,,-1,no
+,60,,Finance,,Mumbai,2,0,no
+,unknown,78000,HR,,,3,5,
+user_357,,N/A,HR,2020/12/01,mumbai,2,-1,yes
+U1358,45,N/A,,2020/12/01,Mumbai,2,1,no
+U1359,unknown,,Sales,invalid,Bangalore,excellent,-1,no
+U1360,18,78000,Finance,,,2,10,no
+user_361,-5,₹50000,Finance,2020/12/01,Hyderabad,3,0,yes
+,-5,45000,HR,2022-01-15,Delhi,3,five,False
+U1363,60,25000,Finance,15/02/2021,DELHI,3,-1,yes
+U1364,200,₹50000,Finance,15/02/2021,,poor,10,True
+,25,₹50000,HR,2022-01-15,,poor,0,yes
+,,₹50000,Sales,,DELHI,4,10,no
+user_367,unknown,120000.75,HR,,Hyderabad,4,-1,True
+user_368,,25000,it ,invalid,DELHI,5,1,yes
+user_369,,,Sales,,,,5,no
+user_370,18,25000,Finance,2020/12/01,,1,-1,no
+U1371,45,N/A,HR,invalid,,,3,True
+U1372,,,it ,2020/12/01,Mumbai,5,five,True
+,45,45000,Finance,15/02/2021,Mumbai,,10,False
+,45,,IT,,Hyderabad,5,5,
+user_375,200,25000,HR,invalid,Bangalore,,five,
+user_376,200,25000,Sales,15/02/2021,Bangalore,5,five,
+U1377,45,45000,it ,2022-01-15,DELHI,2,5,
+user_378,18,78000,Sales,,DELHI,1,,False
+,25,25000,HR,15/02/2021,mumbai,4,,yes
+user_380,25,N/A,it ,15/02/2021,,2,-1,no
+,45,₹50000,HR,,Mumbai,2,0,False
+user_382,200,25000,it ,,Delhi,3,3,no
+user_383,30,,Sales,invalid,mumbai,3,five,yes
+,60,120000.75,,2020/12/01,Delhi,poor,0,True
+user_385,45,N/A,Sales,,,poor,5,True
+,200,N/A,HR,2020/12/01,mumbai,,five,True
+,unknown,₹50000,HR,2020/12/01,Hyderabad,3,five,
+user_388,25,78000,,15/02/2021,Hyderabad,,0,False
+U1389,,N/A,IT,15/02/2021,Hyderabad,5,3,False
+,200,45000,,2020/12/01,DELHI,2,0,True
+,60,₹50000,Finance,2020/12/01,Delhi,,0,yes
+user_392,25,45000,Sales,15/02/2021,Delhi,2,0,no
+,18,₹50000,IT,,Bangalore,poor,-1,
+user_394,45,N/A,,,,4,5,yes
+user_395,60,45000,HR,,Bangalore,excellent,,no
+U1396,-5,120000.75,HR,,,poor,0,True
+,60,45000,HR,15/02/2021,mumbai,excellent,,
+,25,N/A,Sales,2020/12/01,,2,5,no
+U1399,60,45000,it ,invalid,,,3,
+,200,78000,HR,invalid,DELHI,3,5,no
+,-5,45000,HR,2020/12/01,mumbai,excellent,5,no
+U1402,200,₹50000,it ,,Mumbai,4,5,False
+,,N/A,Finance,2020/12/01,,4,5,False
+U1404,60,,Sales,2020/12/01,Mumbai,3,10,False
+,-5,120000.75,HR,invalid,DELHI,5,,no
+U1406,30,120000.75,HR,2020/12/01,Hyderabad,excellent,10,False
+,200,45000,it ,2020/12/01,,2,five,True
+,unknown,45000,it ,15/02/2021,Bangalore,excellent,1,True
+,25,₹50000,IT,2020/12/01,Hyderabad,1,-1,yes
+,30,25000,,invalid,Hyderabad,4,-1,False
+,200,N/A,it ,15/02/2021,mumbai,2,1,yes
+,30,25000,Finance,15/02/2021,mumbai,4,0,yes
+,25,78000,IT,2020/12/01,Mumbai,1,-1,yes
+U1414,-5,,Finance,2020/12/01,,3,,False
+,25,₹50000,HR,2020/12/01,Mumbai,excellent,5,yes
+,60,120000.75,HR,15/02/2021,mumbai,poor,-1,yes
+user_417,,45000,,,mumbai,4,1,True
+,30,45000,HR,2020/12/01,Hyderabad,5,1,True
+,18,N/A,IT,,,3,5,no
+,25,45000,HR,15/02/2021,,poor,,yes
+U1421,60,N/A,IT,,Delhi,4,five,False
+user_422,18,,it ,15/02/2021,,excellent,10,True
+U1423,30,120000.75,Finance,,Delhi,5,1,
+,-5,N/A,HR,,Mumbai,5,1,
+,200,45000,IT,2022-01-15,Mumbai,excellent,3,yes
+,25,₹50000,it ,,Bangalore,1,1,False
+,200,45000,Sales,2022-01-15,DELHI,excellent,3,no
+U1428,200,78000,it ,,Mumbai,2,3,
+,25,,Finance,15/02/2021,Hyderabad,5,five,False
+,60,₹50000,HR,,,,five,True
+,,N/A,Sales,,,3,3,False
+,,N/A,Sales,2022-01-15,DELHI,poor,-1,
+,unknown,120000.75,it ,2022-01-15,mumbai,1,,True
+user_434,45,N/A,HR,15/02/2021,mumbai,4,,
+,,45000,HR,2020/12/01,mumbai,2,,yes
+user_436,-5,45000,,,Delhi,4,0,False
+U1437,25,₹50000,Sales,2020/12/01,Bangalore,,5,True
+U1438,18,N/A,HR,15/02/2021,,1,3,yes
+U1439,unknown,N/A,IT,,Bangalore,3,-1,
+U1440,200,120000.75,Sales,2022-01-15,Hyderabad,5,1,True
+user_441,,,IT,invalid,mumbai,3,five,
+,,45000,it ,2022-01-15,,4,10,no
+,18,₹50000,HR,,Bangalore,2,,yes
+,60,78000,HR,2022-01-15,Mumbai,3,-1,yes
+,45,78000,HR,2022-01-15,Bangalore,,5,
+,18,25000,it ,invalid,mumbai,2,-1,True
+user_447,60,N/A,HR,2022-01-15,,2,3,False
+user_448,-5,45000,Finance,invalid,DELHI,1,5,
+,-5,78000,,2020/12/01,Mumbai,excellent,5,yes
+,200,₹50000,Sales,2022-01-15,Hyderabad,2,-1,
+,25,₹50000,HR,,Mumbai,3,-1,yes
+user_452,60,N/A,it ,invalid,Bangalore,1,5,False
+,18,₹50000,HR,15/02/2021,mumbai,1,0,True
+,60,25000,HR,,DELHI,5,10,
+,,45000,Sales,invalid,DELHI,,0,
+,-5,45000,HR,invalid,Delhi,1,-1,True
+,45,120000.75,Sales,2022-01-15,Bangalore,poor,five,yes
+,200,,HR,15/02/2021,,5,0,yes
+U1459,200,N/A,Finance,2022-01-15,Delhi,1,5,True
+,18,78000,Finance,2022-01-15,mumbai,poor,,False
+user_461,45,N/A,it ,2020/12/01,,2,0,
+U1462,200,N/A,IT,15/02/2021,Mumbai,2,five,True
+,30,78000,HR,2020/12/01,Bangalore,excellent,1,
+,200,25000,it ,2020/12/01,,3,0,no
+,30,₹50000,Sales,invalid,,poor,,yes
+U1466,-5,,IT,15/02/2021,Mumbai,3,3,yes
+,unknown,,IT,2022-01-15,DELHI,3,10,yes
+U1468,60,N/A,HR,,,1,10,False
+user_469,200,78000,Sales,2022-01-15,Hyderabad,,10,yes
+user_470,-5,45000,IT,,Bangalore,5,0,yes
+,-5,,Sales,15/02/2021,Bangalore,,5,False
+,18,₹50000,HR,2020/12/01,mumbai,4,5,
+,18,45000,Sales,2020/12/01,Bangalore,4,5,
+,25,45000,,2020/12/01,mumbai,4,5,True
+,,₹50000,,15/02/2021,Hyderabad,4,five,yes
+,18,120000.75,it ,,mumbai,3,10,yes
+U1477,60,78000,Sales,invalid,Bangalore,5,3,False
+,60,,IT,2020/12/01,Bangalore,poor,,True
+user_479,30,45000,HR,invalid,Bangalore,poor,0,no
+user_480,,N/A,it ,2020/12/01,Mumbai,3,,True
+U1481,25,120000.75,,2022-01-15,Delhi,excellent,3,no
+,60,N/A,IT,invalid,,3,five,False
+U1483,-5,N/A,Sales,2022-01-15,DELHI,4,five,
+U1484,45,,,15/02/2021,Mumbai,3,,False
+U1485,200,N/A,HR,2020/12/01,,,10,
+U1486,60,₹50000,Finance,15/02/2021,Bangalore,,10,yes
+,25,₹50000,IT,2022-01-15,mumbai,1,,False
+,45,78000,,2022-01-15,,1,1,
+,45,120000.75,Sales,invalid,mumbai,3,,False
+user_490,-5,78000,it ,2020/12/01,Bangalore,3,five,True
+,200,N/A,HR,2020/12/01,mumbai,poor,0,True
+,30,N/A,Sales,15/02/2021,Bangalore,poor,1,
+user_493,-5,N/A,it ,15/02/2021,Delhi,,10,
+,30,45000,HR,2022-01-15,,excellent,five,no
+U1495,18,45000,Finance,2022-01-15,,1,five,True
+,200,45000,Sales,15/02/2021,Delhi,2,3,False
+user_497,-5,78000,Finance,2022-01-15,mumbai,5,1,no
+U1498,unknown,25000,Finance,2022-01-15,Delhi,4,five,yes
+user_499,,78000,Finance,15/02/2021,Mumbai,1,1,False
+user_500,25,78000,HR,invalid,Bangalore,,3,
+user_501,unknown,25000,it ,2022-01-15,Delhi,poor,1,True
+,unknown,45000,IT,2022-01-15,DELHI,1,10,True
+,,,it ,2020/12/01,mumbai,2,-1,
+U1504,18,78000,Finance,invalid,mumbai,4,-1,False
+,60,,HR,,Mumbai,5,-1,no
+,45,45000,HR,invalid,DELHI,3,five,no
+U1507,18,45000,HR,invalid,Hyderabad,excellent,,yes
+U1508,unknown,78000,IT,2022-01-15,DELHI,5,five,False
+user_509,200,78000,HR,15/02/2021,DELHI,2,,
+user_510,unknown,78000,Finance,2022-01-15,Bangalore,poor,five,no
+user_511,200,₹50000,IT,2022-01-15,,4,1,False
+,45,,it ,invalid,mumbai,3,0,True
+user_513,60,120000.75,it ,2022-01-15,Hyderabad,poor,5,yes
+,-5,,HR,invalid,DELHI,3,10,no
+,25,78000,Finance,2022-01-15,mumbai,5,0,False
+U1516,unknown,45000,IT,,mumbai,5,1,
+,25,,Finance,invalid,DELHI,,-1,True
+U1518,18,N/A,Finance,invalid,,3,5,False
+U1519,60,25000,HR,,,excellent,10,True
+,60,₹50000,it ,,,1,-1,
+user_521,unknown,25000,IT,,Bangalore,5,,
+,18,45000,Finance,2020/12/01,mumbai,poor,,no
+,18,,HR,invalid,mumbai,5,-1,False
+,200,N/A,it ,2020/12/01,Delhi,1,five,True
+user_525,200,78000,IT,invalid,Hyderabad,5,1,no
+,25,25000,IT,2022-01-15,Delhi,,0,True
+,unknown,₹50000,IT,15/02/2021,Bangalore,poor,10,yes
+U1528,30,₹50000,it ,invalid,Bangalore,2,0,
+,45,N/A,,2022-01-15,mumbai,2,10,no
+user_530,18,₹50000,HR,2020/12/01,Mumbai,4,-1,False
+U1531,-5,,Finance,2020/12/01,Mumbai,5,five,yes
+,18,45000,it ,15/02/2021,DELHI,3,3,
+,-5,78000,it ,,mumbai,1,,False
+,unknown,N/A,Finance,,Hyderabad,,1,
+U1535,18,N/A,HR,invalid,DELHI,1,0,True
+U1536,-5,45000,IT,2020/12/01,Mumbai,excellent,3,True
+,25,25000,HR,2020/12/01,DELHI,3,1,True
+user_538,30,N/A,HR,15/02/2021,Delhi,1,1,
+,-5,45000,Sales,15/02/2021,Bangalore,1,0,yes
+U1540,30,78000,Sales,,Delhi,5,10,True
+,-5,45000,Finance,2020/12/01,Bangalore,excellent,10,no
+U1542,-5,25000,HR,invalid,mumbai,poor,5,True
+,45,,,15/02/2021,mumbai,4,3,
+,30,N/A,HR,invalid,Delhi,excellent,-1,False
+,,78000,,,Delhi,2,5,
+user_546,25,N/A,Sales,,mumbai,4,1,
+U1547,200,45000,HR,invalid,Delhi,1,,True
+,unknown,₹50000,HR,15/02/2021,Mumbai,5,10,no
+,18,45000,HR,invalid,DELHI,poor,-1,False
+user_550,25,₹50000,HR,invalid,Mumbai,4,,
+U1551,,25000,HR,2020/12/01,,1,1,False
+,60,45000,,invalid,DELHI,poor,10,no
+user_553,25,78000,HR,15/02/2021,Mumbai,5,3,
+user_554,-5,78000,Finance,,mumbai,4,10,no
+U1555,-5,,HR,,mumbai,1,5,False
+,45,N/A,HR,15/02/2021,DELHI,,5,no
+user_557,60,120000.75,HR,2020/12/01,mumbai,4,five,True
+U1558,200,120000.75,it ,2022-01-15,Mumbai,3,0,False
+user_559,18,₹50000,Sales,invalid,,1,0,False
+,45,45000,Sales,invalid,Delhi,4,3,
+,25,45000,it ,,,5,,
+,,25000,it ,,Delhi,5,0,
+,,25000,HR,,DELHI,,1,no
+user_564,18,₹50000,Finance,2022-01-15,mumbai,4,-1,no
+,18,25000,it ,invalid,,3,3,yes
+,18,25000,it ,invalid,Mumbai,,-1,no
+U1567,25,N/A,HR,2020/12/01,Bangalore,5,1,no
+user_568,200,45000,IT,2022-01-15,Bangalore,3,-1,no
+,18,,it ,2022-01-15,mumbai,1,,False
+user_570,,N/A,,invalid,mumbai,poor,five,True
+user_571,,78000,it ,2022-01-15,Bangalore,poor,3,True
+,unknown,,HR,invalid,Delhi,5,-1,False
+user_573,,120000.75,Sales,2020/12/01,Bangalore,5,-1,False
+user_574,,25000,HR,2020/12/01,DELHI,5,five,True
+user_575,,45000,IT,15/02/2021,Delhi,,five,
+,60,N/A,HR,,Delhi,poor,10,False
+U1577,,25000,HR,invalid,,4,3,False
+U1578,60,25000,HR,invalid,DELHI,excellent,1,yes
+user_579,45,78000,HR,15/02/2021,DELHI,1,-1,
+,unknown,120000.75,HR,15/02/2021,Hyderabad,2,-1,True
+,200,120000.75,IT,2022-01-15,Bangalore,excellent,1,
+,25,N/A,Finance,invalid,mumbai,poor,10,no
+,18,78000,,invalid,Bangalore,3,5,False
+,-5,78000,,,,2,3,no
+,200,78000,HR,2022-01-15,Delhi,5,10,no
+user_586,25,78000,it ,2020/12/01,Mumbai,1,3,no
+U1587,-5,,IT,2020/12/01,Mumbai,poor,-1,True
+,unknown,₹50000,IT,2022-01-15,,5,-1,True
+U1589,30,,it ,2022-01-15,Mumbai,2,,no
+user_590,30,,it ,15/02/2021,Mumbai,5,5,
+,,78000,it ,15/02/2021,DELHI,,,
+user_592,60,,HR,invalid,mumbai,5,3,no
+,18,45000,HR,,Delhi,3,five,True
+user_594,45,,Finance,,Mumbai,5,five,False
+,25,78000,Finance,15/02/2021,mumbai,4,five,yes
+user_596,unknown,₹50000,HR,2020/12/01,Delhi,5,5,
+user_597,-5,45000,,,,poor,1,yes
+,45,45000,HR,15/02/2021,Mumbai,poor,10,yes
+,30,,IT,2022-01-15,Bangalore,excellent,-1,yes
+U1600,200,N/A,,2020/12/01,Delhi,3,five,yes
+U1601,30,120000.75,Finance,,,excellent,,no
+,45,₹50000,Sales,invalid,Bangalore,4,5,yes
+user_603,200,N/A,IT,2022-01-15,Bangalore,2,-1,
+user_604,45,78000,HR,2020/12/01,Bangalore,2,,True
+,,,Sales,2020/12/01,DELHI,3,5,False
+,30,,HR,,Bangalore,4,,yes
+user_607,-5,,Finance,invalid,mumbai,1,5,False
+,unknown,N/A,,2020/12/01,Hyderabad,1,10,False
+,18,25000,it ,2022-01-15,mumbai,4,0,no
+user_610,18,N/A,HR,2022-01-15,Delhi,4,0,False
+U1611,30,45000,Sales,2022-01-15,mumbai,1,,False
+,200,N/A,HR,,Hyderabad,2,5,no
+,200,N/A,IT,invalid,Hyderabad,3,3,
+,30,45000,IT,2022-01-15,,3,-1,False
+U1615,unknown,120000.75,,2020/12/01,,4,,no
+,-5,N/A,IT,2020/12/01,Mumbai,excellent,10,True
+U1617,unknown,78000,it ,2022-01-15,Bangalore,poor,5,False
+user_618,25,120000.75,Finance,2022-01-15,,5,0,True
+,60,120000.75,it ,2022-01-15,Hyderabad,3,0,False
+U1620,,78000,,2022-01-15,Hyderabad,5,10,
+user_621,unknown,₹50000,IT,,Mumbai,1,5,False
+user_622,18,78000,Finance,2020/12/01,Hyderabad,,-1,False
+,18,₹50000,Finance,invalid,Mumbai,2,five,yes
+U1624,18,45000,,,Bangalore,3,10,no
+U1625,unknown,N/A,it ,2020/12/01,Mumbai,,five,
+,,45000,HR,,,poor,1,True
+,,N/A,IT,2022-01-15,DELHI,4,-1,yes
+,-5,,HR,15/02/2021,Mumbai,,0,False
+,18,,HR,2020/12/01,Bangalore,2,,False
+user_630,-5,78000,HR,,DELHI,,5,no
+,,45000,IT,,Mumbai,2,1,yes
+U1632,25,78000,HR,invalid,Hyderabad,5,10,False
+U1633,30,120000.75,it ,2020/12/01,DELHI,2,-1,False
+,-5,78000,HR,15/02/2021,,2,,no
+user_635,45,₹50000,it ,2020/12/01,mumbai,5,3,True
+,200,45000,it ,2022-01-15,Mumbai,3,1,
+user_637,,120000.75,Sales,2020/12/01,mumbai,3,,no
+user_638,30,45000,HR,,DELHI,3,,no
+,30,45000,IT,15/02/2021,Bangalore,5,0,True
+,18,120000.75,Sales,2022-01-15,Delhi,poor,-1,False
+U1641,unknown,25000,IT,2022-01-15,DELHI,excellent,10,False
+,18,78000,IT,2020/12/01,Mumbai,5,-1,yes
+U1643,30,₹50000,it ,,Delhi,5,-1,False
+U1644,,45000,,invalid,DELHI,,-1,yes
+user_645,25,,IT,2020/12/01,Delhi,poor,0,
+user_646,18,78000,IT,2020/12/01,Hyderabad,poor,0,no
+user_647,200,25000,IT,15/02/2021,Hyderabad,4,5,False
+,18,25000,it ,2020/12/01,Delhi,4,3,True
+U1649,200,120000.75,HR,15/02/2021,Delhi,4,-1,
+U1650,,45000,HR,2022-01-15,,poor,1,no
+U1651,60,45000,HR,15/02/2021,DELHI,1,,False
+,25,120000.75,Finance,2022-01-15,Delhi,,five,
+,45,120000.75,IT,2020/12/01,Delhi,poor,1,True
+user_654,30,N/A,HR,,mumbai,,-1,True
+user_655,18,120000.75,Sales,2020/12/01,Delhi,excellent,-1,yes
+,200,N/A,,2020/12/01,mumbai,1,five,True
+,60,120000.75,HR,2022-01-15,DELHI,excellent,five,yes
+U1658,200,N/A,IT,invalid,Hyderabad,poor,-1,
+user_659,,120000.75,Sales,invalid,mumbai,5,10,
+U1660,30,,it ,2020/12/01,Delhi,excellent,five,False
+U1661,,78000,Sales,,mumbai,5,,True
+U1662,,N/A,,invalid,mumbai,excellent,,no
+,45,78000,HR,2020/12/01,,1,,no
+,60,N/A,HR,,Mumbai,poor,1,no
+,200,,Finance,invalid,Hyderabad,3,5,False
+U1666,45,N/A,Sales,invalid,Delhi,poor,3,yes
+,,,,15/02/2021,,3,1,
+user_668,18,120000.75,IT,,Bangalore,5,3,no
+,18,25000,,,Mumbai,1,0,
+,-5,25000,HR,invalid,Delhi,poor,-1,False
+,30,,Finance,15/02/2021,Delhi,1,5,False
+user_672,,78000,it ,15/02/2021,,4,five,False
+,45,120000.75,Sales,invalid,Delhi,poor,,True
+user_674,200,₹50000,Finance,,Hyderabad,5,-1,no
+user_675,30,₹50000,HR,15/02/2021,Delhi,5,,False
+U1676,-5,25000,Finance,2022-01-15,Mumbai,,five,False
+,-5,N/A,IT,invalid,,,0,False
+U1678,30,45000,,,Mumbai,5,3,no
+user_679,18,78000,HR,2020/12/01,,3,-1,False
+user_680,unknown,25000,HR,invalid,Hyderabad,,3,no
+,unknown,120000.75,Finance,2022-01-15,DELHI,3,-1,no
+,18,,Sales,,Bangalore,4,1,
+U1683,-5,N/A,Sales,2022-01-15,mumbai,4,1,yes
+U1684,,120000.75,IT,2020/12/01,Mumbai,excellent,5,True
+user_685,30,120000.75,HR,invalid,mumbai,1,1,
+U1686,unknown,120000.75,HR,invalid,Bangalore,1,,yes
+U1687,60,78000,Finance,15/02/2021,Mumbai,,five,no
+,-5,45000,it ,invalid,Bangalore,2,10,no
+,60,120000.75,Sales,,,5,5,yes
+user_690,200,25000,it ,15/02/2021,Bangalore,poor,0,
+,45,120000.75,HR,2020/12/01,DELHI,poor,3,no
+,18,25000,,15/02/2021,Delhi,,five,True
+user_693,,45000,IT,2020/12/01,Hyderabad,,3,
+user_694,,,Sales,2020/12/01,Mumbai,2,-1,no
+U1695,25,,HR,invalid,DELHI,3,3,True
+,200,120000.75,HR,invalid,Bangalore,1,0,True
+,,45000,,15/02/2021,Hyderabad,2,3,yes
+,45,N/A,it ,invalid,DELHI,3,-1,
+,25,₹50000,Sales,2022-01-15,mumbai,4,0,no
+,45,120000.75,it ,2020/12/01,,4,3,no
+user_701,,,IT,2022-01-15,Delhi,4,five,yes
+,200,78000,HR,2022-01-15,DELHI,1,3,
+U1703,30,45000,IT,15/02/2021,Hyderabad,1,1,True
+,200,25000,HR,,Hyderabad,poor,3,
+,45,,Sales,2020/12/01,,,10,
+U1706,18,78000,HR,15/02/2021,,,10,
+,unknown,120000.75,Finance,2020/12/01,Mumbai,3,-1,False
+U1708,unknown,78000,HR,2020/12/01,DELHI,3,five,yes
+user_709,,120000.75,,15/02/2021,DELHI,2,1,False
+,25,,,2022-01-15,Mumbai,excellent,five,False
+,60,,IT,15/02/2021,DELHI,poor,10,yes
+user_712,45,78000,it ,2020/12/01,DELHI,poor,,False
+,200,45000,it ,2022-01-15,,,10,no
+user_714,30,,it ,,mumbai,4,3,yes
+,-5,₹50000,IT,2022-01-15,Mumbai,poor,0,True
+user_716,60,N/A,,2020/12/01,,3,,no
+,-5,120000.75,HR,,Hyderabad,,5,no
+,30,₹50000,HR,15/02/2021,Mumbai,poor,five,True
+user_719,-5,₹50000,Finance,invalid,,,1,False
+,25,₹50000,,invalid,Mumbai,4,3,
+,60,78000,Finance,invalid,,poor,0,
+,18,25000,Sales,invalid,mumbai,excellent,1,
+,,45000,IT,invalid,Mumbai,2,0,yes
+,200,120000.75,IT,,mumbai,4,0,False
+user_725,18,₹50000,IT,,Hyderabad,4,1,no
+user_726,45,78000,HR,,DELHI,3,0,
+U1727,,78000,Finance,invalid,Delhi,4,3,
+,unknown,45000,,2022-01-15,Mumbai,5,1,True
+U1729,45,120000.75,Finance,,Bangalore,2,five,True
+,,,,15/02/2021,mumbai,4,10,True
+,,₹50000,HR,,,4,1,True
+,unknown,,HR,2022-01-15,Hyderabad,,,
+,200,120000.75,,2022-01-15,Bangalore,excellent,10,no
+U1734,,₹50000,,15/02/2021,Bangalore,1,,no
+,30,25000,it ,2020/12/01,Delhi,5,0,yes
+user_736,-5,45000,Finance,invalid,Hyderabad,5,1,no
+,45,N/A,HR,2020/12/01,Mumbai,2,-1,no
+,30,25000,HR,15/02/2021,,5,3,
+user_739,60,25000,,2020/12/01,Delhi,4,five,False
+U1740,60,120000.75,HR,15/02/2021,DELHI,excellent,-1,False
+,60,N/A,HR,2022-01-15,DELHI,4,3,False
+,60,₹50000,Sales,2022-01-15,Bangalore,2,5,
+,18,45000,Sales,15/02/2021,Bangalore,4,,no
+,,120000.75,Finance,,Mumbai,3,,True
+U1745,200,78000,HR,,Hyderabad,4,-1,yes
+,25,25000,HR,2020/12/01,,,1,no
+user_747,unknown,45000,HR,2022-01-15,Delhi,5,10,
+U1748,-5,₹50000,IT,,Bangalore,4,-1,False
+,25,₹50000,,2020/12/01,DELHI,poor,10,False
+user_750,unknown,₹50000,HR,2020/12/01,Bangalore,4,3,False
+,18,,Sales,2022-01-15,Delhi,excellent,0,False
+user_752,60,120000.75,HR,2022-01-15,Hyderabad,5,5,
+,18,N/A,Sales,2022-01-15,Delhi,4,3,yes
+U1754,,78000,Sales,15/02/2021,Bangalore,2,five,no
+U1755,200,120000.75,,15/02/2021,DELHI,5,1,yes
+U1756,25,120000.75,HR,invalid,mumbai,excellent,3,yes
+,-5,,it ,2020/12/01,Bangalore,poor,five,yes
+,unknown,,,,,2,5,True
+U1759,25,₹50000,HR,2022-01-15,Bangalore,poor,,False
+,200,,HR,15/02/2021,Bangalore,5,five,yes
+,30,,Finance,15/02/2021,mumbai,4,5,True
+user_762,,N/A,HR,15/02/2021,Hyderabad,poor,3,no
+user_763,45,78000,HR,2022-01-15,mumbai,poor,five,False
+user_764,,,IT,,,2,5,no
+U1765,25,120000.75,it ,,Mumbai,1,10,yes
+,,78000,IT,invalid,Delhi,1,five,
+user_767,45,N/A,,2020/12/01,Delhi,excellent,-1,yes
+user_768,60,120000.75,HR,2020/12/01,Hyderabad,,,yes
+,,,HR,2022-01-15,Hyderabad,4,0,False
+U1770,200,78000,it ,2022-01-15,Bangalore,,five,True
+,-5,120000.75,HR,,Mumbai,5,3,False
+,60,120000.75,IT,2020/12/01,mumbai,3,10,yes
+,unknown,,HR,invalid,Mumbai,4,10,no
+,45,N/A,Finance,2022-01-15,Hyderabad,4,0,yes
+user_775,18,₹50000,IT,invalid,Mumbai,4,3,
+U1776,30,25000,Sales,15/02/2021,,poor,10,True
+,-5,,Finance,invalid,mumbai,3,5,yes
+user_778,200,,HR,,,3,five,yes
+,200,,HR,,Delhi,3,3,False
+user_780,30,45000,it ,2020/12/01,mumbai,1,5,True
+,200,₹50000,it ,2022-01-15,Bangalore,1,10,yes
+U1782,30,78000,HR,invalid,Hyderabad,4,-1,False
+,25,₹50000,HR,,Hyderabad,excellent,-1,True
+,unknown,,IT,,DELHI,3,3,yes
+,unknown,45000,,,Bangalore,excellent,-1,False
+U1786,30,₹50000,HR,2022-01-15,mumbai,5,3,yes
+,unknown,,Finance,invalid,Bangalore,excellent,1,no
+user_788,18,25000,HR,2020/12/01,Hyderabad,2,10,no
+U1789,25,₹50000,IT,,DELHI,,-1,yes
+U1790,,,HR,invalid,mumbai,excellent,1,no
+U1791,200,120000.75,it ,2022-01-15,Hyderabad,4,10,no
+user_792,25,120000.75,IT,invalid,Mumbai,,3,
+,200,N/A,Finance,,Delhi,3,3,yes
+,45,120000.75,HR,,,,five,False
+U1795,18,120000.75,it ,2020/12/01,Bangalore,3,1,True
+U1796,200,25000,Sales,,Hyderabad,excellent,five,False
+U1797,-5,₹50000,HR,invalid,mumbai,excellent,0,no
+,45,25000,,,Bangalore,excellent,1,False
+,200,,,,Mumbai,4,0,no
+U1800,-5,25000,Finance,,,,1,False
+U1801,60,₹50000,Sales,,Mumbai,5,1,
+U1802,-5,78000,IT,,Mumbai,3,1,True
+,200,78000,Sales,2020/12/01,,excellent,five,
+user_804,25,78000,,2020/12/01,mumbai,4,,False
+,200,,HR,15/02/2021,Delhi,4,,False
+,25,120000.75,,2020/12/01,Bangalore,5,-1,False
+,18,₹50000,HR,,Bangalore,5,5,no
+,200,N/A,it ,15/02/2021,,2,five,True
+,25,,it ,,Mumbai,2,0,yes
+user_810,60,,IT,,Bangalore,1,,
+user_811,60,,Sales,2020/12/01,,3,10,no
+,,N/A,HR,invalid,mumbai,4,3,True
+,-5,₹50000,Finance,2020/12/01,DELHI,5,5,no
+user_814,-5,78000,Sales,15/02/2021,DELHI,excellent,five,False
+,18,,,,Hyderabad,poor,0,yes
+U1816,200,120000.75,HR,,Delhi,excellent,5,yes
+user_817,18,45000,HR,invalid,Delhi,5,0,no
+,200,,,,mumbai,4,10,False
+,,,IT,15/02/2021,Bangalore,5,1,False
+,unknown,₹50000,IT,15/02/2021,DELHI,3,3,yes
+,45,25000,HR,15/02/2021,Delhi,3,,no
+,60,,Finance,,mumbai,3,3,no
+user_823,-5,45000,Finance,invalid,Hyderabad,excellent,0,True
+U1824,18,25000,IT,invalid,Hyderabad,1,10,False
+U1825,-5,45000,HR,invalid,Mumbai,excellent,,True
+user_826,unknown,78000,,,,5,3,yes
+user_827,25,N/A,,2022-01-15,Delhi,1,3,False
+U1828,18,25000,IT,2020/12/01,Hyderabad,1,3,no
+,,45000,HR,2020/12/01,mumbai,2,1,True
+,60,45000,IT,invalid,Delhi,,5,False
+U1831,18,25000,Finance,15/02/2021,Bangalore,4,5,False
+U1832,unknown,25000,,invalid,Mumbai,3,,
+,unknown,,,,Delhi,3,10,no
+,45,,,2022-01-15,Mumbai,2,0,True
+,unknown,,Sales,invalid,DELHI,2,,True
+,unknown,78000,HR,2022-01-15,Mumbai,2,10,False
+U1837,200,N/A,it ,15/02/2021,Hyderabad,poor,-1,True
+,unknown,45000,it ,invalid,Mumbai,excellent,5,no
+U1839,30,N/A,Finance,2020/12/01,,poor,five,True
+,unknown,78000,IT,invalid,Delhi,5,10,
+,45,,,invalid,,4,-1,no
+,25,45000,Sales,2022-01-15,Delhi,excellent,-1,yes
+U1843,45,78000,HR,15/02/2021,Bangalore,excellent,1,False
+U1844,25,₹50000,Finance,2020/12/01,Bangalore,5,-1,False
+,,78000,HR,invalid,Delhi,1,,yes
+,60,,it ,2020/12/01,,4,1,no
+,45,N/A,it ,2020/12/01,Mumbai,2,five,False
+,-5,45000,it ,15/02/2021,Delhi,4,0,True
+U1849,unknown,120000.75,HR,2022-01-15,Mumbai,4,0,True
+,25,,,2020/12/01,Mumbai,2,-1,
+user_851,18,45000,Finance,15/02/2021,,excellent,1,
+user_852,45,N/A,,,DELHI,4,0,True
+,unknown,78000,HR,,,,5,yes
+U1854,45,N/A,,,mumbai,excellent,5,
+U1855,45,25000,it ,2020/12/01,Hyderabad,2,1,no
+user_856,30,78000,,,Mumbai,2,5,
+,45,N/A,Sales,,mumbai,1,1,False
+U1858,-5,,Sales,15/02/2021,Delhi,5,five,
+user_859,60,₹50000,IT,2022-01-15,Bangalore,poor,five,True
+user_860,25,N/A,HR,invalid,mumbai,3,0,False
+,25,₹50000,Sales,2020/12/01,Mumbai,5,1,False
+,25,,HR,,Hyderabad,1,5,no
+user_863,unknown,45000,HR,,Hyderabad,poor,five,yes
+,30,,Finance,invalid,DELHI,3,1,
+,25,₹50000,,2020/12/01,Delhi,,3,no
+user_866,30,45000,Finance,2020/12/01,,1,3,no
+U1867,60,78000,IT,2020/12/01,DELHI,poor,3,True
+,200,25000,IT,,Delhi,3,10,False
+U1869,,25000,it ,15/02/2021,Hyderabad,3,0,no
+U1870,unknown,120000.75,IT,15/02/2021,Mumbai,1,five,
+U1871,,₹50000,Finance,2020/12/01,Bangalore,poor,,no
+user_872,unknown,45000,HR,15/02/2021,Hyderabad,1,5,yes
+U1873,unknown,N/A,it ,2022-01-15,mumbai,3,1,no
+U1874,30,25000,,15/02/2021,Hyderabad,,10,True
+,60,₹50000,HR,invalid,Delhi,4,5,True
+,,78000,IT,,Mumbai,5,,
+U1877,30,,HR,2022-01-15,Bangalore,3,3,yes
+U1878,60,120000.75,,2020/12/01,Hyderabad,2,,True
+user_879,30,120000.75,Finance,2022-01-15,Hyderabad,,5,no
+,25,₹50000,IT,2022-01-15,DELHI,5,,
+U1881,45,45000,Sales,2020/12/01,Delhi,4,-1,False
+,200,25000,,invalid,Hyderabad,,5,
+,200,N/A,,invalid,,4,10,yes
+U1884,,25000,Sales,,DELHI,excellent,-1,yes
+,18,120000.75,it ,2022-01-15,,5,1,True
+user_886,-5,N/A,Sales,invalid,Delhi,5,0,True
+user_887,45,78000,IT,2022-01-15,,2,1,no
+user_888,45,120000.75,Finance,15/02/2021,,poor,,no
+U1889,45,45000,HR,2020/12/01,Mumbai,1,1,yes
+U1890,25,78000,HR,invalid,DELHI,1,10,True
+U1891,30,78000,HR,15/02/2021,Mumbai,4,five,False
+user_892,unknown,25000,HR,2020/12/01,Delhi,5,3,True
+user_893,18,,HR,invalid,mumbai,excellent,-1,True
+,,78000,,15/02/2021,Delhi,1,5,
+,200,,HR,2022-01-15,Hyderabad,5,1,yes
+U1896,45,₹50000,HR,2020/12/01,mumbai,2,-1,
+,25,,HR,,Bangalore,1,5,no
+,45,78000,Sales,invalid,Delhi,3,10,yes
+U1899,30,25000,Finance,invalid,mumbai,1,1,yes
+U1900,30,45000,Sales,2022-01-15,mumbai,poor,1,no
+user_901,30,78000,it ,invalid,,excellent,1,False
+,45,78000,it ,,Bangalore,excellent,,
+,25,,it ,invalid,Hyderabad,1,5,
+,60,,,invalid,Mumbai,4,-1,
+U1905,30,N/A,Sales,2020/12/01,Hyderabad,poor,five,False
+,200,N/A,Sales,2022-01-15,Hyderabad,,five,True
+user_907,60,120000.75,it ,,Hyderabad,5,,False
+,unknown,N/A,Sales,,Bangalore,4,10,
+U1909,60,25000,IT,,Hyderabad,3,10,False
+user_910,30,78000,it ,2022-01-15,Delhi,3,,False
+,60,,Sales,invalid,Delhi,excellent,,False
+U1912,60,₹50000,Finance,15/02/2021,DELHI,1,,True
+,18,₹50000,HR,15/02/2021,Bangalore,4,3,
+,45,120000.75,,,Mumbai,1,-1,False
+U1915,,120000.75,HR,2022-01-15,Delhi,5,1,False
+U1916,-5,,Sales,,Bangalore,5,0,no
+,-5,120000.75,IT,invalid,,,0,False
+user_918,unknown,120000.75,Finance,15/02/2021,Hyderabad,1,,False
+U1919,60,78000,HR,,Hyderabad,1,5,yes
+,30,₹50000,HR,,mumbai,,3,False
+user_921,30,45000,IT,15/02/2021,Mumbai,2,-1,False
+,60,78000,it ,2022-01-15,Delhi,excellent,10,
+user_923,-5,45000,IT,invalid,Bangalore,5,0,yes
+user_924,25,45000,Sales,invalid,Delhi,4,3,no
+,,25000,Finance,2022-01-15,Delhi,3,0,
+,18,,HR,2020/12/01,Hyderabad,1,five,
+user_927,18,₹50000,,15/02/2021,Hyderabad,1,3,False
+,-5,₹50000,IT,15/02/2021,mumbai,,-1,False
+U1929,200,25000,it ,,mumbai,5,10,False
+user_930,60,78000,Sales,15/02/2021,mumbai,2,10,no
+user_931,18,N/A,,2022-01-15,Mumbai,,3,
+,18,120000.75,it ,2020/12/01,Hyderabad,2,3,
+,45,,HR,2020/12/01,,5,-1,False
+U1934,18,N/A,Finance,2022-01-15,mumbai,1,1,yes
+user_935,45,₹50000,IT,2020/12/01,Delhi,poor,-1,True
+U1936,45,78000,Sales,invalid,mumbai,2,0,yes
+,60,45000,IT,15/02/2021,,4,1,
+U1938,200,120000.75,Finance,2020/12/01,mumbai,excellent,1,yes
+,-5,25000,,15/02/2021,Mumbai,5,-1,True
+user_940,,25000,Finance,15/02/2021,,1,5,
+,45,,Sales,,Delhi,4,10,False
+U1942,unknown,N/A,HR,2022-01-15,,poor,five,no
+,25,,Finance,invalid,Delhi,excellent,-1,False
+,-5,45000,HR,15/02/2021,Bangalore,2,3,no
+,200,120000.75,HR,invalid,DELHI,poor,five,False
+,200,₹50000,HR,15/02/2021,Bangalore,5,3,False
+,60,,,,Hyderabad,1,10,no
+U1948,unknown,N/A,Sales,15/02/2021,Delhi,poor,,no
+,18,,HR,15/02/2021,Hyderabad,excellent,3,False
+,60,,it ,,Hyderabad,2,0,
+,unknown,45000,Finance,invalid,Delhi,4,,False
+user_952,60,25000,HR,2022-01-15,mumbai,poor,five,True
+,200,₹50000,,15/02/2021,Mumbai,poor,-1,False
+U1954,-5,₹50000,Sales,invalid,DELHI,excellent,-1,no
+,25,₹50000,Sales,,Bangalore,1,3,no
+,60,₹50000,HR,,Hyderabad,1,3,no
+U1957,18,25000,HR,,Bangalore,excellent,0,yes
+,25,45000,it ,15/02/2021,Hyderabad,5,,yes
+,-5,45000,,2020/12/01,,excellent,5,
+user_960,18,45000,Finance,,mumbai,5,,True
+,30,N/A,HR,15/02/2021,Delhi,,3,
+,18,,HR,2022-01-15,mumbai,1,five,no
+,60,25000,,invalid,Bangalore,3,,no
+user_964,30,25000,it ,2022-01-15,,1,-1,no
+,60,78000,HR,,Delhi,poor,-1,no
+user_966,-5,₹50000,Sales,invalid,Mumbai,2,3,True
+U1967,45,120000.75,Sales,,Mumbai,excellent,,
+,unknown,25000,it ,15/02/2021,,2,5,
+user_969,-5,N/A,Sales,,DELHI,poor,1,yes
+user_970,unknown,45000,,2020/12/01,Delhi,,5,yes
+,-5,120000.75,HR,,Hyderabad,4,10,
+,25,25000,Sales,2022-01-15,mumbai,3,-1,yes
+,-5,78000,Finance,2022-01-15,DELHI,1,1,False
+U1974,60,45000,Sales,,Delhi,1,0,True
+,60,,,15/02/2021,,excellent,5,False
+user_976,18,120000.75,Finance,invalid,mumbai,poor,3,True
+,,₹50000,HR,2022-01-15,Bangalore,,10,no
+,30,,Sales,invalid,Bangalore,3,3,True
+,-5,45000,it ,,Delhi,5,0,yes
+,25,25000,HR,2020/12/01,Hyderabad,4,five,False
+U1981,-5,78000,,,mumbai,1,,
+user_982,-5,120000.75,HR,2022-01-15,,poor,five,
+user_983,-5,120000.75,Sales,,,3,1,True
+user_984,-5,78000,HR,,,excellent,-1,False
+,60,,HR,15/02/2021,Delhi,poor,five,yes
+,18,N/A,Finance,15/02/2021,,2,-1,False
+,unknown,45000,HR,2020/12/01,mumbai,excellent,3,
+U1988,25,120000.75,HR,2022-01-15,,3,five,True
+user_989,,120000.75,HR,,Bangalore,poor,10,no
+U1990,200,,Sales,15/02/2021,Hyderabad,,-1,False
+U1991,45,,HR,,mumbai,,-1,yes
+,18,,it ,2020/12/01,Mumbai,excellent,3,
+,,N/A,Sales,2022-01-15,,1,5,
+,unknown,120000.75,it ,invalid,Mumbai,poor,-1,True
+,60,₹50000,HR,15/02/2021,DELHI,2,five,
+U1996,,,IT,15/02/2021,Mumbai,,5,no
+user_997,unknown,25000,HR,invalid,Mumbai,3,5,True
+U1998,-5,25000,,15/02/2021,Bangalore,1,0,True
+,30,45000,HR,2022-01-15,Hyderabad,excellent,five,no
