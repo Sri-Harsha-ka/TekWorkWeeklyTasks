@@ -1,0 +1,1001 @@
+Brand,Processor,RAM_GB,Storage_GB,Operating_System,GPU,Rating,Price_USD
+MSI,AMD Ryzen 3,4,512,macOS,AMD Radeon,4.2,1092.04
+Lenovo,Intel i7,32,128,macOS,NVIDIA GTX 1650,3.1,1934.84
+Asus,AMD Ryzen 7,8,256,Windows 10,Integrated,3.6,758.86
+Dell,Intel i7,16,512,Windows 11,AMD Radeon,3.6,1430.88
+MSI,AMD Ryzen 7,8,512,Windows 11,NVIDIA RTX 3050,3.8,1457.77
+Acer,Intel i7,16,128,Windows 10,NVIDIA RTX 3050,3.0,1379.07
+Dell,AMD Ryzen 3,8,256,Windows 11,Integrated,3.0,648.62
+Asus,AMD Ryzen 3,4,1024,macOS,NVIDIA RTX 3050,4.8,1760.82
+Asus,Intel i5,32,1024,Windows 11,NVIDIA GTX 1650,4.0,2169.59
+MSI,Intel i5,8,1024,Windows 11,NVIDIA GTX 1650,4.8,1683.96
+Apple,AMD Ryzen 7,16,1024,Windows 10,NVIDIA GTX 1650,3.7,2258.31
+Acer,Intel i5,4,1024,Windows 10,Integrated,3.6,1315.21
+Acer,Intel i3,4,512,Windows 10,AMD Radeon,3.8,857.32
+Lenovo,Intel i3,16,128,Windows 11,NVIDIA RTX 3050,4.3,1034.4
+Asus,Intel i3,32,1024,Windows 11,Integrated,3.1,1836.22
+Lenovo,AMD Ryzen 3,32,256,macOS,NVIDIA RTX 3050,3.9,1815.08
+Acer,AMD Ryzen 7,16,128,Windows 10,NVIDIA GTX 1650,3.5,1206.28
+Asus,AMD Ryzen 5,16,512,macOS,Integrated,3.6,1584.57
+Asus,AMD Ryzen 7,4,512,macOS,Integrated,4.1,1481.32
+Asus,Intel i5,8,128,Windows 11,Integrated,3.2,814.18
+Asus,AMD Ryzen 3,32,1024,Windows 11,NVIDIA GTX 1650,4.1,2066.55
+Dell,Intel i7,8,128,Windows 10,Integrated,3.6,827.83
+Apple,Intel i7,4,256,Windows 10,Integrated,3.2,1288.77
+Apple,Intel i3,32,128,Windows 11,Integrated,3.5,1589.95
+Asus,AMD Ryzen 7,16,256,macOS,Integrated,3.3,1449.97
+MSI,AMD Ryzen 5,32,128,Windows 10,NVIDIA RTX 3050,4.4,1678.27
+Acer,AMD Ryzen 3,8,1024,Windows 11,AMD Radeon,4.2,1303.13
+Dell,AMD Ryzen 7,32,128,Windows 11,NVIDIA GTX 1650,3.8,1600.71
+MSI,Intel i3,4,1024,macOS,NVIDIA GTX 1650,4.4,1687.97
+Asus,Intel i7,8,512,macOS,NVIDIA RTX 3050,3.7,1823.91
+MSI,AMD Ryzen 3,4,128,macOS,NVIDIA GTX 1650,4.7,1090.09
+HP,AMD Ryzen 7,8,512,macOS,AMD Radeon,3.3,1525.1
+Dell,AMD Ryzen 3,32,128,Windows 11,Integrated,3.2,1094.4
+Lenovo,Intel i7,32,1024,macOS,AMD Radeon,4.8,2558.5
+Dell,AMD Ryzen 3,16,128,Windows 11,AMD Radeon,4.2,815.51
+Apple,Intel i7,32,128,Windows 10,AMD Radeon,4.4,1761.14
+Dell,AMD Ryzen 7,4,1024,macOS,NVIDIA RTX 3050,4.3,2004.13
+Lenovo,AMD Ryzen 7,16,256,Windows 11,NVIDIA GTX 1650,4.9,1365.74
+Acer,Intel i7,8,1024,macOS,NVIDIA RTX 3050,4.6,2374.28
+Dell,AMD Ryzen 5,32,128,macOS,AMD Radeon,3.0,1659.43
+Dell,Intel i3,32,1024,Windows 11,Integrated,3.6,1943.74
+Acer,AMD Ryzen 5,4,256,Windows 10,NVIDIA RTX 3050,4.9,1092.79
+Dell,AMD Ryzen 3,16,128,Windows 10,AMD Radeon,4.7,732.95
+Dell,Intel i5,16,256,Windows 11,NVIDIA RTX 3050,4.1,1316.33
+HP,AMD Ryzen 7,16,256,macOS,NVIDIA RTX 3050,3.6,1821.01
+Dell,Intel i7,8,1024,macOS,Integrated,3.6,1835.5
+HP,Intel i7,8,128,Windows 10,AMD Radeon,4.0,960.2
+Dell,AMD Ryzen 7,32,256,macOS,NVIDIA RTX 3050,3.1,2155.35
+HP,Intel i5,32,512,macOS,NVIDIA GTX 1650,3.7,2170.84
+Dell,AMD Ryzen 3,8,256,macOS,NVIDIA GTX 1650,4.1,1215.37
+Acer,Intel i3,32,128,Windows 10,NVIDIA RTX 3050,3.2,1505.82
+MSI,Intel i7,16,1024,Windows 10,NVIDIA GTX 1650,4.0,1920.33
+Apple,Intel i7,4,1024,macOS,NVIDIA RTX 3050,3.9,2411.31
+HP,Intel i5,4,512,Windows 11,AMD Radeon,4.1,1084.2
+Dell,AMD Ryzen 5,4,128,Windows 10,NVIDIA RTX 3050,4.3,1076.56
+Lenovo,AMD Ryzen 3,8,1024,macOS,Integrated,3.2,1584.48
+Acer,AMD Ryzen 7,32,128,macOS,Integrated,3.6,1711.21
+Apple,AMD Ryzen 7,4,512,Windows 11,NVIDIA GTX 1650,4.9,1741.86
+Asus,Intel i5,32,512,Windows 11,NVIDIA GTX 1650,4.9,2098.63
+Acer,AMD Ryzen 3,32,1024,macOS,NVIDIA GTX 1650,3.1,2425.51
+Lenovo,AMD Ryzen 3,32,1024,Windows 11,NVIDIA RTX 3050,4.3,2379.18
+Acer,AMD Ryzen 3,16,128,Windows 10,AMD Radeon,4.8,655.99
+Asus,AMD Ryzen 5,4,1024,macOS,NVIDIA GTX 1650,3.0,1890.27
+Dell,Intel i5,32,128,Windows 11,NVIDIA GTX 1650,3.0,1505.7
+HP,Intel i7,4,512,Windows 11,Integrated,3.7,1093.25
+Asus,Intel i5,4,128,macOS,Integrated,4.5,946.5
+Asus,Intel i5,4,512,macOS,NVIDIA GTX 1650,4.1,1516.94
+MSI,Intel i3,16,128,Windows 11,Integrated,4.1,719.06
+Asus,Intel i3,8,128,macOS,NVIDIA RTX 3050,3.8,1182.07
+Apple,AMD Ryzen 3,16,256,macOS,AMD Radeon,3.9,1558.82
+Lenovo,AMD Ryzen 3,4,1024,macOS,Integrated,4.5,1566.01
+Acer,AMD Ryzen 5,8,256,macOS,NVIDIA GTX 1650,4.1,1401.93
+Acer,Intel i7,16,128,macOS,NVIDIA RTX 3050,3.2,1683.37
+Asus,Intel i3,4,256,macOS,NVIDIA GTX 1650,4.4,1062.52
+HP,Intel i3,8,512,Windows 11,NVIDIA GTX 1650,3.2,1000.99
+Asus,Intel i3,16,512,Windows 10,Integrated,4.5,1004.04
+Apple,AMD Ryzen 3,16,512,Windows 10,AMD Radeon,4.1,1573.92
+MSI,AMD Ryzen 7,16,128,Windows 10,NVIDIA GTX 1650,3.9,1240.4
+HP,AMD Ryzen 3,32,1024,Windows 10,NVIDIA RTX 3050,4.3,2258.15
+Apple,Intel i3,16,1024,Windows 10,Integrated,4.7,2034.16
+Apple,AMD Ryzen 5,8,256,Windows 10,AMD Radeon,4.1,1234.74
+Acer,Intel i7,32,128,macOS,NVIDIA RTX 3050,4.9,2044.61
+HP,Intel i3,4,256,macOS,NVIDIA RTX 3050,5.0,1137.51
+MSI,Intel i3,16,1024,Windows 11,AMD Radeon,3.1,1633.64
+Apple,AMD Ryzen 3,32,1024,Windows 10,AMD Radeon,3.3,2228.52
+Asus,Intel i5,32,1024,Windows 10,Integrated,3.5,2188.39
+Lenovo,AMD Ryzen 7,16,128,Windows 10,Integrated,3.8,938.81
+Acer,AMD Ryzen 7,16,128,Windows 11,NVIDIA GTX 1650,3.8,1303.37
+Acer,Intel i3,8,256,Windows 11,NVIDIA GTX 1650,4.1,881.57
+Apple,Intel i3,8,1024,macOS,Integrated,3.8,1931.46
+HP,Intel i3,8,512,macOS,Integrated,4.7,1025.68
+Dell,AMD Ryzen 5,32,512,Windows 11,AMD Radeon,4.6,1592.0
+MSI,AMD Ryzen 5,8,512,Windows 10,NVIDIA RTX 3050,4.5,1336.12
+Apple,Intel i3,16,128,Windows 10,AMD Radeon,3.5,1082.47
+Dell,Intel i5,32,512,macOS,NVIDIA GTX 1650,4.0,2255.26
+HP,AMD Ryzen 3,4,256,Windows 10,NVIDIA GTX 1650,4.8,797.93
+Dell,Intel i3,32,512,macOS,NVIDIA RTX 3050,4.5,2221.28
+Lenovo,AMD Ryzen 7,32,1024,Windows 11,NVIDIA GTX 1650,4.2,2435.04
+HP,AMD Ryzen 7,16,512,macOS,NVIDIA RTX 3050,4.5,1807.41
+MSI,AMD Ryzen 3,8,512,Windows 11,NVIDIA RTX 3050,4.4,1356.7
+Acer,AMD Ryzen 3,8,1024,Windows 10,NVIDIA GTX 1650,4.5,1404.96
+Apple,Intel i7,16,1024,macOS,NVIDIA RTX 3050,4.1,2859.64
+MSI,Intel i7,8,1024,Windows 10,NVIDIA RTX 3050,4.7,1904.28
+Acer,Intel i5,16,512,Windows 10,Integrated,3.7,1260.73
+HP,AMD Ryzen 5,8,128,Windows 11,Integrated,4.1,811.35
+Dell,AMD Ryzen 7,8,128,macOS,Integrated,3.2,1130.86
+MSI,Intel i3,8,512,Windows 11,NVIDIA RTX 3050,4.8,1201.18
+Dell,Intel i3,16,128,macOS,NVIDIA RTX 3050,3.7,1385.83
+Apple,AMD Ryzen 7,8,1024,macOS,NVIDIA GTX 1650,3.9,2533.06
+MSI,AMD Ryzen 7,16,512,Windows 10,NVIDIA GTX 1650,3.9,1485.5
+Lenovo,Intel i7,16,1024,Windows 10,NVIDIA RTX 3050,3.8,2020.71
+Asus,Intel i3,4,128,Windows 10,AMD Radeon,3.7,421.28
+Dell,AMD Ryzen 5,8,512,macOS,NVIDIA GTX 1650,4.2,1526.56
+Lenovo,Intel i5,4,128,Windows 11,AMD Radeon,4.3,771.05
+HP,Intel i7,32,512,Windows 10,NVIDIA GTX 1650,4.2,1932.49
+Apple,AMD Ryzen 7,16,1024,Windows 11,NVIDIA RTX 3050,3.2,2451.31
+Apple,Intel i3,16,512,macOS,NVIDIA RTX 3050,3.8,2138.87
+Asus,AMD Ryzen 7,8,128,Windows 11,AMD Radeon,4.4,846.03
+Apple,Intel i3,8,512,macOS,AMD Radeon,4.0,1577.29
+HP,AMD Ryzen 7,32,512,Windows 10,AMD Radeon,3.5,1796.69
+MSI,Intel i3,8,256,Windows 11,Integrated,4.0,689.95
+Lenovo,Intel i3,8,256,Windows 11,Integrated,3.1,740.56
+Asus,Intel i5,4,1024,Windows 11,AMD Radeon,3.5,1452.17
+Lenovo,AMD Ryzen 7,16,512,Windows 11,NVIDIA RTX 3050,4.9,1717.47
+Apple,AMD Ryzen 3,32,256,Windows 11,Integrated,4.5,1711.29
+Apple,AMD Ryzen 3,32,128,macOS,Integrated,4.5,1890.72
+Asus,AMD Ryzen 7,16,128,Windows 10,Integrated,3.5,1108.08
+Dell,AMD Ryzen 5,8,128,Windows 11,AMD Radeon,3.9,770.66
+Apple,Intel i7,4,256,Windows 10,NVIDIA RTX 3050,3.9,1415.23
+MSI,Intel i5,8,128,macOS,NVIDIA RTX 3050,3.2,1427.17
+Apple,Intel i7,16,512,Windows 11,AMD Radeon,3.3,1758.64
+Apple,Intel i7,32,128,Windows 11,Integrated,3.6,1931.48
+Acer,Intel i7,16,128,Windows 11,AMD Radeon,4.1,1088.32
+Dell,AMD Ryzen 7,8,128,macOS,NVIDIA RTX 3050,4.7,1477.42
+Asus,AMD Ryzen 5,32,128,Windows 10,NVIDIA RTX 3050,3.8,1752.18
+HP,Intel i7,16,128,macOS,NVIDIA GTX 1650,4.8,1702.35
+Apple,AMD Ryzen 7,32,512,macOS,NVIDIA GTX 1650,4.9,2680.6
+Apple,Intel i5,4,128,macOS,AMD Radeon,4.7,1267.99
+Asus,AMD Ryzen 3,32,1024,Windows 10,AMD Radeon,3.0,2009.57
+MSI,Intel i5,4,256,macOS,Integrated,3.2,1105.23
+Dell,AMD Ryzen 7,16,512,Windows 10,NVIDIA GTX 1650,3.5,1529.42
+MSI,Intel i3,4,512,Windows 11,NVIDIA RTX 3050,3.5,1077.41
+MSI,AMD Ryzen 5,16,128,Windows 10,Integrated,3.4,988.05
+Lenovo,AMD Ryzen 3,4,256,macOS,NVIDIA GTX 1650,3.7,1203.71
+HP,Intel i7,8,512,Windows 10,AMD Radeon,3.4,1075.19
+Dell,AMD Ryzen 3,8,128,Windows 10,Integrated,4.6,591.22
+Lenovo,AMD Ryzen 7,8,1024,Windows 11,Integrated,4.0,1566.42
+Asus,AMD Ryzen 7,8,1024,macOS,Integrated,3.4,1901.41
+MSI,Intel i3,32,128,Windows 11,NVIDIA RTX 3050,3.9,1459.86
+Apple,AMD Ryzen 5,4,128,Windows 10,NVIDIA GTX 1650,4.7,1337.07
+Lenovo,Intel i5,4,256,macOS,NVIDIA RTX 3050,4.1,1239.7
+Apple,AMD Ryzen 7,16,512,Windows 10,AMD Radeon,4.7,1969.3
+MSI,Intel i7,32,256,Windows 11,NVIDIA RTX 3050,4.3,1827.66
+Asus,Intel i5,16,128,Windows 10,Integrated,3.4,947.18
+MSI,Intel i7,16,128,Windows 11,Integrated,4.6,1089.94
+MSI,Intel i5,16,1024,Windows 11,AMD Radeon,4.7,1590.21
+Lenovo,AMD Ryzen 3,32,128,Windows 11,Integrated,3.8,1157.14
+HP,Intel i3,16,128,macOS,AMD Radeon,3.4,1083.12
+Asus,AMD Ryzen 5,32,256,Windows 11,Integrated,4.6,1361.69
+HP,Intel i7,16,512,Windows 10,Integrated,3.8,1298.38
+Apple,Intel i3,8,128,macOS,AMD Radeon,4.9,1275.77
+Apple,Intel i7,8,512,Windows 10,NVIDIA GTX 1650,3.0,1778.91
+Apple,Intel i3,32,256,Windows 10,Integrated,3.5,1717.61
+Asus,Intel i5,8,128,Windows 10,NVIDIA GTX 1650,3.5,938.6
+Lenovo,AMD Ryzen 7,8,1024,Windows 10,NVIDIA GTX 1650,4.2,1799.82
+Dell,AMD Ryzen 7,8,1024,macOS,Integrated,3.0,1741.51
+Acer,Intel i7,4,512,Windows 11,NVIDIA RTX 3050,4.2,1484.51
+MSI,Intel i5,4,128,Windows 11,Integrated,3.8,728.48
+HP,AMD Ryzen 7,32,256,Windows 11,NVIDIA RTX 3050,3.4,1865.84
+Acer,AMD Ryzen 5,16,1024,macOS,AMD Radeon,4.8,1952.51
+Lenovo,Intel i7,8,256,macOS,NVIDIA RTX 3050,4.9,1551.06
+HP,AMD Ryzen 3,16,1024,macOS,NVIDIA RTX 3050,4.7,2035.27
+Dell,AMD Ryzen 7,16,128,macOS,NVIDIA GTX 1650,4.2,1393.45
+Dell,Intel i3,4,128,macOS,AMD Radeon,3.9,776.09
+MSI,Intel i7,16,256,Windows 10,AMD Radeon,4.4,1201.44
+Lenovo,AMD Ryzen 5,32,512,macOS,Integrated,3.3,1841.83
+HP,Intel i3,16,128,macOS,AMD Radeon,4.1,1130.91
+Acer,Intel i3,16,128,Windows 11,AMD Radeon,4.7,848.19
+Dell,Intel i5,4,1024,macOS,NVIDIA RTX 3050,5.0,2001.42
+MSI,Intel i5,4,256,Windows 11,NVIDIA RTX 3050,3.1,1070.38
+Acer,Intel i3,16,1024,Windows 11,NVIDIA RTX 3050,4.9,1903.88
+MSI,Intel i7,8,512,Windows 11,NVIDIA RTX 3050,3.1,1453.57
+MSI,Intel i7,32,1024,Windows 10,NVIDIA GTX 1650,4.8,2179.5
+MSI,AMD Ryzen 3,16,512,Windows 10,AMD Radeon,4.6,1206.96
+Dell,AMD Ryzen 5,8,128,Windows 10,NVIDIA GTX 1650,4.8,870.34
+HP,AMD Ryzen 7,16,512,Windows 10,Integrated,3.8,1181.73
+Lenovo,Intel i7,16,256,Windows 10,NVIDIA GTX 1650,3.2,1352.98
+Asus,Intel i3,8,256,Windows 10,NVIDIA RTX 3050,3.8,963.16
+Acer,Intel i3,8,128,macOS,Integrated,3.7,826.94
+Apple,AMD Ryzen 5,4,1024,Windows 10,Integrated,5.0,1690.38
+Dell,Intel i3,4,1024,macOS,NVIDIA GTX 1650,4.6,1761.43
+MSI,AMD Ryzen 7,32,512,Windows 11,Integrated,5.0,1644.66
+MSI,AMD Ryzen 3,32,512,Windows 10,NVIDIA RTX 3050,3.5,1799.98
+Dell,Intel i3,8,512,Windows 11,Integrated,3.1,872.01
+MSI,Intel i3,4,512,Windows 11,Integrated,3.3,916.14
+Apple,Intel i3,32,512,macOS,NVIDIA GTX 1650,4.2,2366.79
+Acer,Intel i3,4,1024,Windows 11,Integrated,3.2,1192.01
+Asus,AMD Ryzen 5,4,512,Windows 10,NVIDIA GTX 1650,4.7,1203.39
+Dell,Intel i3,4,512,macOS,NVIDIA GTX 1650,3.8,1206.15
+Acer,Intel i5,8,256,Windows 10,AMD Radeon,3.2,799.98
+Asus,AMD Ryzen 5,4,128,Windows 11,AMD Radeon,4.8,720.46
+Lenovo,Intel i5,32,512,Windows 10,Integrated,4.5,1662.29
+Lenovo,AMD Ryzen 3,4,512,macOS,AMD Radeon,4.4,1147.28
+HP,AMD Ryzen 3,16,512,Windows 11,AMD Radeon,3.3,1173.91
+Lenovo,AMD Ryzen 5,8,128,macOS,NVIDIA RTX 3050,4.7,1324.63
+Apple,Intel i5,32,256,Windows 11,Integrated,4.0,1792.28
+MSI,Intel i5,32,128,Windows 11,NVIDIA RTX 3050,5.0,1550.41
+Asus,AMD Ryzen 5,16,1024,Windows 11,NVIDIA RTX 3050,4.5,2025.17
+HP,Intel i3,32,256,macOS,AMD Radeon,4.3,1617.97
+HP,AMD Ryzen 3,16,1024,Windows 10,AMD Radeon,3.1,1549.84
+HP,AMD Ryzen 7,4,256,Windows 11,AMD Radeon,3.1,882.33
+MSI,AMD Ryzen 5,16,128,Windows 11,NVIDIA RTX 3050,4.0,1212.96
+Lenovo,Intel i7,8,512,Windows 11,NVIDIA GTX 1650,3.5,1267.36
+MSI,AMD Ryzen 5,4,512,Windows 11,NVIDIA RTX 3050,4.4,1246.27
+Apple,Intel i7,16,512,Windows 10,NVIDIA GTX 1650,3.3,2008.37
+Acer,Intel i7,32,256,macOS,Integrated,3.9,1847.36
+Lenovo,Intel i3,8,1024,Windows 11,NVIDIA RTX 3050,4.5,1645.73
+Asus,Intel i5,16,1024,macOS,AMD Radeon,3.3,1947.6
+Dell,Intel i3,4,128,macOS,NVIDIA RTX 3050,4.7,1150.6
+Asus,AMD Ryzen 5,32,1024,Windows 11,NVIDIA RTX 3050,3.4,2468.89
+MSI,Intel i3,8,256,macOS,Integrated,4.2,1032.21
+Dell,AMD Ryzen 3,16,256,Windows 11,Integrated,3.5,786.32
+Lenovo,AMD Ryzen 5,4,1024,Windows 10,NVIDIA GTX 1650,4.4,1593.84
+Apple,Intel i7,4,128,Windows 10,AMD Radeon,4.6,1146.98
+Lenovo,AMD Ryzen 7,16,1024,Windows 10,Integrated,3.2,1744.95
+Apple,AMD Ryzen 7,32,1024,Windows 10,NVIDIA GTX 1650,4.6,2772.77
+HP,AMD Ryzen 3,4,256,Windows 10,Integrated,4.8,500.9
+Apple,Intel i5,8,256,Windows 11,NVIDIA RTX 3050,3.4,1471.75
+MSI,AMD Ryzen 3,4,1024,macOS,Integrated,4.4,1523.67
+HP,AMD Ryzen 3,32,1024,Windows 11,AMD Radeon,4.6,1870.68
+Apple,Intel i7,16,512,macOS,AMD Radeon,4.1,2160.96
+MSI,Intel i7,16,128,Windows 11,NVIDIA GTX 1650,3.2,1287.21
+Apple,AMD Ryzen 3,16,1024,Windows 10,Integrated,4.7,1841.83
+MSI,AMD Ryzen 5,16,1024,macOS,AMD Radeon,4.1,1929.5
+HP,Intel i7,8,128,Windows 10,NVIDIA RTX 3050,4.3,1198.41
+Acer,AMD Ryzen 7,16,512,Windows 10,NVIDIA RTX 3050,3.9,1582.89
+Apple,AMD Ryzen 5,16,256,Windows 10,AMD Radeon,3.9,1362.87
+Asus,AMD Ryzen 3,32,256,Windows 10,NVIDIA RTX 3050,4.2,1494.97
+Asus,Intel i5,4,256,Windows 11,NVIDIA RTX 3050,4.8,932.33
+Lenovo,Intel i5,8,128,macOS,Integrated,3.9,1009.44
+Acer,Intel i3,16,256,Windows 11,NVIDIA RTX 3050,4.3,1222.1
+Acer,AMD Ryzen 5,8,128,Windows 10,NVIDIA GTX 1650,3.2,778.05
+Acer,AMD Ryzen 7,32,512,Windows 10,AMD Radeon,4.2,1732.42
+Dell,AMD Ryzen 3,8,512,Windows 10,Integrated,3.7,825.62
+Asus,AMD Ryzen 3,4,512,macOS,NVIDIA RTX 3050,3.5,1252.46
+Apple,Intel i3,4,128,macOS,AMD Radeon,4.4,1221.46
+Apple,AMD Ryzen 3,32,128,macOS,Integrated,3.7,2014.5
+Asus,AMD Ryzen 3,16,512,Windows 11,AMD Radeon,4.1,1122.93
+Asus,Intel i5,8,256,Windows 10,NVIDIA RTX 3050,3.5,1165.99
+Lenovo,AMD Ryzen 7,4,128,macOS,Integrated,3.2,1016.57
+Lenovo,AMD Ryzen 7,32,256,Windows 10,NVIDIA GTX 1650,4.9,1823.52
+MSI,Intel i7,8,512,Windows 11,AMD Radeon,3.3,1185.59
+Apple,AMD Ryzen 5,32,1024,Windows 11,NVIDIA GTX 1650,4.5,2639.62
+MSI,AMD Ryzen 5,32,256,Windows 10,NVIDIA RTX 3050,3.4,1722.75
+HP,Intel i3,16,512,Windows 11,NVIDIA RTX 3050,4.4,1589.86
+MSI,Intel i3,32,512,Windows 10,NVIDIA GTX 1650,4.8,1705.28
+Dell,Intel i7,16,1024,Windows 11,Integrated,4.3,1630.38
+HP,Intel i5,32,256,macOS,Integrated,4.7,1825.56
+Dell,AMD Ryzen 5,4,128,Windows 10,NVIDIA RTX 3050,4.5,934.09
+Apple,AMD Ryzen 3,8,512,Windows 11,NVIDIA GTX 1650,4.5,1581.91
+Dell,Intel i7,4,512,Windows 10,AMD Radeon,3.6,959.06
+Dell,AMD Ryzen 3,8,512,macOS,Integrated,3.8,1296.93
+Acer,Intel i3,4,128,Windows 10,NVIDIA RTX 3050,3.5,815.13
+Apple,AMD Ryzen 7,8,256,Windows 11,Integrated,3.8,1302.29
+HP,Intel i5,8,1024,Windows 10,Integrated,3.7,1364.98
+Acer,AMD Ryzen 3,32,512,macOS,AMD Radeon,4.1,1686.2
+Apple,Intel i5,32,512,macOS,Integrated,4.6,2428.35
+Acer,AMD Ryzen 3,16,128,macOS,NVIDIA RTX 3050,3.1,1390.42
+Acer,AMD Ryzen 5,8,512,Windows 11,NVIDIA GTX 1650,4.0,1194.31
+Lenovo,AMD Ryzen 5,16,1024,macOS,AMD Radeon,3.6,1895.38
+Asus,AMD Ryzen 7,8,256,Windows 10,Integrated,3.8,944.73
+MSI,AMD Ryzen 3,8,512,Windows 10,NVIDIA RTX 3050,4.4,1197.66
+Dell,Intel i5,4,256,Windows 11,NVIDIA RTX 3050,4.6,1090.58
+MSI,Intel i7,4,512,Windows 11,NVIDIA GTX 1650,4.0,1088.83
+Asus,Intel i3,8,128,macOS,NVIDIA GTX 1650,3.3,1157.88
+Dell,Intel i5,16,128,Windows 11,AMD Radeon,4.6,933.37
+Asus,Intel i5,4,256,macOS,AMD Radeon,3.3,969.14
+Dell,Intel i7,32,256,Windows 10,NVIDIA RTX 3050,4.1,1836.03
+Apple,AMD Ryzen 5,16,512,macOS,AMD Radeon,4.3,2014.67
+Dell,AMD Ryzen 7,4,256,macOS,NVIDIA RTX 3050,4.4,1353.39
+Lenovo,Intel i5,8,128,macOS,Integrated,4.4,1075.1
+HP,AMD Ryzen 5,8,1024,Windows 10,Integrated,4.2,1429.14
+Dell,Intel i3,16,256,Windows 10,NVIDIA RTX 3050,3.1,1147.87
+Acer,AMD Ryzen 3,16,1024,Windows 10,AMD Radeon,4.8,1521.71
+HP,Intel i7,8,1024,Windows 10,NVIDIA GTX 1650,3.7,1821.32
+HP,AMD Ryzen 7,32,1024,Windows 11,AMD Radeon,3.2,2315.19
+Acer,AMD Ryzen 5,4,512,macOS,Integrated,3.3,1142.9
+MSI,AMD Ryzen 3,4,1024,macOS,AMD Radeon,3.8,1382.56
+MSI,AMD Ryzen 3,16,1024,Windows 11,Integrated,4.5,1462.7
+Apple,AMD Ryzen 5,32,256,Windows 11,NVIDIA GTX 1650,4.6,2114.0
+Dell,AMD Ryzen 5,32,1024,Windows 11,AMD Radeon,4.4,2010.25
+Acer,Intel i5,16,128,Windows 10,Integrated,3.6,852.56
+Asus,AMD Ryzen 7,16,256,Windows 11,NVIDIA RTX 3050,3.3,1482.2
+Asus,AMD Ryzen 5,32,256,macOS,Integrated,3.2,1859.96
+HP,AMD Ryzen 5,16,256,Windows 11,NVIDIA GTX 1650,4.4,1227.7
+Apple,Intel i3,16,128,macOS,NVIDIA GTX 1650,3.3,1668.64
+Lenovo,Intel i5,8,1024,Windows 11,AMD Radeon,4.9,1415.04
+Dell,AMD Ryzen 3,16,256,Windows 10,NVIDIA GTX 1650,4.8,1301.99
+Apple,AMD Ryzen 5,32,512,macOS,Integrated,4.7,2299.63
+Acer,Intel i5,32,128,macOS,AMD Radeon,3.2,1678.77
+Asus,AMD Ryzen 3,4,512,Windows 11,AMD Radeon,3.9,830.85
+Acer,Intel i7,8,256,macOS,NVIDIA RTX 3050,3.8,1495.3
+Acer,Intel i7,8,256,Windows 10,NVIDIA GTX 1650,4.0,1203.24
+MSI,Intel i3,16,512,Windows 10,NVIDIA RTX 3050,3.1,1512.67
+Asus,AMD Ryzen 7,8,512,macOS,AMD Radeon,4.4,1573.69
+Dell,AMD Ryzen 5,16,1024,Windows 10,AMD Radeon,4.3,1770.32
+Apple,Intel i5,16,128,macOS,NVIDIA GTX 1650,4.3,1880.93
+Apple,AMD Ryzen 7,16,128,Windows 10,NVIDIA GTX 1650,4.9,1489.36
+MSI,Intel i5,8,512,Windows 10,NVIDIA GTX 1650,4.6,1390.79
+MSI,AMD Ryzen 5,4,128,Windows 10,NVIDIA GTX 1650,3.5,911.95
+Acer,AMD Ryzen 5,8,128,Windows 10,AMD Radeon,4.0,761.37
+MSI,AMD Ryzen 5,32,1024,macOS,Integrated,4.0,2296.22
+Asus,Intel i5,32,1024,Windows 11,AMD Radeon,4.6,2145.09
+HP,AMD Ryzen 5,8,128,Windows 10,Integrated,3.2,776.48
+Dell,Intel i3,4,256,Windows 10,Integrated,4.7,766.6
+HP,Intel i7,8,1024,Windows 10,NVIDIA RTX 3050,4.8,1823.77
+MSI,AMD Ryzen 5,16,128,Windows 10,NVIDIA RTX 3050,4.4,1225.0
+Lenovo,Intel i3,4,1024,Windows 10,AMD Radeon,3.7,1233.05
+Apple,AMD Ryzen 3,16,1024,macOS,NVIDIA RTX 3050,4.3,2485.34
+Acer,AMD Ryzen 5,8,256,Windows 11,NVIDIA GTX 1650,3.2,1022.1
+Asus,Intel i3,16,1024,Windows 10,Integrated,3.8,1495.0
+Apple,AMD Ryzen 3,8,128,Windows 10,Integrated,4.1,983.59
+Apple,Intel i5,8,128,macOS,AMD Radeon,3.2,1514.77
+Asus,Intel i5,16,256,macOS,Integrated,4.9,1352.72
+MSI,Intel i3,4,1024,macOS,NVIDIA GTX 1650,3.9,1762.66
+Apple,AMD Ryzen 3,4,1024,macOS,NVIDIA GTX 1650,3.0,2130.28
+Acer,Intel i7,8,1024,Windows 11,NVIDIA RTX 3050,4.8,1891.88
+Acer,AMD Ryzen 5,8,128,Windows 11,AMD Radeon,4.5,627.96
+Apple,AMD Ryzen 3,32,512,Windows 11,NVIDIA GTX 1650,5.0,2102.52
+MSI,AMD Ryzen 3,16,256,macOS,NVIDIA RTX 3050,4.0,1498.36
+Asus,AMD Ryzen 5,8,512,Windows 10,Integrated,4.5,995.19
+MSI,AMD Ryzen 5,8,512,macOS,Integrated,4.5,1377.9
+MSI,Intel i5,8,1024,Windows 10,AMD Radeon,4.5,1565.8
+Lenovo,Intel i3,8,128,Windows 11,NVIDIA RTX 3050,4.2,870.69
+HP,Intel i3,32,128,Windows 10,AMD Radeon,4.0,1219.72
+Asus,Intel i3,8,256,Windows 10,NVIDIA GTX 1650,4.5,922.53
+Asus,Intel i7,32,512,macOS,NVIDIA RTX 3050,3.9,2279.26
+MSI,AMD Ryzen 5,32,1024,Windows 11,AMD Radeon,3.4,2069.64
+HP,AMD Ryzen 5,8,128,Windows 11,AMD Radeon,3.4,721.19
+Dell,AMD Ryzen 3,4,256,macOS,AMD Radeon,3.2,816.24
+HP,AMD Ryzen 3,32,1024,Windows 11,AMD Radeon,4.4,1872.34
+Asus,Intel i7,4,512,Windows 11,NVIDIA RTX 3050,3.1,1421.69
+Acer,AMD Ryzen 3,8,256,Windows 11,Integrated,4.6,496.78
+Asus,AMD Ryzen 7,16,128,macOS,Integrated,3.2,1412.47
+Asus,Intel i3,16,1024,macOS,NVIDIA RTX 3050,5.0,2133.44
+Dell,AMD Ryzen 7,32,1024,macOS,NVIDIA RTX 3050,4.4,2812.46
+MSI,AMD Ryzen 7,32,512,macOS,Integrated,4.9,2082.38
+HP,Intel i5,16,128,macOS,Integrated,4.2,1149.15
+Apple,AMD Ryzen 5,8,128,macOS,Integrated,4.6,1408.64
+Acer,AMD Ryzen 3,4,128,Windows 11,AMD Radeon,4.0,404.83
+Apple,Intel i5,32,256,macOS,NVIDIA RTX 3050,4.0,2579.39
+Apple,Intel i3,8,256,Windows 10,NVIDIA RTX 3050,4.8,1370.52
+Dell,AMD Ryzen 3,4,256,Windows 11,NVIDIA GTX 1650,3.1,733.25
+Apple,Intel i5,32,1024,Windows 11,NVIDIA RTX 3050,3.9,2697.68
+Acer,AMD Ryzen 7,32,128,Windows 10,AMD Radeon,3.1,1460.02
+Dell,Intel i7,16,256,macOS,NVIDIA RTX 3050,3.0,1669.97
+Lenovo,AMD Ryzen 3,32,512,macOS,Integrated,3.1,1692.41
+Dell,AMD Ryzen 5,8,128,Windows 11,Integrated,4.3,712.72
+HP,AMD Ryzen 5,32,128,macOS,NVIDIA RTX 3050,4.9,1831.27
+Dell,Intel i3,8,128,macOS,NVIDIA GTX 1650,3.2,1189.76
+Apple,Intel i3,4,1024,Windows 10,Integrated,4.7,1597.03
+Apple,Intel i3,4,256,Windows 11,NVIDIA GTX 1650,3.9,1216.22
+Dell,Intel i5,4,128,Windows 11,NVIDIA GTX 1650,4.7,818.77
+Lenovo,AMD Ryzen 5,16,256,macOS,AMD Radeon,3.2,1505.55
+Lenovo,Intel i5,16,1024,macOS,NVIDIA RTX 3050,4.0,2332.38
+HP,AMD Ryzen 3,8,1024,Windows 11,NVIDIA RTX 3050,3.4,1592.0
+Acer,AMD Ryzen 7,32,1024,Windows 11,NVIDIA RTX 3050,4.9,2587.89
+Dell,Intel i5,4,1024,Windows 11,NVIDIA RTX 3050,4.8,1697.69
+Dell,Intel i5,32,512,Windows 11,NVIDIA RTX 3050,4.3,1927.62
+Lenovo,AMD Ryzen 5,16,512,Windows 11,AMD Radeon,3.6,1345.73
+Asus,Intel i3,32,128,Windows 10,AMD Radeon,4.6,1259.8
+HP,Intel i5,32,1024,Windows 11,AMD Radeon,3.3,2054.81
+Lenovo,AMD Ryzen 5,16,512,Windows 11,NVIDIA RTX 3050,5.0,1534.49
+Acer,AMD Ryzen 3,32,512,Windows 10,AMD Radeon,4.6,1479.33
+Apple,AMD Ryzen 7,16,1024,Windows 10,AMD Radeon,4.5,2089.87
+Apple,AMD Ryzen 5,8,1024,Windows 11,NVIDIA GTX 1650,3.9,2066.12
+MSI,Intel i7,4,128,macOS,Integrated,3.1,1014.74
+Apple,AMD Ryzen 5,16,128,Windows 10,Integrated,4.6,1394.3
+HP,AMD Ryzen 7,16,1024,Windows 10,NVIDIA RTX 3050,4.8,1969.6
+HP,AMD Ryzen 7,16,1024,Windows 11,NVIDIA GTX 1650,3.5,2050.44
+Asus,Intel i5,8,128,Windows 10,NVIDIA RTX 3050,3.3,1002.7
+HP,Intel i7,4,512,Windows 11,Integrated,4.7,907.37
+Lenovo,AMD Ryzen 7,16,512,macOS,Integrated,3.3,1571.17
+Asus,AMD Ryzen 7,4,1024,Windows 10,AMD Radeon,3.1,1558.28
+MSI,Intel i7,32,256,Windows 10,NVIDIA RTX 3050,3.6,1931.95
+Apple,AMD Ryzen 3,32,128,macOS,Integrated,4.6,1803.64
+Acer,Intel i5,16,128,Windows 11,NVIDIA RTX 3050,3.0,1223.95
+Apple,AMD Ryzen 7,8,1024,Windows 10,AMD Radeon,3.3,1883.8
+Lenovo,AMD Ryzen 7,16,256,macOS,AMD Radeon,3.0,1424.38
+Apple,AMD Ryzen 7,32,128,macOS,NVIDIA GTX 1650,4.8,2347.35
+HP,Intel i7,4,1024,Windows 10,NVIDIA RTX 3050,4.2,1922.33
+Dell,AMD Ryzen 3,16,512,Windows 11,AMD Radeon,4.4,1180.27
+Acer,AMD Ryzen 3,32,128,Windows 11,Integrated,3.0,1061.01
+Lenovo,AMD Ryzen 5,16,128,macOS,NVIDIA GTX 1650,4.5,1430.18
+Asus,Intel i7,32,1024,Windows 11,Integrated,3.7,2211.14
+Apple,Intel i3,32,256,macOS,NVIDIA RTX 3050,5.0,2473.77
+HP,AMD Ryzen 5,16,128,Windows 10,AMD Radeon,4.7,882.85
+Acer,Intel i3,4,128,macOS,Integrated,3.1,820.28
+Dell,AMD Ryzen 5,16,512,Windows 11,AMD Radeon,3.9,1230.46
+Asus,AMD Ryzen 5,8,1024,Windows 10,NVIDIA RTX 3050,3.9,1702.84
+Dell,AMD Ryzen 5,16,1024,macOS,NVIDIA RTX 3050,3.3,2323.75
+Lenovo,AMD Ryzen 7,32,256,Windows 11,NVIDIA RTX 3050,4.5,1804.23
+Dell,AMD Ryzen 7,8,256,Windows 10,NVIDIA GTX 1650,3.7,1108.92
+Lenovo,AMD Ryzen 3,8,128,Windows 10,Integrated,3.9,599.62
+Lenovo,AMD Ryzen 7,16,1024,Windows 10,AMD Radeon,3.4,1753.83
+Apple,Intel i3,8,1024,macOS,AMD Radeon,3.2,2019.72
+HP,AMD Ryzen 5,4,128,Windows 11,NVIDIA GTX 1650,3.6,840.39
+Acer,Intel i3,4,128,Windows 10,NVIDIA RTX 3050,4.8,852.75
+MSI,Intel i3,16,128,macOS,NVIDIA GTX 1650,5.0,1272.47
+Dell,AMD Ryzen 3,16,1024,Windows 10,Integrated,3.5,1470.23
+Acer,Intel i3,4,256,macOS,AMD Radeon,4.6,915.67
+HP,Intel i5,8,1024,Windows 11,Integrated,3.9,1423.09
+HP,AMD Ryzen 5,16,512,Windows 10,Integrated,3.8,1344.69
+HP,AMD Ryzen 5,4,256,Windows 11,NVIDIA RTX 3050,4.2,993.87
+HP,AMD Ryzen 7,8,512,Windows 11,Integrated,4.2,1188.22
+Lenovo,AMD Ryzen 5,8,128,Windows 11,NVIDIA RTX 3050,4.1,1100.14
+HP,Intel i3,4,256,macOS,NVIDIA RTX 3050,4.0,1163.65
+Acer,AMD Ryzen 7,4,512,macOS,Integrated,4.5,1366.56
+Dell,AMD Ryzen 7,32,128,Windows 11,NVIDIA RTX 3050,3.9,1662.88
+Acer,AMD Ryzen 7,8,256,Windows 11,AMD Radeon,4.6,1023.74
+Asus,AMD Ryzen 3,16,128,macOS,NVIDIA RTX 3050,3.6,1264.73
+Dell,AMD Ryzen 7,32,1024,Windows 10,AMD Radeon,3.7,2257.04
+Asus,AMD Ryzen 5,16,1024,Windows 10,AMD Radeon,4.5,1657.62
+HP,AMD Ryzen 3,8,1024,macOS,NVIDIA RTX 3050,3.8,1951.49
+Lenovo,AMD Ryzen 7,16,128,Windows 10,NVIDIA GTX 1650,4.7,1344.06
+Asus,AMD Ryzen 7,4,512,Windows 10,Integrated,4.9,1067.94
+Apple,Intel i7,16,512,Windows 10,AMD Radeon,3.2,1627.05
+Apple,Intel i7,4,512,Windows 10,NVIDIA GTX 1650,3.3,1550.78
+HP,AMD Ryzen 5,4,256,Windows 10,NVIDIA RTX 3050,4.8,1142.78
+Dell,AMD Ryzen 5,4,512,macOS,NVIDIA GTX 1650,3.8,1487.32
+Acer,AMD Ryzen 7,32,128,Windows 10,Integrated,4.1,1570.36
+Lenovo,Intel i7,16,256,Windows 11,AMD Radeon,4.4,1173.58
+HP,Intel i3,4,256,macOS,AMD Radeon,3.5,917.61
+Dell,AMD Ryzen 3,16,1024,Windows 10,NVIDIA RTX 3050,3.3,1913.72
+HP,Intel i7,32,512,Windows 10,Integrated,4.5,1680.96
+HP,Intel i7,4,512,Windows 10,AMD Radeon,3.1,969.52
+Dell,AMD Ryzen 5,32,256,macOS,NVIDIA RTX 3050,4.9,2073.83
+Acer,AMD Ryzen 3,8,128,Windows 11,NVIDIA RTX 3050,4.1,937.48
+Acer,Intel i3,32,1024,Windows 10,NVIDIA GTX 1650,3.1,2051.0
+Asus,AMD Ryzen 7,16,512,Windows 11,AMD Radeon,3.6,1361.77
+Dell,AMD Ryzen 7,32,512,macOS,NVIDIA RTX 3050,4.0,2563.3
+Lenovo,AMD Ryzen 5,8,512,Windows 11,AMD Radeon,4.7,1039.37
+MSI,AMD Ryzen 3,16,128,macOS,AMD Radeon,5.0,998.55
+Lenovo,AMD Ryzen 7,16,512,Windows 10,Integrated,4.9,1431.83
+Acer,Intel i5,32,256,Windows 10,NVIDIA GTX 1650,4.4,1596.83
+Apple,AMD Ryzen 5,32,1024,Windows 11,Integrated,3.6,2499.73
+Apple,Intel i3,8,512,macOS,NVIDIA RTX 3050,3.4,2000.29
+MSI,AMD Ryzen 5,4,1024,Windows 10,AMD Radeon,4.3,1261.23
+MSI,Intel i3,32,512,Windows 11,NVIDIA RTX 3050,3.2,1748.08
+Asus,AMD Ryzen 7,16,256,macOS,NVIDIA RTX 3050,4.1,1753.0
+Apple,AMD Ryzen 3,4,128,Windows 11,Integrated,4.9,760.38
+Dell,Intel i5,8,1024,Windows 11,AMD Radeon,3.3,1485.2
+HP,AMD Ryzen 5,32,512,macOS,AMD Radeon,4.7,1840.15
+Apple,Intel i7,8,128,macOS,Integrated,4.7,1495.58
+Dell,Intel i3,8,128,Windows 10,Integrated,3.4,713.49
+MSI,Intel i3,16,512,Windows 11,NVIDIA GTX 1650,4.2,1273.71
+Apple,AMD Ryzen 3,32,1024,Windows 11,NVIDIA GTX 1650,3.9,2461.68
+MSI,AMD Ryzen 7,8,512,Windows 10,NVIDIA RTX 3050,4.6,1382.04
+HP,AMD Ryzen 3,16,512,Windows 11,NVIDIA GTX 1650,3.3,1270.29
+Asus,Intel i3,16,128,macOS,Integrated,4.0,1113.83
+HP,Intel i5,32,256,Windows 11,Integrated,3.1,1516.68
+Acer,AMD Ryzen 3,16,128,Windows 10,NVIDIA RTX 3050,3.5,1037.37
+Lenovo,Intel i5,32,1024,Windows 11,NVIDIA RTX 3050,4.9,2228.23
+Asus,Intel i7,4,128,Windows 11,NVIDIA RTX 3050,4.0,963.22
+Dell,AMD Ryzen 3,16,128,macOS,NVIDIA GTX 1650,3.3,1343.66
+Acer,Intel i3,32,1024,macOS,Integrated,4.4,2192.2
+Dell,AMD Ryzen 7,4,128,macOS,NVIDIA RTX 3050,4.3,1341.94
+MSI,AMD Ryzen 3,32,128,macOS,NVIDIA RTX 3050,3.2,1768.64
+Apple,Intel i7,32,128,macOS,Integrated,3.4,1990.05
+HP,Intel i3,4,256,macOS,NVIDIA GTX 1650,4.8,1205.2
+Dell,AMD Ryzen 3,4,512,Windows 10,Integrated,3.6,837.83
+HP,Intel i7,32,256,Windows 10,AMD Radeon,4.4,1487.15
+Apple,Intel i3,32,128,macOS,NVIDIA RTX 3050,4.3,2240.98
+Acer,AMD Ryzen 3,16,128,Windows 11,NVIDIA GTX 1650,3.5,1046.63
+Apple,Intel i5,8,128,Windows 11,NVIDIA GTX 1650,3.1,1287.97
+Asus,AMD Ryzen 7,32,1024,Windows 10,NVIDIA RTX 3050,4.8,2558.85
+HP,AMD Ryzen 3,8,256,Windows 10,AMD Radeon,3.9,639.86
+Asus,Intel i5,32,512,Windows 11,Integrated,3.2,1605.66
+MSI,AMD Ryzen 7,4,256,Windows 10,NVIDIA GTX 1650,3.9,964.33
+MSI,Intel i5,16,1024,Windows 10,NVIDIA GTX 1650,4.1,1773.18
+Lenovo,AMD Ryzen 5,32,128,macOS,AMD Radeon,4.7,1702.67
+Acer,AMD Ryzen 7,16,1024,macOS,Integrated,3.5,2119.97
+HP,Intel i5,32,128,macOS,AMD Radeon,3.9,1653.97
+MSI,AMD Ryzen 3,8,128,Windows 10,NVIDIA RTX 3050,4.5,919.7
+MSI,Intel i5,4,256,Windows 10,NVIDIA GTX 1650,3.6,1022.56
+MSI,AMD Ryzen 3,16,512,Windows 10,Integrated,4.9,1114.15
+Apple,AMD Ryzen 7,32,128,macOS,NVIDIA RTX 3050,4.4,2370.72
+HP,AMD Ryzen 7,16,256,macOS,AMD Radeon,4.0,1443.11
+Acer,AMD Ryzen 7,4,256,Windows 11,NVIDIA GTX 1650,4.6,1218.87
+Acer,AMD Ryzen 7,16,256,Windows 11,Integrated,4.0,1012.71
+Acer,Intel i7,32,128,Windows 10,AMD Radeon,5.0,1274.23
+Asus,AMD Ryzen 7,4,1024,macOS,AMD Radeon,5.0,1814.07
+Lenovo,Intel i5,8,128,macOS,Integrated,3.9,998.65
+Apple,Intel i5,8,256,macOS,Integrated,4.8,1566.58
+HP,Intel i3,16,512,Windows 10,AMD Radeon,5.0,1061.49
+Apple,AMD Ryzen 3,16,256,Windows 10,NVIDIA RTX 3050,4.3,1641.39
+Lenovo,AMD Ryzen 3,32,256,Windows 11,Integrated,4.0,1351.19
+HP,Intel i7,4,1024,Windows 11,AMD Radeon,3.4,1453.64
+MSI,Intel i7,8,128,macOS,Integrated,3.8,1414.59
+MSI,Intel i3,16,1024,Windows 10,NVIDIA GTX 1650,4.8,1609.44
+Dell,Intel i7,8,256,Windows 10,NVIDIA GTX 1650,5.0,1248.15
+HP,AMD Ryzen 3,4,256,Windows 10,NVIDIA GTX 1650,4.8,661.09
+Asus,AMD Ryzen 3,16,256,macOS,NVIDIA RTX 3050,4.5,1537.91
+Dell,AMD Ryzen 5,32,128,macOS,AMD Radeon,4.2,1587.53
+Lenovo,AMD Ryzen 3,8,512,macOS,Integrated,3.7,1195.42
+Asus,Intel i5,32,512,Windows 11,AMD Radeon,3.4,1728.72
+Dell,Intel i7,32,512,Windows 11,AMD Radeon,4.3,1654.17
+Lenovo,AMD Ryzen 5,4,512,macOS,AMD Radeon,4.7,1189.75
+MSI,AMD Ryzen 5,32,256,Windows 10,AMD Radeon,3.7,1459.54
+Dell,AMD Ryzen 5,32,1024,macOS,Integrated,3.1,2467.48
+Apple,AMD Ryzen 5,8,128,Windows 10,Integrated,3.8,1101.72
+HP,AMD Ryzen 7,4,128,macOS,AMD Radeon,3.0,1054.96
+MSI,AMD Ryzen 3,32,1024,Windows 11,NVIDIA RTX 3050,4.3,2269.17
+MSI,Intel i5,8,256,Windows 11,Integrated,4.4,889.49
+Lenovo,Intel i7,8,128,Windows 11,AMD Radeon,4.8,807.59
+Acer,Intel i3,32,512,macOS,NVIDIA RTX 3050,4.5,2216.28
+Lenovo,Intel i5,16,256,Windows 10,Integrated,4.9,935.67
+Dell,Intel i7,4,128,Windows 11,Integrated,4.0,811.87
+Dell,Intel i7,32,128,Windows 10,NVIDIA RTX 3050,4.7,1833.55
+Lenovo,AMD Ryzen 7,4,512,macOS,NVIDIA GTX 1650,4.5,1634.26
+Apple,Intel i3,4,256,macOS,Integrated,3.4,1207.37
+Asus,AMD Ryzen 5,16,128,macOS,Integrated,4.5,1160.73
+MSI,AMD Ryzen 5,16,1024,Windows 10,Integrated,3.8,1703.26
+Asus,Intel i5,4,512,macOS,AMD Radeon,3.2,1219.5
+Apple,Intel i5,4,256,Windows 11,Integrated,3.2,1158.84
+Apple,Intel i3,4,128,macOS,Integrated,4.0,1421.65
+Lenovo,AMD Ryzen 7,32,128,Windows 11,NVIDIA RTX 3050,4.9,1783.94
+Dell,AMD Ryzen 3,16,1024,macOS,NVIDIA GTX 1650,4.7,1996.48
+Lenovo,Intel i3,4,1024,macOS,NVIDIA GTX 1650,4.2,1810.1
+Lenovo,Intel i7,8,1024,Windows 10,Integrated,3.0,1588.79
+Acer,Intel i7,4,512,Windows 10,NVIDIA GTX 1650,3.7,1212.41
+Apple,Intel i7,4,256,Windows 11,AMD Radeon,3.7,1369.83
+Apple,AMD Ryzen 5,16,256,Windows 11,NVIDIA RTX 3050,3.8,1712.88
+MSI,Intel i7,32,256,Windows 10,AMD Radeon,5.0,1580.3
+HP,Intel i5,4,128,Windows 11,NVIDIA GTX 1650,4.0,835.12
+Acer,Intel i5,8,1024,Windows 10,Integrated,3.7,1399.88
+Asus,Intel i7,16,256,Windows 11,Integrated,4.5,1214.89
+Apple,AMD Ryzen 7,8,512,macOS,NVIDIA RTX 3050,3.3,2317.92
+MSI,AMD Ryzen 7,32,512,Windows 10,NVIDIA GTX 1650,4.4,1893.15
+HP,AMD Ryzen 7,4,256,Windows 11,NVIDIA RTX 3050,3.7,1147.96
+Lenovo,Intel i5,4,128,Windows 11,Integrated,4.1,814.05
+Lenovo,AMD Ryzen 7,16,1024,Windows 10,NVIDIA RTX 3050,4.5,1995.88
+Asus,Intel i5,8,128,Windows 10,AMD Radeon,4.3,798.99
+Dell,AMD Ryzen 3,16,128,Windows 11,AMD Radeon,4.5,790.18
+Apple,Intel i5,32,1024,Windows 11,AMD Radeon,4.3,2596.67
+HP,Intel i7,32,512,Windows 10,NVIDIA RTX 3050,4.6,2058.57
+MSI,AMD Ryzen 3,4,512,Windows 10,NVIDIA RTX 3050,3.0,1240.82
+Dell,Intel i3,8,256,Windows 10,AMD Radeon,4.3,808.41
+Acer,AMD Ryzen 3,16,1024,macOS,Integrated,3.4,1750.49
+Lenovo,AMD Ryzen 5,8,512,Windows 11,NVIDIA GTX 1650,4.2,1197.21
+HP,AMD Ryzen 7,32,512,Windows 11,NVIDIA GTX 1650,4.6,1854.57
+HP,AMD Ryzen 7,4,512,macOS,NVIDIA GTX 1650,3.6,1575.11
+Apple,Intel i5,4,128,Windows 10,NVIDIA GTX 1650,4.6,1316.4
+Dell,AMD Ryzen 7,4,128,Windows 11,AMD Radeon,4.6,723.24
+HP,AMD Ryzen 5,8,512,macOS,AMD Radeon,4.7,1604.14
+Lenovo,AMD Ryzen 5,16,1024,Windows 11,NVIDIA GTX 1650,4.0,1865.23
+Lenovo,Intel i5,4,128,Windows 11,AMD Radeon,3.8,616.91
+Asus,Intel i3,16,512,Windows 11,NVIDIA GTX 1650,4.3,1307.31
+Dell,AMD Ryzen 7,8,128,Windows 10,Integrated,4.6,913.07
+Lenovo,Intel i7,32,128,Windows 10,AMD Radeon,4.8,1493.38
+Lenovo,Intel i5,16,128,Windows 10,Integrated,3.7,988.54
+MSI,AMD Ryzen 7,32,512,Windows 10,AMD Radeon,4.3,1800.64
+Dell,Intel i5,8,512,Windows 10,Integrated,3.2,1139.47
+Lenovo,AMD Ryzen 7,4,256,Windows 10,NVIDIA GTX 1650,4.8,894.28
+Asus,Intel i7,8,128,macOS,NVIDIA GTX 1650,3.6,1178.28
+Apple,AMD Ryzen 3,16,1024,macOS,Integrated,3.3,2139.27
+Acer,Intel i5,4,256,Windows 11,NVIDIA GTX 1650,3.3,901.58
+Asus,Intel i7,32,256,Windows 10,NVIDIA GTX 1650,4.2,1660.41
+Apple,AMD Ryzen 7,16,512,Windows 11,NVIDIA RTX 3050,4.5,2078.99
+Dell,Intel i3,8,128,macOS,NVIDIA RTX 3050,4.4,1205.27
+MSI,Intel i5,4,128,Windows 11,NVIDIA GTX 1650,3.8,876.99
+MSI,AMD Ryzen 5,32,128,Windows 10,AMD Radeon,4.9,1421.72
+MSI,Intel i5,4,512,Windows 10,Integrated,4.5,1041.54
+MSI,AMD Ryzen 5,4,128,Windows 11,Integrated,4.7,706.1
+Lenovo,AMD Ryzen 5,16,512,Windows 10,Integrated,3.4,1307.25
+Apple,AMD Ryzen 3,4,1024,Windows 10,Integrated,4.6,1646.01
+Dell,Intel i7,32,512,Windows 11,Integrated,4.1,1859.48
+Dell,AMD Ryzen 5,16,512,macOS,Integrated,3.8,1562.89
+Dell,Intel i5,16,1024,Windows 11,AMD Radeon,3.1,1568.84
+Asus,AMD Ryzen 3,32,128,Windows 10,Integrated,3.9,1195.86
+Acer,AMD Ryzen 5,8,512,Windows 10,NVIDIA RTX 3050,3.1,1303.29
+Apple,Intel i7,16,256,macOS,AMD Radeon,4.4,1847.78
+HP,Intel i7,32,512,Windows 11,NVIDIA RTX 3050,4.7,2030.38
+MSI,AMD Ryzen 3,8,128,macOS,AMD Radeon,3.1,981.3
+Dell,Intel i5,8,128,Windows 10,NVIDIA GTX 1650,4.6,866.58
+Acer,Intel i7,32,1024,Windows 10,NVIDIA RTX 3050,3.3,2473.5
+Dell,AMD Ryzen 3,8,128,Windows 11,Integrated,3.5,507.78
+HP,AMD Ryzen 3,8,128,Windows 10,NVIDIA GTX 1650,4.5,951.64
+Asus,Intel i5,4,128,macOS,NVIDIA GTX 1650,3.8,1058.25
+Acer,Intel i7,8,256,Windows 11,AMD Radeon,4.4,981.28
+Lenovo,Intel i3,8,256,Windows 11,AMD Radeon,3.9,747.23
+Dell,AMD Ryzen 7,8,128,macOS,NVIDIA RTX 3050,4.9,1447.85
+Apple,AMD Ryzen 5,4,256,Windows 10,AMD Radeon,3.4,1078.8
+Asus,AMD Ryzen 7,8,512,Windows 10,NVIDIA RTX 3050,4.6,1512.19
+MSI,AMD Ryzen 7,32,1024,Windows 11,Integrated,4.5,2138.4
+Acer,AMD Ryzen 7,8,128,Windows 10,AMD Radeon,3.5,814.35
+Acer,AMD Ryzen 3,32,256,Windows 11,AMD Radeon,3.6,1355.11
+Acer,AMD Ryzen 7,8,256,macOS,Integrated,4.2,1232.88
+Apple,Intel i7,32,1024,macOS,Integrated,4.5,2896.85
+Acer,Intel i7,16,512,macOS,AMD Radeon,3.8,1683.28
+Dell,Intel i7,32,512,macOS,Integrated,4.6,1923.7
+Acer,Intel i7,8,256,macOS,NVIDIA GTX 1650,4.8,1502.84
+Dell,AMD Ryzen 3,32,512,macOS,AMD Radeon,4.2,1960.52
+Acer,AMD Ryzen 5,8,512,Windows 10,AMD Radeon,5.0,1136.38
+MSI,Intel i7,16,256,Windows 11,Integrated,3.8,1192.29
+Lenovo,AMD Ryzen 7,8,512,Windows 10,NVIDIA RTX 3050,3.4,1354.65
+Lenovo,AMD Ryzen 5,32,256,Windows 11,Integrated,3.9,1455.29
+Lenovo,AMD Ryzen 5,8,512,macOS,NVIDIA GTX 1650,3.7,1613.25
+MSI,Intel i7,4,1024,Windows 10,NVIDIA RTX 3050,4.4,1845.06
+HP,AMD Ryzen 7,16,128,macOS,AMD Radeon,3.8,1453.01
+Asus,AMD Ryzen 7,8,256,macOS,Integrated,4.7,1294.03
+Lenovo,AMD Ryzen 3,32,256,Windows 11,NVIDIA GTX 1650,4.1,1604.62
+HP,AMD Ryzen 7,4,128,Windows 11,Integrated,4.7,703.85
+Lenovo,AMD Ryzen 3,32,512,Windows 11,AMD Radeon,3.1,1526.02
+HP,AMD Ryzen 7,4,1024,macOS,AMD Radeon,4.4,1772.33
+Lenovo,Intel i7,4,512,macOS,Integrated,5.0,1551.79
+Asus,AMD Ryzen 5,8,128,macOS,NVIDIA RTX 3050,4.9,1441.84
+Apple,AMD Ryzen 7,32,1024,macOS,Integrated,5.0,2860.19
+Dell,Intel i3,32,256,Windows 11,Integrated,3.2,1254.83
+Asus,Intel i5,8,512,Windows 11,NVIDIA GTX 1650,4.9,1246.27
+Asus,AMD Ryzen 5,32,512,Windows 10,NVIDIA GTX 1650,3.3,1828.75
+Acer,AMD Ryzen 7,32,1024,Windows 11,NVIDIA RTX 3050,3.7,2432.9
+Asus,AMD Ryzen 5,4,1024,Windows 10,NVIDIA GTX 1650,4.6,1538.23
+MSI,AMD Ryzen 7,8,512,macOS,NVIDIA RTX 3050,4.1,1690.1
+Apple,AMD Ryzen 5,32,256,Windows 11,AMD Radeon,3.6,1863.53
+Dell,Intel i5,4,512,Windows 11,Integrated,3.8,952.02
+Dell,AMD Ryzen 7,4,128,Windows 11,NVIDIA RTX 3050,5.0,971.47
+MSI,AMD Ryzen 5,4,1024,Windows 10,AMD Radeon,3.7,1413.39
+Lenovo,AMD Ryzen 5,8,128,Windows 10,NVIDIA RTX 3050,4.1,1134.2
+Dell,Intel i7,32,256,macOS,NVIDIA RTX 3050,3.9,2251.59
+Dell,AMD Ryzen 7,32,128,Windows 10,Integrated,4.6,1582.08
+Asus,Intel i5,8,512,Windows 11,AMD Radeon,4.9,1065.17
+Dell,AMD Ryzen 5,32,512,Windows 11,NVIDIA RTX 3050,4.1,1915.43
+Asus,Intel i7,4,256,Windows 11,AMD Radeon,3.6,792.01
+Acer,AMD Ryzen 7,32,512,Windows 11,Integrated,4.6,1736.74
+Lenovo,AMD Ryzen 5,16,128,Windows 11,AMD Radeon,4.3,1007.82
+Dell,AMD Ryzen 7,4,256,macOS,NVIDIA RTX 3050,3.5,1494.91
+Acer,Intel i3,8,1024,Windows 10,Integrated,3.7,1411.37
+Dell,Intel i5,32,256,macOS,Integrated,4.9,1807.39
+MSI,Intel i7,4,512,Windows 10,Integrated,4.5,1073.22
+Acer,Intel i5,8,256,macOS,Integrated,4.4,1141.8
+Apple,AMD Ryzen 7,8,128,macOS,Integrated,4.5,1597.95
+MSI,Intel i3,32,512,macOS,Integrated,3.9,1777.13
+Asus,AMD Ryzen 7,4,128,Windows 10,NVIDIA GTX 1650,5.0,975.98
+Asus,Intel i7,16,256,Windows 10,AMD Radeon,3.1,1112.06
+Dell,Intel i7,8,1024,Windows 10,NVIDIA RTX 3050,4.6,1893.91
+Apple,Intel i7,16,512,macOS,NVIDIA RTX 3050,4.5,2416.16
+Acer,AMD Ryzen 7,8,256,Windows 11,Integrated,4.5,870.93
+Lenovo,AMD Ryzen 7,32,128,Windows 10,NVIDIA RTX 3050,3.8,1677.66
+HP,Intel i7,16,1024,macOS,Integrated,4.3,1976.78
+Apple,AMD Ryzen 3,8,256,macOS,Integrated,4.8,1338.11
+Lenovo,AMD Ryzen 3,8,128,Windows 11,AMD Radeon,4.1,674.05
+Asus,AMD Ryzen 3,8,512,Windows 11,AMD Radeon,3.7,901.46
+Dell,Intel i5,8,1024,Windows 10,NVIDIA RTX 3050,5.0,1709.25
+HP,AMD Ryzen 3,8,1024,macOS,Integrated,3.5,1542.92
+MSI,AMD Ryzen 7,4,128,macOS,NVIDIA GTX 1650,3.4,1322.99
+Apple,AMD Ryzen 7,8,128,Windows 11,AMD Radeon,4.5,1317.29
+Acer,Intel i7,8,512,Windows 10,NVIDIA RTX 3050,3.9,1472.1
+Dell,AMD Ryzen 5,32,256,macOS,NVIDIA GTX 1650,4.7,2050.13
+Asus,Intel i3,8,128,Windows 11,NVIDIA GTX 1650,4.9,749.37
+Acer,Intel i3,32,128,Windows 11,Integrated,4.5,1065.85
+MSI,Intel i5,8,256,macOS,NVIDIA GTX 1650,4.3,1375.05
+Dell,Intel i5,4,256,Windows 10,NVIDIA RTX 3050,3.7,1118.71
+HP,AMD Ryzen 5,32,512,Windows 11,AMD Radeon,4.3,1753.46
+Lenovo,Intel i5,8,128,Windows 10,AMD Radeon,4.7,743.2
+Acer,AMD Ryzen 5,16,128,macOS,Integrated,4.2,1259.4
+Acer,Intel i3,16,1024,Windows 11,Integrated,4.4,1593.35
+Asus,AMD Ryzen 3,16,256,Windows 10,NVIDIA RTX 3050,4.5,1228.66
+Acer,AMD Ryzen 5,8,1024,Windows 11,NVIDIA GTX 1650,3.5,1664.25
+MSI,Intel i5,16,512,Windows 10,AMD Radeon,4.0,1293.4
+Apple,AMD Ryzen 5,16,128,Windows 10,Integrated,4.2,1433.6
+Dell,AMD Ryzen 7,8,512,Windows 10,AMD Radeon,3.7,1124.27
+MSI,Intel i3,4,256,Windows 11,Integrated,3.2,490.85
+Apple,Intel i7,8,256,macOS,AMD Radeon,4.6,1442.39
+Apple,AMD Ryzen 5,16,128,Windows 10,NVIDIA RTX 3050,3.6,1666.68
+Dell,Intel i5,8,512,Windows 10,NVIDIA GTX 1650,3.8,1293.29
+Apple,Intel i7,32,256,Windows 11,AMD Radeon,4.1,1929.11
+Asus,Intel i7,16,512,macOS,AMD Radeon,4.4,1672.38
+Lenovo,Intel i7,32,1024,macOS,AMD Radeon,4.9,2460.48
+Acer,Intel i3,16,512,Windows 11,Integrated,3.9,1087.68
+Asus,AMD Ryzen 5,8,256,Windows 11,Integrated,3.1,764.64
+Lenovo,AMD Ryzen 3,32,256,Windows 10,NVIDIA GTX 1650,3.3,1475.12
+Acer,Intel i5,16,512,Windows 11,AMD Radeon,4.0,1286.12
+Asus,Intel i7,16,256,Windows 10,Integrated,3.6,1135.61
+Apple,Intel i5,8,256,Windows 11,Integrated,4.6,1167.33
+Apple,AMD Ryzen 5,16,128,Windows 11,NVIDIA GTX 1650,4.9,1393.71
+Acer,AMD Ryzen 7,32,1024,Windows 10,NVIDIA RTX 3050,4.0,2351.62
+HP,Intel i3,4,256,Windows 11,AMD Radeon,4.8,573.71
+MSI,Intel i7,8,512,macOS,Integrated,4.4,1375.63
+Lenovo,AMD Ryzen 5,32,256,Windows 11,NVIDIA RTX 3050,4.9,1699.37
+Asus,AMD Ryzen 7,32,512,macOS,Integrated,5.0,2065.11
+MSI,AMD Ryzen 7,4,256,Windows 10,NVIDIA RTX 3050,4.9,1129.57
+MSI,Intel i5,16,128,macOS,Integrated,3.6,1083.79
+Asus,Intel i5,4,1024,macOS,Integrated,4.6,1763.8
+HP,Intel i3,8,256,Windows 11,NVIDIA RTX 3050,4.6,961.36
+Lenovo,Intel i7,4,128,Windows 11,Integrated,3.6,735.53
+Dell,AMD Ryzen 7,32,256,Windows 10,NVIDIA GTX 1650,4.9,1725.69
+Lenovo,Intel i5,16,128,macOS,NVIDIA GTX 1650,4.9,1348.23
+Dell,AMD Ryzen 3,16,512,macOS,AMD Radeon,4.4,1481.47
+Apple,Intel i5,8,512,macOS,NVIDIA RTX 3050,4.1,1912.12
+MSI,AMD Ryzen 7,16,1024,Windows 10,NVIDIA GTX 1650,3.3,1916.7
+Asus,AMD Ryzen 5,32,128,Windows 11,AMD Radeon,3.4,1272.34
+Apple,AMD Ryzen 5,16,1024,Windows 10,NVIDIA GTX 1650,3.6,2360.17
+Asus,AMD Ryzen 3,4,128,Windows 10,NVIDIA RTX 3050,4.0,708.52
+MSI,AMD Ryzen 7,32,512,Windows 10,NVIDIA GTX 1650,3.4,1999.17
+Acer,AMD Ryzen 3,4,256,macOS,AMD Radeon,3.8,885.19
+HP,AMD Ryzen 5,8,1024,Windows 11,Integrated,3.7,1422.44
+Apple,AMD Ryzen 5,32,256,macOS,AMD Radeon,3.2,2210.67
+Lenovo,Intel i7,8,256,macOS,NVIDIA RTX 3050,4.7,1628.18
+HP,AMD Ryzen 5,32,512,Windows 11,NVIDIA RTX 3050,3.7,1998.76
+HP,AMD Ryzen 3,4,1024,Windows 11,Integrated,5.0,1286.17
+Acer,Intel i7,16,128,Windows 11,NVIDIA RTX 3050,3.8,1489.62
+HP,Intel i5,32,1024,Windows 10,AMD Radeon,4.7,2138.8
+MSI,AMD Ryzen 5,32,512,Windows 11,NVIDIA RTX 3050,4.6,2000.31
+MSI,Intel i3,4,512,Windows 10,NVIDIA RTX 3050,3.4,1051.65
+Asus,AMD Ryzen 3,16,256,macOS,AMD Radeon,3.2,1267.06
+Lenovo,AMD Ryzen 5,16,1024,macOS,NVIDIA GTX 1650,4.8,2093.73
+Acer,Intel i5,32,256,Windows 10,Integrated,4.3,1429.0
+Apple,Intel i5,16,128,Windows 11,AMD Radeon,3.4,1380.15
+Lenovo,Intel i3,32,256,Windows 11,Integrated,4.9,1252.71
+Dell,AMD Ryzen 3,8,128,Windows 11,AMD Radeon,4.6,597.74
+HP,Intel i3,16,1024,Windows 11,NVIDIA RTX 3050,4.3,1911.36
+Dell,AMD Ryzen 7,8,128,macOS,AMD Radeon,4.2,1206.16
+Acer,Intel i5,32,256,Windows 11,AMD Radeon,4.7,1296.79
+Apple,AMD Ryzen 7,32,128,Windows 11,NVIDIA GTX 1650,4.6,2117.92
+Asus,Intel i5,8,512,macOS,AMD Radeon,4.5,1322.31
+Lenovo,AMD Ryzen 5,32,128,macOS,NVIDIA GTX 1650,3.9,1858.88
+Dell,AMD Ryzen 5,16,256,Windows 10,NVIDIA RTX 3050,3.3,1338.74
+MSI,AMD Ryzen 3,4,128,Windows 11,NVIDIA RTX 3050,4.0,853.6
+MSI,Intel i7,8,512,macOS,Integrated,3.0,1436.0
+Lenovo,Intel i3,32,512,Windows 11,NVIDIA GTX 1650,3.2,1809.51
+MSI,AMD Ryzen 7,8,128,Windows 10,AMD Radeon,3.5,869.39
+MSI,Intel i3,32,1024,macOS,AMD Radeon,3.4,2216.84
+Acer,AMD Ryzen 7,8,1024,macOS,AMD Radeon,4.2,1889.81
+Dell,Intel i5,4,512,Windows 10,Integrated,4.0,979.95
+Lenovo,Intel i3,16,1024,macOS,Integrated,4.2,1898.49
+Asus,AMD Ryzen 3,4,1024,Windows 10,NVIDIA RTX 3050,4.7,1651.29
+Acer,Intel i7,4,128,Windows 10,NVIDIA GTX 1650,3.6,952.38
+MSI,AMD Ryzen 5,4,256,macOS,NVIDIA RTX 3050,3.5,1447.73
+Lenovo,Intel i5,16,512,Windows 10,AMD Radeon,4.5,1460.93
+Lenovo,Intel i7,32,512,macOS,NVIDIA RTX 3050,3.5,2442.39
+Apple,Intel i5,16,512,Windows 11,NVIDIA GTX 1650,4.2,1895.24
+Dell,Intel i5,32,128,macOS,AMD Radeon,4.1,1599.95
+Lenovo,AMD Ryzen 5,4,256,Windows 10,AMD Radeon,4.8,841.98
+Acer,Intel i3,4,256,Windows 11,Integrated,4.9,651.81
+MSI,AMD Ryzen 7,8,512,Windows 11,Integrated,3.5,1173.59
+MSI,Intel i5,32,512,macOS,Integrated,3.8,1946.0
+Asus,AMD Ryzen 7,8,512,Windows 11,AMD Radeon,5.0,1122.52
+Apple,AMD Ryzen 7,32,128,Windows 10,NVIDIA RTX 3050,3.9,2265.9
+Apple,AMD Ryzen 3,8,256,macOS,Integrated,4.9,1515.91
+Apple,Intel i3,8,128,Windows 10,NVIDIA GTX 1650,4.0,1311.22
+Apple,Intel i7,32,128,Windows 10,AMD Radeon,3.8,1987.94
+HP,AMD Ryzen 3,4,1024,macOS,NVIDIA GTX 1650,3.1,1881.58
+Dell,AMD Ryzen 5,16,1024,Windows 10,AMD Radeon,4.6,1758.49
+HP,AMD Ryzen 3,16,512,macOS,AMD Radeon,4.8,1291.33
+Lenovo,Intel i7,16,512,Windows 10,Integrated,4.0,1299.39
+Apple,Intel i5,32,512,Windows 10,AMD Radeon,3.4,2136.69
+Asus,AMD Ryzen 7,32,256,Windows 11,Integrated,3.4,1505.86
+Acer,Intel i3,16,256,Windows 11,NVIDIA RTX 3050,3.7,1320.43
+Apple,Intel i7,4,256,macOS,NVIDIA GTX 1650,4.9,1636.34
+Dell,Intel i5,4,256,Windows 10,AMD Radeon,4.9,704.18
+MSI,Intel i5,32,512,Windows 10,AMD Radeon,3.1,1629.37
+Lenovo,Intel i7,8,1024,Windows 11,Integrated,4.8,1537.27
+Lenovo,AMD Ryzen 3,16,256,Windows 10,NVIDIA GTX 1650,4.6,1140.13
+Apple,Intel i5,32,512,Windows 11,NVIDIA GTX 1650,4.6,2145.48
+MSI,AMD Ryzen 7,16,1024,macOS,NVIDIA RTX 3050,4.0,2500.21
+HP,AMD Ryzen 5,8,1024,Windows 10,NVIDIA RTX 3050,4.6,1828.54
+Lenovo,Intel i5,16,512,Windows 10,NVIDIA RTX 3050,3.3,1521.48
+Lenovo,Intel i5,32,128,macOS,NVIDIA RTX 3050,3.1,1973.86
+Lenovo,Intel i7,32,1024,macOS,NVIDIA GTX 1650,3.3,2481.81
+Asus,Intel i7,4,512,Windows 10,AMD Radeon,4.1,1135.61
+Asus,AMD Ryzen 7,4,128,Windows 10,NVIDIA RTX 3050,3.2,1065.67
+Apple,Intel i5,4,256,Windows 10,Integrated,3.9,1223.18
+Dell,Intel i3,8,1024,Windows 10,Integrated,4.6,1189.2
+Apple,AMD Ryzen 7,4,1024,Windows 10,NVIDIA RTX 3050,5.0,2193.14
+HP,AMD Ryzen 7,4,512,Windows 11,AMD Radeon,3.2,1069.43
+Asus,Intel i3,32,512,macOS,AMD Radeon,4.0,1782.5
+Dell,AMD Ryzen 3,8,128,Windows 11,AMD Radeon,4.9,597.59
+Apple,AMD Ryzen 7,4,128,Windows 10,Integrated,3.1,1057.79
+HP,AMD Ryzen 5,8,512,macOS,AMD Radeon,3.1,1397.65
+HP,Intel i3,16,512,macOS,NVIDIA RTX 3050,3.6,1718.03
+Acer,AMD Ryzen 3,32,128,Windows 10,NVIDIA RTX 3050,4.5,1505.82
+Apple,AMD Ryzen 7,16,256,macOS,AMD Radeon,3.8,1944.88
+Lenovo,AMD Ryzen 3,4,256,Windows 10,Integrated,4.4,626.02
+HP,Intel i7,32,1024,Windows 11,Integrated,4.2,2119.15
+Asus,Intel i7,32,128,Windows 11,AMD Radeon,3.3,1460.18
+MSI,AMD Ryzen 7,4,256,Windows 10,Integrated,3.8,752.93
+MSI,Intel i7,16,512,Windows 11,Integrated,4.2,1284.36
+MSI,Intel i3,4,128,macOS,NVIDIA RTX 3050,3.6,1062.15
+MSI,Intel i5,32,1024,macOS,NVIDIA GTX 1650,3.7,2622.91
+Acer,AMD Ryzen 5,4,512,Windows 10,NVIDIA GTX 1650,4.0,1146.77
+Asus,AMD Ryzen 5,8,128,Windows 10,AMD Radeon,4.0,672.69
+Dell,Intel i5,8,128,Windows 11,NVIDIA RTX 3050,3.6,1100.44
+MSI,AMD Ryzen 5,16,128,macOS,NVIDIA GTX 1650,4.4,1461.63
+Asus,AMD Ryzen 5,32,128,macOS,NVIDIA GTX 1650,4.3,1849.12
+Apple,Intel i7,8,128,Windows 11,Integrated,4.6,1118.23
+Lenovo,Intel i3,32,256,macOS,Integrated,4.1,1561.89
+Asus,Intel i5,8,128,Windows 10,Integrated,4.2,693.15
+HP,AMD Ryzen 7,32,128,macOS,NVIDIA RTX 3050,4.4,2108.48
+HP,AMD Ryzen 3,32,1024,Windows 10,Integrated,4.2,1990.35
+Asus,Intel i3,4,128,Windows 11,AMD Radeon,3.5,552.06
+Acer,AMD Ryzen 5,32,512,Windows 11,NVIDIA RTX 3050,4.4,1814.95
+Acer,AMD Ryzen 3,8,128,Windows 11,Integrated,3.6,627.61
+Acer,Intel i7,16,128,Windows 10,NVIDIA GTX 1650,4.7,1235.34
+Acer,AMD Ryzen 3,4,256,Windows 10,AMD Radeon,4.0,640.45
+MSI,AMD Ryzen 5,16,128,Windows 11,NVIDIA GTX 1650,4.6,1167.3
+MSI,Intel i3,16,256,macOS,Integrated,3.4,1199.18
+Asus,Intel i5,16,256,macOS,NVIDIA GTX 1650,3.3,1591.22
+Lenovo,AMD Ryzen 7,32,1024,Windows 10,NVIDIA RTX 3050,3.8,2470.0
+Apple,Intel i3,32,512,Windows 10,AMD Radeon,4.8,1892.78
+MSI,AMD Ryzen 7,4,512,Windows 11,AMD Radeon,3.8,1022.33
+MSI,AMD Ryzen 7,32,512,Windows 11,AMD Radeon,4.2,1745.91
+Lenovo,Intel i5,4,512,Windows 10,Integrated,4.7,907.05
+Apple,Intel i5,16,256,Windows 10,NVIDIA GTX 1650,3.7,1721.0
+Dell,AMD Ryzen 7,32,512,Windows 11,NVIDIA RTX 3050,3.2,2133.84
+Apple,AMD Ryzen 5,8,512,Windows 11,AMD Radeon,3.7,1413.46
+MSI,AMD Ryzen 7,16,1024,macOS,AMD Radeon,3.6,2116.54
+Acer,Intel i3,4,512,Windows 11,AMD Radeon,4.2,853.81
+Lenovo,AMD Ryzen 7,4,1024,macOS,NVIDIA RTX 3050,4.9,2064.58
+MSI,Intel i3,16,512,Windows 11,Integrated,4.3,1106.44
+MSI,AMD Ryzen 3,4,128,macOS,NVIDIA RTX 3050,4.0,1045.0
+Acer,AMD Ryzen 5,16,512,Windows 10,AMD Radeon,4.5,1079.79
+MSI,Intel i5,8,256,Windows 11,NVIDIA GTX 1650,3.1,1060.25
+Asus,Intel i7,8,512,Windows 10,Integrated,3.3,1173.65
+Acer,AMD Ryzen 7,32,128,Windows 10,Integrated,3.1,1466.56
+Acer,Intel i5,8,256,macOS,Integrated,3.1,1029.24
+Acer,Intel i3,8,256,macOS,NVIDIA GTX 1650,3.9,1285.53
+Apple,AMD Ryzen 5,32,128,Windows 10,Integrated,4.6,1741.74
+Acer,Intel i5,8,1024,Windows 10,NVIDIA RTX 3050,3.9,1833.55
+Acer,Intel i5,8,256,Windows 10,NVIDIA RTX 3050,4.7,1092.69
+Acer,AMD Ryzen 3,32,1024,macOS,Integrated,4.1,2304.04
+HP,Intel i3,16,1024,Windows 11,AMD Radeon,3.6,1514.21
+HP,AMD Ryzen 5,8,512,Windows 11,Integrated,4.4,1050.6
+Asus,AMD Ryzen 3,4,256,macOS,NVIDIA RTX 3050,4.5,1260.33
+Dell,AMD Ryzen 3,8,128,macOS,AMD Radeon,4.8,883.05
+HP,Intel i5,32,1024,Windows 10,Integrated,3.2,2040.83
+Apple,AMD Ryzen 5,4,128,macOS,NVIDIA RTX 3050,4.6,1675.76
+Apple,Intel i7,8,256,Windows 11,NVIDIA GTX 1650,3.1,1587.08
+MSI,Intel i5,8,512,Windows 11,NVIDIA GTX 1650,4.6,1241.58
+HP,Intel i7,4,128,Windows 11,NVIDIA GTX 1650,4.7,1021.1
+MSI,AMD Ryzen 3,8,512,macOS,NVIDIA GTX 1650,3.7,1329.82
+MSI,Intel i7,8,512,Windows 10,NVIDIA RTX 3050,3.4,1400.36
+Apple,AMD Ryzen 7,4,256,macOS,AMD Radeon,4.6,1574.59
+Dell,AMD Ryzen 7,32,256,macOS,NVIDIA GTX 1650,3.6,2181.67
+Apple,Intel i3,16,256,Windows 11,NVIDIA RTX 3050,4.3,1618.38
+Acer,Intel i3,16,128,macOS,Integrated,4.7,1200.15
+Asus,Intel i7,4,256,Windows 11,AMD Radeon,3.2,855.49
+Dell,Intel i3,16,512,macOS,AMD Radeon,4.2,1504.02
+Asus,Intel i5,8,128,Windows 11,NVIDIA GTX 1650,3.9,1075.55
+HP,AMD Ryzen 5,4,128,Windows 11,NVIDIA GTX 1650,4.5,908.92
+Asus,Intel i3,8,512,Windows 10,NVIDIA GTX 1650,3.2,1014.76
+MSI,Intel i5,4,512,macOS,AMD Radeon,4.9,1125.12
+Dell,AMD Ryzen 3,4,512,macOS,Integrated,4.4,1206.58
+MSI,AMD Ryzen 7,16,1024,Windows 11,Integrated,3.7,1770.29
+MSI,Intel i7,16,128,Windows 11,Integrated,4.9,1141.04
+MSI,Intel i3,4,128,Windows 11,AMD Radeon,4.3,538.47
+MSI,Intel i5,16,256,Windows 11,NVIDIA GTX 1650,4.6,1182.2
+HP,Intel i7,16,512,Windows 11,NVIDIA RTX 3050,4.3,1636.33
+Dell,AMD Ryzen 7,16,1024,Windows 10,AMD Radeon,3.9,1729.85
+Asus,Intel i5,16,128,macOS,Integrated,4.4,1289.42
+Apple,Intel i5,4,512,Windows 11,Integrated,4.2,1314.29
+Acer,AMD Ryzen 7,32,128,Windows 10,AMD Radeon,4.8,1348.64
+HP,Intel i3,32,256,Windows 10,AMD Radeon,4.9,1354.5
+Acer,Intel i5,16,128,Windows 11,Integrated,4.8,891.86
+HP,AMD Ryzen 3,4,128,Windows 11,Integrated,3.7,446.95
+HP,Intel i7,32,1024,macOS,NVIDIA RTX 3050,3.1,2858.59
+Acer,Intel i7,16,1024,Windows 10,NVIDIA RTX 3050,4.5,2058.47
+HP,AMD Ryzen 7,32,128,Windows 11,AMD Radeon,4.0,1511.43
+HP,Intel i3,8,512,Windows 10,AMD Radeon,4.5,869.02
+Lenovo,Intel i3,16,256,macOS,AMD Radeon,4.6,1284.82
+Acer,AMD Ryzen 7,16,256,Windows 11,AMD Radeon,4.6,1129.85
+Dell,Intel i3,8,256,Windows 11,AMD Radeon,4.5,786.83
+Asus,AMD Ryzen 7,32,1024,macOS,Integrated,3.4,2486.42
+Dell,Intel i5,4,128,macOS,NVIDIA RTX 3050,4.9,1183.25
+Acer,Intel i5,16,256,Windows 11,AMD Radeon,4.0,1059.28
+Acer,AMD Ryzen 7,32,256,Windows 11,AMD Radeon,3.2,1626.01
+Asus,AMD Ryzen 3,32,256,Windows 11,Integrated,3.7,1224.61
+Asus,Intel i5,32,1024,macOS,NVIDIA GTX 1650,4.2,2450.43
+Asus,Intel i5,32,1024,Windows 11,AMD Radeon,3.6,2071.17
+Acer,AMD Ryzen 3,8,256,macOS,NVIDIA GTX 1650,4.2,1259.81
+Lenovo,Intel i7,8,1024,macOS,Integrated,3.2,1909.52
+Lenovo,Intel i7,8,128,macOS,Integrated,4.1,1184.51
+MSI,Intel i7,4,256,Windows 10,NVIDIA GTX 1650,3.1,1102.06
+HP,AMD Ryzen 5,16,512,Windows 11,NVIDIA RTX 3050,4.4,1418.85
+Asus,AMD Ryzen 7,32,512,Windows 11,NVIDIA GTX 1650,3.1,1913.98
+Apple,Intel i7,4,1024,macOS,AMD Radeon,3.3,2196.43
+HP,Intel i5,4,256,Windows 10,AMD Radeon,4.2,692.23
+Acer,Intel i7,16,512,Windows 10,NVIDIA RTX 3050,3.5,1703.36
+HP,Intel i5,16,1024,Windows 10,AMD Radeon,3.4,1630.06
+Acer,Intel i5,32,128,Windows 11,AMD Radeon,3.9,1390.42
+Acer,AMD Ryzen 7,4,1024,Windows 11,NVIDIA GTX 1650,4.9,1669.55
+Dell,Intel i5,8,256,Windows 11,Integrated,3.9,916.29
+Asus,Intel i5,16,256,Windows 11,NVIDIA GTX 1650,4.1,1246.84
+HP,AMD Ryzen 5,32,256,Windows 10,Integrated,3.5,1582.65
+Dell,Intel i7,8,1024,Windows 10,AMD Radeon,4.7,1515.57
+Apple,Intel i3,32,256,Windows 11,NVIDIA GTX 1650,3.9,1859.06
+MSI,Intel i5,4,1024,Windows 11,NVIDIA RTX 3050,3.2,1663.27
+Acer,Intel i5,8,512,Windows 10,Integrated,3.1,1016.17
+Lenovo,Intel i7,8,128,Windows 11,NVIDIA GTX 1650,3.7,1001.5
+Asus,AMD Ryzen 5,8,512,Windows 10,NVIDIA RTX 3050,4.7,1335.73
+HP,AMD Ryzen 3,4,512,Windows 10,AMD Radeon,4.0,843.91
+Apple,Intel i7,8,512,macOS,NVIDIA GTX 1650,3.3,2124.12
+Asus,Intel i5,4,128,Windows 11,Integrated,4.1,572.63
+Lenovo,Intel i5,8,512,Windows 11,NVIDIA RTX 3050,4.5,1307.51
+HP,AMD Ryzen 5,4,256,Windows 11,NVIDIA RTX 3050,4.4,1064.11
+MSI,AMD Ryzen 7,32,128,macOS,Integrated,4.1,1805.63
+Lenovo,Intel i5,32,128,Windows 10,Integrated,3.6,1346.16
+MSI,AMD Ryzen 3,32,512,macOS,NVIDIA RTX 3050,3.4,2200.48
+Acer,AMD Ryzen 7,4,1024,macOS,AMD Radeon,4.2,1762.23
+Acer,AMD Ryzen 5,4,512,macOS,AMD Radeon,3.4,1241.16
+Lenovo,AMD Ryzen 7,4,512,macOS,Integrated,3.6,1167.88
+Asus,AMD Ryzen 7,32,1024,macOS,Integrated,5.0,2479.81
+HP,AMD Ryzen 5,16,256,Windows 10,AMD Radeon,4.6,1042.88
+Acer,Intel i3,16,1024,Windows 10,AMD Radeon,4.8,1452.24
+Lenovo,Intel i5,16,128,macOS,NVIDIA GTX 1650,3.6,1344.98
+HP,AMD Ryzen 3,8,1024,macOS,NVIDIA GTX 1650,3.1,1777.16
+Asus,Intel i3,16,1024,Windows 11,AMD Radeon,4.3,1592.99
+Lenovo,Intel i7,8,512,Windows 10,NVIDIA RTX 3050,3.5,1489.16
+Apple,AMD Ryzen 3,4,128,macOS,Integrated,3.5,1234.32
+Asus,AMD Ryzen 5,8,256,Windows 10,NVIDIA RTX 3050,4.3,1139.13
+Dell,Intel i7,16,1024,macOS,NVIDIA GTX 1650,4.8,2292.28
+Apple,AMD Ryzen 7,32,128,macOS,Integrated,4.2,2070.24
+MSI,Intel i5,4,1024,macOS,NVIDIA GTX 1650,3.1,1880.75
+Lenovo,Intel i7,8,512,Windows 10,AMD Radeon,3.7,1156.42
+Dell,AMD Ryzen 5,16,512,Windows 11,AMD Radeon,4.0,1319.21
+HP,Intel i3,8,512,Windows 10,AMD Radeon,4.1,990.58
+Asus,AMD Ryzen 3,16,256,macOS,NVIDIA GTX 1650,4.1,1265.15
+HP,AMD Ryzen 5,4,512,Windows 11,Integrated,3.4,968.02
+Apple,AMD Ryzen 3,32,1024,macOS,Integrated,3.4,2704.82
+MSI,Intel i5,32,256,Windows 10,Integrated,3.1,1421.64
+HP,Intel i5,8,256,macOS,AMD Radeon,4.4,1074.84
+Dell,AMD Ryzen 7,4,256,Windows 10,Integrated,3.0,859.39
+Acer,Intel i5,4,256,macOS,AMD Radeon,4.2,1023.55
+Asus,Intel i5,4,128,Windows 11,AMD Radeon,4.8,647.67
+Acer,Intel i7,4,1024,Windows 11,AMD Radeon,3.8,1551.5
+MSI,AMD Ryzen 7,16,1024,Windows 11,NVIDIA GTX 1650,4.8,1851.78
+Acer,AMD Ryzen 5,8,512,Windows 11,Integrated,3.6,1067.89
+Dell,Intel i7,4,512,Windows 10,NVIDIA GTX 1650,3.1,1212.63
+Asus,AMD Ryzen 3,32,128,Windows 11,Integrated,3.9,1144.37
+Acer,AMD Ryzen 5,4,512,Windows 10,Integrated,4.3,1074.95
+Lenovo,Intel i7,32,512,Windows 11,NVIDIA RTX 3050,4.2,2061.92
+Apple,AMD Ryzen 3,16,128,Windows 10,NVIDIA RTX 3050,4.7,1470.06
+Apple,Intel i7,16,128,macOS,AMD Radeon,3.2,1746.67
+Apple,AMD Ryzen 5,8,256,Windows 10,NVIDIA RTX 3050,4.2,1543.74
+Dell,AMD Ryzen 7,32,512,macOS,NVIDIA RTX 3050,3.8,2295.76
+MSI,AMD Ryzen 3,32,1024,Windows 10,NVIDIA RTX 3050,4.2,2075.93
+Lenovo,AMD Ryzen 5,32,1024,Windows 10,Integrated,3.4,1940.42
+Lenovo,AMD Ryzen 7,16,1024,Windows 11,NVIDIA GTX 1650,4.7,1971.62
+Lenovo,AMD Ryzen 3,8,512,macOS,Integrated,4.1,1227.14
+Apple,Intel i5,16,1024,Windows 11,AMD Radeon,3.9,2146.86
+MSI,Intel i3,16,128,Windows 11,AMD Radeon,4.9,859.36
+Asus,Intel i3,32,1024,Windows 11,NVIDIA RTX 3050,3.3,2197.32
+MSI,AMD Ryzen 3,4,256,macOS,AMD Radeon,4.6,935.75
+MSI,AMD Ryzen 3,8,128,Windows 11,NVIDIA GTX 1650,3.6,757.22
+Asus,Intel i5,8,256,macOS,NVIDIA GTX 1650,4.3,1321.26
+Dell,Intel i7,32,512,macOS,NVIDIA RTX 3050,4.4,2460.82
+Apple,Intel i5,8,128,Windows 11,NVIDIA RTX 3050,3.4,1441.97
+Lenovo,Intel i7,8,256,Windows 11,NVIDIA RTX 3050,3.1,1345.18
+Asus,AMD Ryzen 5,32,128,macOS,Integrated,4.1,1623.73
+Dell,AMD Ryzen 3,8,512,Windows 10,AMD Radeon,4.4,858.56
+Lenovo,AMD Ryzen 5,16,128,Windows 11,AMD Radeon,4.7,844.89
+Acer,AMD Ryzen 7,16,512,Windows 10,AMD Radeon,3.2,1201.72
+Apple,AMD Ryzen 7,4,512,Windows 11,Integrated,3.4,1508.07
+HP,Intel i3,4,1024,Windows 11,AMD Radeon,3.4,1123.58
+Lenovo,Intel i5,8,512,macOS,NVIDIA RTX 3050,4.7,1745.12
+HP,Intel i3,4,1024,Windows 11,AMD Radeon,4.1,1406.62
+Lenovo,Intel i7,32,128,Windows 11,NVIDIA RTX 3050,4.4,1766.21
+Asus,Intel i5,16,1024,macOS,NVIDIA RTX 3050,3.9,2173.22
+Acer,Intel i5,8,128,macOS,AMD Radeon,4.3,1046.61
+Asus,Intel i3,4,512,Windows 11,Integrated,3.6,761.52
+Apple,AMD Ryzen 7,8,256,Windows 11,AMD Radeon,3.2,1432.43
+Acer,Intel i3,32,128,Windows 11,NVIDIA GTX 1650,4.1,1435.82
+MSI,Intel i5,8,256,Windows 10,Integrated,3.9,884.51
+HP,Intel i7,32,1024,Windows 11,NVIDIA RTX 3050,3.3,2333.57
+Apple,AMD Ryzen 7,16,256,Windows 11,NVIDIA GTX 1650,4.3,1786.07
+Asus,AMD Ryzen 5,16,128,Windows 10,NVIDIA RTX 3050,3.6,1234.67
+Acer,Intel i7,8,1024,macOS,NVIDIA GTX 1650,4.8,2046.39
+Asus,Intel i5,4,512,Windows 11,AMD Radeon,3.2,885.82
+Dell,AMD Ryzen 5,8,128,Windows 11,NVIDIA RTX 3050,3.9,1161.8
+Acer,AMD Ryzen 3,16,128,Windows 11,NVIDIA GTX 1650,3.1,988.78
+Dell,AMD Ryzen 5,16,512,Windows 11,NVIDIA GTX 1650,3.0,1480.04
+Lenovo,Intel i3,16,512,macOS,NVIDIA RTX 3050,3.5,1663.48
+Dell,Intel i3,16,256,macOS,NVIDIA RTX 3050,3.7,1545.37
+HP,AMD Ryzen 5,4,256,Windows 11,AMD Radeon,4.6,820.51
+MSI,Intel i5,8,1024,Windows 11,Integrated,3.1,1464.09
+HP,AMD Ryzen 5,8,256,Windows 10,Integrated,4.3,872.06
+Apple,AMD Ryzen 3,8,1024,Windows 10,NVIDIA GTX 1650,4.3,1951.38
+Acer,Intel i7,4,256,Windows 11,NVIDIA RTX 3050,4.6,1101.05
+HP,AMD Ryzen 7,16,256,Windows 11,Integrated,4.8,1178.11
+Apple,AMD Ryzen 5,32,512,Windows 11,NVIDIA RTX 3050,3.0,2241.2
+Asus,Intel i5,8,512,Windows 11,Integrated,4.1,1190.06
+HP,AMD Ryzen 5,8,1024,Windows 10,NVIDIA GTX 1650,3.8,1727.79
+MSI,Intel i3,32,128,Windows 11,AMD Radeon,3.2,1068.87
+Lenovo,AMD Ryzen 5,8,128,macOS,Integrated,4.3,1077.98
+Asus,AMD Ryzen 5,4,256,macOS,NVIDIA GTX 1650,3.7,1318.56
+Dell,Intel i5,8,1024,Windows 10,NVIDIA GTX 1650,3.7,1700.53
+Apple,AMD Ryzen 5,8,256,Windows 10,NVIDIA GTX 1650,3.1,1534.86
+Apple,AMD Ryzen 5,32,512,Windows 10,Integrated,3.6,2101.13
+Dell,AMD Ryzen 5,32,128,Windows 11,Integrated,3.3,1289.01
+Apple,AMD Ryzen 3,4,256,Windows 10,Integrated,3.0,1046.3

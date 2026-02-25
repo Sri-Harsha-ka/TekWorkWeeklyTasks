@@ -1,0 +1,1001 @@
+order_id,customer_id,customer_age,order_amount,order_date,payment_mode,city,delivery_days,is_delivered
+ORD1000,,,250.5,2023-01-15,Debit Card,,5,True
+ORD1001,,18,1200,2023/03/10,Debit Card,,5,yes
+ORD1002,CUST2,35,,,,Mumbai,7,yes
+ORD1003,user_3,35,1200,2023-01-15,Cash,,three,False
+ORD1004,user_4,-3,3500.75,2023-01-15,CARD,,three,yes
+,,,1200,2023-01-15,CARD,mumbai,1,False
+ORD1006,CUST6,-3,N/A,,upi,Bangalore,5,no
+ORD1007,,120,,2023-01-15,CARD,,5,no
+ORD1008,user_8,18,N/A,2023/03/10,Debit Card,,7,False
+,user_9,NA,N/A,2023/03/10,UPI,Delhi,-1,no
+,,65,₹999,2023-01-15,Credit Card,Bangalore,7,False
+,CUST11,18,3500.75,,Cash,Mumbai,-1,False
+ORD1012,,65,₹999,invalid,Credit Card,Delhi,7,False
+,CUST13,,N/A,invalid,Cash,Mumbai,7,False
+ORD1014,CUST14,25,N/A,2023/03/10,upi,DELHI,5,yes
+,CUST15,NA,499.99,2023-01-15,Credit Card,Hyderabad,2,
+,,50,₹999,15/02/2023,CARD,Delhi,,
+,,-3,,15/02/2023,upi,Hyderabad,,True
+,user_18,18,250.5,2023/03/10,Cash,Hyderabad,5,yes
+,user_19,NA,250.5,,Debit Card,Mumbai,2,
+,,18,1200,invalid,,Delhi,5,
+,,25,499.99,,Credit Card,Mumbai,,yes
+,,35,3500.75,2023-01-15,Debit Card,Mumbai,,
+,,35,3500.75,,,,1,no
+ORD1024,CUST24,,₹999,invalid,Credit Card,DELHI,1,yes
+,,35,3500.75,2023/03/10,Cash,DELHI,1,True
+,user_26,25,,2023/03/10,Debit Card,Hyderabad,7,no
+,,25,₹999,2023-01-15,,,,True
+ORD1028,CUST28,NA,₹999,,Cash,,,
+,user_29,NA,N/A,,Debit Card,DELHI,7,True
+ORD1030,user_30,65,3500.75,15/02/2023,CARD,DELHI,,no
+,user_31,18,,2023/03/10,CARD,mumbai,three,False
+ORD1032,,25,,2023-01-15,CARD,mumbai,2,
+ORD1033,user_33,120,499.99,15/02/2023,upi,Bangalore,,yes
+ORD1034,,120,3500.75,2023/03/10,Debit Card,Hyderabad,7,True
+,user_35,50,499.99,,Cash,DELHI,-1,yes
+,CUST36,50,499.99,2023/03/10,Credit Card,Bangalore,7,
+,,,3500.75,15/02/2023,CARD,mumbai,7,
+,CUST38,35,,15/02/2023,CARD,,1,True
+,,65,,invalid,Debit Card,Mumbai,three,True
+,,35,,15/02/2023,UPI,Hyderabad,1,True
+,,18,3500.75,invalid,UPI,mumbai,three,yes
+,user_42,18,N/A,invalid,,Hyderabad,,True
+ORD1043,,50,499.99,15/02/2023,CARD,Mumbai,7,yes
+ORD1044,,NA,3500.75,15/02/2023,upi,mumbai,three,yes
+ORD1045,,50,₹999,,Debit Card,Delhi,,no
+ORD1046,,35,₹999,15/02/2023,upi,Delhi,7,False
+,user_47,25,N/A,2023/03/10,Cash,Mumbai,-1,
+,,50,₹999,2023-01-15,Credit Card,Delhi,1,yes
+ORD1049,CUST49,120,3500.75,15/02/2023,,Hyderabad,-1,False
+,,35,N/A,2023/03/10,,Hyderabad,5,
+ORD1051,user_51,50,499.99,15/02/2023,CARD,Delhi,-1,
+,,50,1200,,Debit Card,Bangalore,,yes
+,user_53,120,3500.75,,Debit Card,Hyderabad,,
+,user_54,35,,,Credit Card,,5,
+ORD1055,CUST55,35,3500.75,invalid,UPI,Delhi,three,False
+ORD1056,user_56,25,3500.75,2023/03/10,UPI,Bangalore,2,False
+ORD1057,CUST57,35,N/A,15/02/2023,Credit Card,Mumbai,-1,yes
+,,65,₹999,,Cash,Delhi,1,yes
+,,-3,3500.75,15/02/2023,Cash,Bangalore,three,False
+,,50,₹999,,CARD,Bangalore,three,no
+,CUST61,,N/A,2023-01-15,Debit Card,Mumbai,three,True
+ORD1062,,25,₹999,invalid,Cash,Delhi,2,False
+,,18,1200,2023-01-15,Credit Card,Delhi,1,
+,,25,3500.75,2023/03/10,UPI,mumbai,1,no
+ORD1065,user_65,18,N/A,invalid,Debit Card,Bangalore,three,True
+ORD1066,,-3,1200,15/02/2023,,,7,yes
+,user_67,25,499.99,invalid,,mumbai,1,yes
+,user_68,120,250.5,,CARD,,-1,
+,user_69,-3,3500.75,,Credit Card,mumbai,,no
+,,50,3500.75,invalid,Cash,DELHI,2,
+,,65,499.99,2023/03/10,Debit Card,Mumbai,,False
+,,25,3500.75,invalid,Cash,,three,yes
+,,25,₹999,2023/03/10,CARD,Delhi,three,False
+,user_74,-3,499.99,2023/03/10,upi,mumbai,1,yes
+,CUST75,,1200,15/02/2023,upi,Delhi,1,False
+,,,3500.75,invalid,,Hyderabad,-1,yes
+ORD1077,,-3,₹999,2023-01-15,,Hyderabad,,
+ORD1078,CUST78,50,₹999,2023-01-15,Cash,mumbai,2,False
+,CUST79,,N/A,15/02/2023,CARD,,,yes
+,CUST80,120,3500.75,2023/03/10,upi,,2,yes
+,user_81,50,499.99,2023-01-15,Debit Card,DELHI,,False
+,user_82,18,1200,2023-01-15,Debit Card,Mumbai,,True
+,,65,250.5,2023-01-15,,Bangalore,7,False
+,user_84,35,1200,invalid,Cash,,2,False
+,,120,3500.75,15/02/2023,Cash,,1,yes
+ORD1086,,50,N/A,15/02/2023,,mumbai,three,yes
+ORD1087,CUST87,-3,3500.75,,UPI,mumbai,-1,no
+,,-3,499.99,2023/03/10,upi,,-1,False
+,user_89,65,N/A,2023/03/10,CARD,Hyderabad,1,yes
+,,,499.99,15/02/2023,CARD,Bangalore,1,True
+,,18,,15/02/2023,,Delhi,2,True
+ORD1092,,50,499.99,2023-01-15,Credit Card,Bangalore,2,no
+,,25,499.99,2023-01-15,UPI,Mumbai,5,
+,,NA,3500.75,invalid,Cash,mumbai,,False
+,user_95,120,499.99,15/02/2023,Debit Card,Bangalore,,True
+,CUST96,35,N/A,,Cash,,5,True
+,user_97,NA,,invalid,UPI,DELHI,three,no
+,,35,3500.75,invalid,CARD,Delhi,5,True
+,,50,250.5,2023-01-15,Debit Card,Hyderabad,-1,
+,,35,1200,,CARD,,-1,yes
+,,35,,2023/03/10,Cash,Delhi,-1,no
+ORD1102,user_102,-3,₹999,,UPI,Mumbai,5,False
+,user_103,25,,invalid,upi,mumbai,-1,True
+,,120,250.5,invalid,Cash,DELHI,7,no
+,,,1200,2023/03/10,Credit Card,,1,False
+,,NA,₹999,,upi,,1,yes
+,,,1200,invalid,Cash,Bangalore,three,False
+,CUST108,35,3500.75,invalid,,Bangalore,,True
+ORD1109,,,₹999,2023-01-15,,mumbai,7,yes
+,,35,250.5,invalid,Debit Card,,7,
+,CUST111,-3,1200,invalid,Debit Card,Delhi,three,
+,user_112,-3,₹999,,upi,Delhi,three,yes
+,user_113,50,,,CARD,Bangalore,three,
+,,120,N/A,2023/03/10,Debit Card,Delhi,5,no
+ORD1115,,-3,250.5,2023-01-15,Cash,mumbai,-1,False
+,,NA,N/A,invalid,UPI,Delhi,-1,True
+,CUST117,18,250.5,2023/03/10,Debit Card,Delhi,5,True
+,,35,N/A,2023-01-15,UPI,Bangalore,2,True
+,CUST119,25,250.5,invalid,,Delhi,7,
+ORD1120,CUST120,120,N/A,invalid,,,,
+,CUST121,,3500.75,2023/03/10,Cash,Bangalore,7,no
+,CUST122,,,2023/03/10,Debit Card,Hyderabad,three,False
+,CUST123,25,₹999,,upi,mumbai,-1,False
+ORD1124,,25,,15/02/2023,CARD,Mumbai,-1,False
+,,50,250.5,2023-01-15,CARD,DELHI,2,True
+ORD1126,CUST126,120,250.5,2023/03/10,CARD,,-1,
+,,35,₹999,,CARD,DELHI,7,True
+,,-3,1200,invalid,,mumbai,,False
+,CUST129,25,250.5,15/02/2023,,,-1,
+ORD1130,user_130,18,₹999,invalid,UPI,Mumbai,-1,True
+,user_131,50,₹999,2023/03/10,Cash,,three,
+,CUST132,35,₹999,,Debit Card,Delhi,2,
+,CUST133,NA,₹999,15/02/2023,Debit Card,Mumbai,2,yes
+ORD1134,,-3,₹999,,,Hyderabad,,no
+,user_135,25,250.5,15/02/2023,UPI,,,
+ORD1136,,25,250.5,2023-01-15,UPI,Delhi,2,
+ORD1137,,,N/A,2023-01-15,UPI,Bangalore,1,no
+ORD1138,,120,₹999,15/02/2023,upi,mumbai,-1,yes
+ORD1139,CUST139,120,3500.75,2023-01-15,UPI,Hyderabad,1,yes
+ORD1140,user_140,65,499.99,2023-01-15,Credit Card,,three,False
+,,25,₹999,invalid,UPI,Delhi,1,False
+,user_142,-3,,15/02/2023,,Bangalore,5,
+,user_143,25,3500.75,2023-01-15,Debit Card,Hyderabad,-1,
+,user_144,25,₹999,,upi,DELHI,5,
+,,25,3500.75,2023/03/10,Cash,Mumbai,1,True
+,CUST146,18,,,UPI,DELHI,5,yes
+ORD1147,user_147,50,,invalid,Credit Card,Hyderabad,7,
+ORD1148,,-3,1200,15/02/2023,CARD,DELHI,2,
+ORD1149,CUST149,18,499.99,,Credit Card,DELHI,7,
+,,-3,N/A,invalid,Credit Card,Bangalore,three,no
+,,NA,N/A,15/02/2023,Cash,,2,yes
+,CUST152,25,3500.75,2023-01-15,Cash,Bangalore,7,yes
+,,25,1200,invalid,CARD,Delhi,three,
+ORD1154,,50,N/A,invalid,UPI,Delhi,,no
+,CUST155,NA,499.99,2023-01-15,upi,Delhi,-1,yes
+,CUST156,18,₹999,,Credit Card,DELHI,three,
+,CUST157,35,1200,2023/03/10,Cash,Mumbai,-1,yes
+,,35,499.99,2023-01-15,UPI,mumbai,three,no
+,,25,N/A,2023-01-15,Credit Card,,5,yes
+,,35,250.5,2023/03/10,UPI,,2,no
+ORD1161,,35,250.5,2023/03/10,UPI,Bangalore,2,
+,user_162,25,1200,invalid,Cash,Delhi,-1,no
+,CUST163,25,250.5,15/02/2023,Debit Card,mumbai,1,yes
+,,35,3500.75,2023-01-15,CARD,Mumbai,1,no
+ORD1165,,50,250.5,2023/03/10,Cash,DELHI,2,True
+,,25,,2023-01-15,Credit Card,Delhi,1,
+ORD1167,CUST167,35,3500.75,invalid,Cash,Hyderabad,5,False
+,,50,3500.75,2023-01-15,,,three,True
+ORD1169,,,499.99,2023/03/10,UPI,mumbai,,
+,,NA,1200,2023-01-15,Cash,DELHI,-1,True
+ORD1171,CUST171,NA,250.5,invalid,Cash,,three,no
+ORD1172,user_172,65,₹999,invalid,,Bangalore,,False
+ORD1173,user_173,-3,N/A,2023-01-15,upi,,2,no
+,,NA,499.99,15/02/2023,Debit Card,Bangalore,7,no
+,CUST175,120,N/A,2023-01-15,Credit Card,Bangalore,1,False
+,user_176,18,,2023/03/10,Credit Card,Bangalore,5,False
+,,50,499.99,2023-01-15,CARD,Delhi,,True
+ORD1178,CUST178,120,₹999,15/02/2023,upi,,7,
+ORD1179,,50,499.99,2023/03/10,Credit Card,Delhi,1,False
+,CUST180,50,₹999,2023-01-15,upi,Delhi,,False
+,CUST181,-3,499.99,15/02/2023,,mumbai,-1,yes
+ORD1182,,NA,3500.75,15/02/2023,Debit Card,Bangalore,three,
+,user_183,120,250.5,2023/03/10,upi,Delhi,5,False
+,CUST184,65,499.99,15/02/2023,Debit Card,Hyderabad,three,False
+ORD1185,,50,,2023-01-15,Cash,Delhi,7,no
+,CUST186,25,250.5,2023-01-15,Credit Card,DELHI,,True
+,,50,499.99,2023/03/10,UPI,Delhi,,
+ORD1188,user_188,18,1200,2023/03/10,CARD,Delhi,2,
+,,NA,1200,invalid,CARD,Delhi,2,True
+ORD1190,CUST190,120,1200,invalid,Debit Card,Hyderabad,three,no
+,,18,250.5,2023/03/10,upi,Delhi,1,True
+,,120,3500.75,2023/03/10,Cash,mumbai,5,False
+,user_193,,3500.75,invalid,Cash,Hyderabad,2,yes
+,CUST194,-3,250.5,15/02/2023,CARD,Delhi,2,False
+ORD1195,,,250.5,invalid,Cash,Delhi,,yes
+,,18,499.99,2023/03/10,UPI,Hyderabad,three,False
+,CUST197,35,499.99,,UPI,,,True
+,,25,499.99,2023/03/10,UPI,Bangalore,7,yes
+,,,₹999,invalid,,Delhi,2,
+,CUST200,18,250.5,,Cash,Bangalore,,True
+ORD1201,,25,,invalid,,Bangalore,three,True
+ORD1202,CUST202,65,,invalid,Credit Card,Hyderabad,5,True
+,CUST203,,499.99,invalid,upi,Hyderabad,,no
+,CUST204,35,1200,2023-01-15,,mumbai,three,no
+,user_205,65,1200,15/02/2023,UPI,Bangalore,,
+,,35,3500.75,,CARD,Bangalore,1,no
+,,-3,1200,15/02/2023,Credit Card,Hyderabad,,
+,CUST208,50,250.5,2023/03/10,upi,Hyderabad,,
+,,,250.5,,Credit Card,Delhi,5,False
+,,,499.99,invalid,Cash,,2,True
+,user_211,35,499.99,,upi,,1,yes
+,,25,N/A,15/02/2023,UPI,Hyderabad,three,no
+,,,N/A,15/02/2023,upi,Bangalore,-1,True
+,,50,3500.75,2023/03/10,Debit Card,Delhi,2,no
+,,NA,499.99,,Cash,,1,no
+ORD1216,user_216,NA,250.5,2023/03/10,upi,Mumbai,1,
+ORD1217,,35,N/A,15/02/2023,Debit Card,Delhi,-1,
+ORD1218,,65,,2023-01-15,UPI,Mumbai,5,False
+,CUST219,50,499.99,2023/03/10,CARD,,7,yes
+,CUST220,65,N/A,2023/03/10,upi,Bangalore,7,True
+ORD1221,,50,₹999,,UPI,,-1,yes
+ORD1222,,18,1200,2023/03/10,Credit Card,Hyderabad,,True
+ORD1223,,-3,N/A,2023/03/10,UPI,Bangalore,,False
+,,120,N/A,15/02/2023,Debit Card,,5,yes
+ORD1225,CUST225,,₹999,2023/03/10,upi,Hyderabad,7,True
+,user_226,50,₹999,2023/03/10,upi,Mumbai,,False
+,CUST227,,N/A,2023-01-15,upi,mumbai,1,
+,user_228,-3,3500.75,2023-01-15,,Mumbai,three,
+ORD1229,CUST229,-3,250.5,2023/03/10,Credit Card,Delhi,2,yes
+ORD1230,CUST230,-3,,2023/03/10,UPI,DELHI,7,
+,,-3,250.5,invalid,UPI,Bangalore,three,yes
+,CUST232,65,499.99,,CARD,Bangalore,2,False
+,,120,₹999,2023-01-15,,Bangalore,5,yes
+ORD1234,CUST234,18,₹999,,Cash,Mumbai,2,True
+ORD1235,,-3,N/A,,CARD,Delhi,2,False
+ORD1236,,,499.99,invalid,UPI,Delhi,three,yes
+ORD1237,CUST237,25,499.99,15/02/2023,UPI,Bangalore,2,True
+ORD1238,user_238,,,2023-01-15,CARD,DELHI,-1,False
+,CUST239,18,3500.75,2023/03/10,Credit Card,DELHI,,True
+,user_240,35,250.5,invalid,Credit Card,mumbai,7,no
+,,NA,499.99,2023/03/10,UPI,mumbai,7,no
+,,25,3500.75,,,DELHI,,True
+,,50,3500.75,invalid,Credit Card,Hyderabad,1,False
+ORD1244,,25,₹999,15/02/2023,Debit Card,Mumbai,three,True
+,,25,499.99,,Cash,,1,no
+ORD1246,,NA,1200,2023-01-15,Credit Card,mumbai,1,True
+,CUST247,NA,N/A,,CARD,,1,no
+,user_248,25,499.99,,Credit Card,Hyderabad,2,yes
+ORD1249,,65,₹999,,Cash,Mumbai,7,yes
+ORD1250,,,1200,2023/03/10,CARD,Bangalore,7,no
+,user_251,NA,,,UPI,Mumbai,three,no
+ORD1252,,18,499.99,15/02/2023,upi,Mumbai,2,no
+ORD1253,user_253,35,N/A,invalid,upi,Delhi,7,False
+ORD1254,user_254,25,1200,invalid,CARD,Delhi,,False
+ORD1255,user_255,-3,N/A,2023/03/10,Cash,Delhi,7,no
+ORD1256,,18,3500.75,2023-01-15,CARD,mumbai,three,yes
+,,50,250.5,2023-01-15,Debit Card,mumbai,7,yes
+,,,3500.75,,UPI,,1,no
+ORD1259,user_259,120,3500.75,2023/03/10,CARD,Bangalore,,no
+,CUST260,50,N/A,2023-01-15,Debit Card,DELHI,1,False
+ORD1261,user_261,NA,,15/02/2023,upi,,2,False
+,CUST262,-3,₹999,2023/03/10,UPI,,1,yes
+ORD1263,,18,₹999,2023/03/10,Debit Card,Bangalore,,False
+,,50,499.99,invalid,,Hyderabad,2,False
+ORD1265,CUST265,-3,N/A,2023/03/10,UPI,mumbai,7,yes
+ORD1266,,,1200,2023/03/10,upi,Mumbai,-1,
+ORD1267,CUST267,,3500.75,,Debit Card,DELHI,1,yes
+,user_268,35,,2023/03/10,UPI,Bangalore,2,
+,user_269,65,250.5,,CARD,Delhi,5,no
+,,35,₹999,2023-01-15,CARD,Delhi,-1,False
+ORD1271,CUST271,50,N/A,15/02/2023,,mumbai,,False
+,user_272,65,,2023-01-15,UPI,,-1,
+ORD1273,user_273,NA,3500.75,2023/03/10,Cash,Mumbai,-1,no
+,,-3,499.99,15/02/2023,UPI,Bangalore,7,False
+,,-3,N/A,invalid,Cash,Hyderabad,three,True
+,,,3500.75,invalid,upi,Delhi,2,no
+,,65,₹999,15/02/2023,,mumbai,three,
+ORD1278,user_278,,1200,15/02/2023,Credit Card,DELHI,-1,no
+,,50,1200,,Cash,mumbai,three,
+,CUST280,-3,,15/02/2023,CARD,,5,yes
+ORD1281,,120,3500.75,,Debit Card,Mumbai,three,False
+,CUST282,65,499.99,2023-01-15,Cash,DELHI,three,True
+,,65,,2023/03/10,UPI,Mumbai,7,True
+,,-3,3500.75,,,DELHI,1,yes
+,CUST285,35,3500.75,2023-01-15,CARD,mumbai,2,True
+,user_286,-3,3500.75,15/02/2023,UPI,Mumbai,2,no
+ORD1287,,50,3500.75,invalid,CARD,DELHI,7,
+,CUST288,120,250.5,15/02/2023,Credit Card,Delhi,-1,
+ORD1289,,-3,499.99,invalid,Credit Card,Bangalore,-1,yes
+,CUST290,65,1200,15/02/2023,CARD,Hyderabad,-1,yes
+,,65,N/A,,,DELHI,7,
+,user_292,120,₹999,,UPI,Bangalore,7,True
+ORD1293,CUST293,18,250.5,15/02/2023,upi,DELHI,7,False
+,user_294,18,₹999,,Cash,Bangalore,,
+,CUST295,50,499.99,invalid,UPI,mumbai,5,
+ORD1296,CUST296,65,3500.75,invalid,Credit Card,,,no
+ORD1297,user_297,,1200,2023/03/10,CARD,Hyderabad,7,no
+,,-3,,2023/03/10,Credit Card,Delhi,three,no
+,,NA,499.99,2023/03/10,CARD,DELHI,,yes
+ORD1300,CUST300,,250.5,2023/03/10,CARD,Bangalore,2,yes
+ORD1301,,18,,15/02/2023,CARD,Hyderabad,three,
+,,25,₹999,2023-01-15,upi,Hyderabad,three,
+ORD1303,user_303,35,250.5,2023-01-15,Cash,Hyderabad,-1,False
+,,NA,250.5,2023/03/10,Debit Card,DELHI,-1,True
+,user_305,120,,2023-01-15,upi,,three,True
+ORD1306,CUST306,,499.99,2023-01-15,Credit Card,mumbai,7,yes
+,CUST307,35,250.5,2023/03/10,,DELHI,1,False
+,,NA,N/A,,Cash,,,False
+,user_309,-3,,2023/03/10,UPI,Bangalore,1,False
+,,-3,250.5,2023-01-15,upi,Hyderabad,1,True
+,user_311,NA,3500.75,2023/03/10,CARD,,5,no
+,CUST312,25,1200,,Debit Card,Mumbai,-1,True
+,user_313,50,3500.75,,CARD,Hyderabad,three,True
+,,NA,499.99,2023/03/10,CARD,Bangalore,-1,yes
+ORD1315,,65,499.99,2023/03/10,Credit Card,DELHI,three,no
+ORD1316,CUST316,,250.5,invalid,Debit Card,Delhi,three,False
+,,25,499.99,invalid,upi,,5,True
+ORD1318,user_318,120,3500.75,,Credit Card,,2,False
+,,120,,invalid,,Hyderabad,7,False
+ORD1320,user_320,NA,250.5,2023/03/10,UPI,Bangalore,2,yes
+,CUST321,25,₹999,invalid,CARD,,2,yes
+,,25,N/A,2023/03/10,upi,Mumbai,-1,False
+,user_323,NA,499.99,invalid,UPI,mumbai,2,no
+ORD1324,user_324,-3,N/A,invalid,CARD,mumbai,2,
+ORD1325,CUST325,18,,invalid,Debit Card,Bangalore,2,
+,CUST326,120,₹999,,Cash,,5,
+,,50,N/A,2023-01-15,Debit Card,DELHI,2,False
+,CUST328,35,,,Debit Card,,5,yes
+ORD1329,,18,₹999,invalid,CARD,Delhi,5,no
+,CUST330,50,₹999,,CARD,Hyderabad,,True
+ORD1331,user_331,35,N/A,2023/03/10,CARD,Hyderabad,three,no
+ORD1332,,120,₹999,2023-01-15,,DELHI,three,True
+,,NA,499.99,2023/03/10,Debit Card,Bangalore,7,no
+,user_334,50,499.99,2023-01-15,upi,Delhi,-1,no
+,,,250.5,,CARD,Mumbai,7,no
+ORD1336,CUST336,35,499.99,2023/03/10,CARD,DELHI,three,False
+ORD1337,,120,N/A,2023-01-15,CARD,,2,
+,,18,499.99,invalid,UPI,mumbai,7,no
+,,,250.5,invalid,,Mumbai,1,
+ORD1340,user_340,25,₹999,2023/03/10,,mumbai,,True
+ORD1341,,35,3500.75,2023/03/10,Debit Card,,1,True
+ORD1342,,65,,2023-01-15,Credit Card,Hyderabad,1,no
+ORD1343,,120,,,CARD,mumbai,three,True
+,,,1200,2023/03/10,Credit Card,Hyderabad,7,True
+,,25,1200,2023/03/10,UPI,Delhi,1,True
+,,,N/A,2023/03/10,Cash,mumbai,2,False
+,CUST347,18,250.5,,Cash,DELHI,2,no
+,user_348,18,1200,invalid,Credit Card,DELHI,2,no
+,,35,₹999,,CARD,Delhi,-1,yes
+,user_350,25,3500.75,15/02/2023,,,5,no
+ORD1351,,65,N/A,2023/03/10,UPI,Mumbai,7,no
+,user_352,35,₹999,2023-01-15,Cash,mumbai,7,yes
+,,,1200,15/02/2023,UPI,Mumbai,three,yes
+ORD1354,,25,,invalid,Cash,,1,False
+ORD1355,CUST355,50,250.5,2023/03/10,upi,mumbai,,no
+ORD1356,user_356,35,1200,2023/03/10,,Bangalore,1,
+,,50,,invalid,upi,DELHI,2,False
+,,NA,3500.75,,CARD,DELHI,1,yes
+,CUST359,50,499.99,invalid,Cash,Hyderabad,-1,
+ORD1360,CUST360,120,,2023-01-15,CARD,Mumbai,5,no
+ORD1361,CUST361,,250.5,2023/03/10,Cash,DELHI,2,
+,CUST362,35,,2023/03/10,Debit Card,DELHI,7,
+,,50,3500.75,2023/03/10,CARD,Bangalore,three,False
+,,18,N/A,2023-01-15,upi,Mumbai,,
+,user_365,NA,N/A,2023-01-15,upi,Delhi,7,True
+,user_366,35,₹999,invalid,CARD,DELHI,-1,yes
+,,25,,2023-01-15,UPI,mumbai,,False
+ORD1368,CUST368,18,3500.75,15/02/2023,CARD,mumbai,three,no
+,CUST369,120,250.5,,upi,DELHI,2,yes
+ORD1370,,NA,1200,2023/03/10,Debit Card,Hyderabad,5,yes
+ORD1371,user_371,-3,N/A,2023/03/10,Credit Card,,7,False
+ORD1372,,35,1200,15/02/2023,Credit Card,mumbai,-1,no
+,,35,,invalid,UPI,Delhi,,
+,,120,250.5,2023-01-15,Cash,Bangalore,2,no
+,,35,,15/02/2023,UPI,Delhi,5,yes
+,CUST376,25,499.99,15/02/2023,upi,Mumbai,1,yes
+,user_377,-3,499.99,15/02/2023,UPI,,7,yes
+ORD1378,CUST378,65,250.5,invalid,,DELHI,-1,False
+,user_379,-3,1200,2023/03/10,,mumbai,,True
+ORD1380,,120,499.99,invalid,Cash,Bangalore,7,yes
+ORD1381,,,1200,invalid,upi,Mumbai,5,True
+ORD1382,user_382,35,499.99,invalid,Credit Card,DELHI,,True
+,CUST383,120,499.99,2023/03/10,,Mumbai,7,False
+ORD1384,,35,N/A,15/02/2023,upi,Delhi,1,yes
+,,,499.99,2023-01-15,UPI,,7,
+,,50,3500.75,15/02/2023,Cash,,1,yes
+,,120,250.5,,Cash,mumbai,three,no
+,,-3,₹999,2023-01-15,Debit Card,DELHI,5,
+,,120,N/A,15/02/2023,UPI,DELHI,,
+ORD1390,CUST390,,250.5,invalid,Debit Card,Mumbai,5,
+,CUST391,65,250.5,2023/03/10,,Bangalore,2,True
+,user_392,50,₹999,,Cash,mumbai,7,no
+ORD1393,,,250.5,15/02/2023,,Hyderabad,1,True
+,user_394,NA,1200,15/02/2023,Cash,Hyderabad,2,True
+,,120,499.99,2023-01-15,UPI,mumbai,,False
+ORD1396,,18,₹999,,Credit Card,DELHI,7,no
+ORD1397,CUST397,-3,,2023/03/10,Credit Card,DELHI,,
+ORD1398,user_398,120,499.99,invalid,CARD,Hyderabad,7,True
+ORD1399,,35,499.99,,Debit Card,Bangalore,5,no
+,,65,N/A,2023/03/10,,DELHI,-1,
+ORD1401,CUST401,35,1200,2023/03/10,CARD,Delhi,,yes
+,,,499.99,2023-01-15,Debit Card,DELHI,7,no
+,user_403,65,,2023/03/10,upi,,-1,False
+ORD1404,,50,250.5,2023/03/10,,Bangalore,three,no
+ORD1405,CUST405,35,,2023/03/10,Credit Card,Mumbai,-1,True
+,,25,3500.75,2023-01-15,Debit Card,Delhi,7,
+,,65,1200,2023-01-15,CARD,DELHI,-1,True
+,,120,,,Credit Card,DELHI,5,no
+ORD1409,CUST409,,,15/02/2023,Debit Card,Hyderabad,three,True
+,,65,250.5,2023/03/10,Cash,Delhi,three,no
+ORD1411,CUST411,,,,Cash,Delhi,1,
+,user_412,65,499.99,15/02/2023,Debit Card,mumbai,2,False
+ORD1413,,,3500.75,2023-01-15,upi,,three,True
+,CUST414,65,,,Credit Card,mumbai,2,True
+,user_415,35,₹999,,Cash,,,yes
+,,NA,₹999,2023/03/10,CARD,Bangalore,7,True
+,,35,N/A,2023/03/10,Debit Card,mumbai,5,yes
+ORD1418,CUST418,,1200,invalid,UPI,Delhi,2,
+,,35,250.5,15/02/2023,Credit Card,,three,False
+,,,250.5,2023/03/10,CARD,Delhi,,False
+,user_421,35,1200,15/02/2023,Cash,Hyderabad,7,
+,,18,3500.75,,Cash,,,False
+ORD1423,,NA,499.99,2023/03/10,,Hyderabad,2,True
+,,18,499.99,15/02/2023,Debit Card,Mumbai,,no
+,,NA,250.5,2023/03/10,Cash,Hyderabad,-1,True
+,CUST426,25,3500.75,,CARD,Delhi,1,True
+,CUST427,120,250.5,15/02/2023,Cash,Mumbai,7,False
+,user_428,25,250.5,invalid,Debit Card,Hyderabad,5,True
+,user_429,35,₹999,2023-01-15,CARD,,-1,
+,CUST430,NA,,2023-01-15,Cash,Mumbai,,False
+ORD1431,,25,3500.75,invalid,,Mumbai,2,
+,,50,₹999,2023-01-15,CARD,Mumbai,three,True
+,,,499.99,,Cash,DELHI,-1,False
+ORD1434,,65,,15/02/2023,Cash,Delhi,three,yes
+,CUST435,25,250.5,2023/03/10,CARD,Bangalore,three,
+,user_436,18,3500.75,2023/03/10,,Hyderabad,5,yes
+,user_437,65,₹999,invalid,Debit Card,Hyderabad,7,no
+,CUST438,50,,invalid,Credit Card,Delhi,-1,True
+,,120,₹999,2023/03/10,UPI,Delhi,1,False
+,,,₹999,2023-01-15,Debit Card,Mumbai,2,no
+ORD1441,user_441,50,499.99,invalid,CARD,Hyderabad,,False
+,,18,,15/02/2023,,Hyderabad,1,False
+,,25,,,Debit Card,Mumbai,three,yes
+,,65,₹999,2023-01-15,Debit Card,Bangalore,three,False
+ORD1445,,35,₹999,2023-01-15,UPI,Bangalore,7,no
+,CUST446,,499.99,2023/03/10,Debit Card,Delhi,1,False
+ORD1447,,65,499.99,invalid,UPI,Delhi,-1,
+ORD1448,CUST448,50,,invalid,upi,Bangalore,7,True
+,CUST449,25,₹999,,Debit Card,,2,False
+,,,1200,invalid,upi,Hyderabad,-1,yes
+,user_451,25,N/A,,Debit Card,DELHI,1,False
+,user_452,-3,N/A,,UPI,Delhi,,True
+,,,3500.75,2023-01-15,Credit Card,Mumbai,three,no
+ORD1454,,NA,250.5,2023-01-15,upi,Delhi,2,False
+,,18,250.5,invalid,,DELHI,2,True
+,CUST456,65,3500.75,2023-01-15,Credit Card,DELHI,7,False
+,user_457,-3,,,upi,Mumbai,1,
+ORD1458,CUST458,-3,499.99,2023/03/10,UPI,Hyderabad,-1,False
+,,-3,₹999,15/02/2023,,Bangalore,-1,False
+,,NA,3500.75,invalid,UPI,Mumbai,-1,
+ORD1461,CUST461,120,N/A,invalid,,Bangalore,5,
+,user_462,50,1200,invalid,UPI,Hyderabad,-1,True
+ORD1463,,65,N/A,2023-01-15,Credit Card,Mumbai,1,False
+,CUST464,65,₹999,2023/03/10,Cash,Delhi,7,True
+ORD1465,user_465,18,,2023/03/10,Credit Card,Mumbai,1,True
+,,,N/A,,CARD,Bangalore,,yes
+,,-3,,2023/03/10,Cash,Hyderabad,1,False
+ORD1468,,NA,3500.75,,Debit Card,Hyderabad,1,no
+,,,1200,invalid,,Bangalore,-1,yes
+ORD1470,CUST470,NA,N/A,15/02/2023,Cash,,,False
+ORD1471,,35,,2023/03/10,UPI,Bangalore,,False
+,,-3,N/A,invalid,,Hyderabad,7,no
+,,-3,₹999,2023/03/10,Debit Card,,2,True
+,,50,499.99,,Cash,Hyderabad,1,True
+ORD1475,user_475,25,250.5,2023/03/10,Cash,Hyderabad,-1,yes
+,,65,₹999,2023-01-15,Debit Card,Delhi,7,
+,CUST477,18,3500.75,2023-01-15,CARD,Delhi,5,no
+ORD1478,CUST478,18,250.5,,UPI,,5,yes
+,CUST479,25,₹999,2023-01-15,UPI,,1,no
+,CUST480,-3,N/A,2023/03/10,CARD,mumbai,7,yes
+,,,3500.75,2023-01-15,upi,Hyderabad,,
+,,18,N/A,2023/03/10,,Bangalore,1,
+ORD1483,CUST483,-3,,,Cash,Bangalore,7,True
+,,35,3500.75,,Credit Card,Mumbai,5,True
+ORD1485,,-3,499.99,invalid,Credit Card,mumbai,5,True
+ORD1486,,65,,2023-01-15,,DELHI,7,
+,,NA,N/A,2023/03/10,Cash,Delhi,1,False
+,user_488,120,,2023-01-15,UPI,Mumbai,5,yes
+ORD1489,,18,N/A,15/02/2023,Credit Card,Bangalore,,
+,user_490,NA,3500.75,2023/03/10,CARD,Bangalore,1,False
+,user_491,-3,250.5,invalid,upi,Bangalore,-1,no
+ORD1492,CUST492,NA,250.5,invalid,Credit Card,mumbai,,yes
+,,-3,1200,2023-01-15,CARD,Hyderabad,-1,no
+ORD1494,,,3500.75,,,,,False
+,user_495,18,250.5,invalid,Debit Card,Bangalore,5,
+,,50,250.5,invalid,CARD,Delhi,7,False
+,CUST497,-3,250.5,2023-01-15,Cash,mumbai,2,yes
+,user_498,35,₹999,,upi,Delhi,2,
+ORD1499,CUST499,65,,15/02/2023,Credit Card,mumbai,7,True
+ORD1500,,,,invalid,UPI,Delhi,-1,False
+,,50,₹999,2023/03/10,CARD,mumbai,1,True
+,CUST502,50,N/A,2023-01-15,,Delhi,5,yes
+ORD1503,user_503,NA,250.5,2023/03/10,Cash,mumbai,three,
+ORD1504,user_504,18,250.5,2023-01-15,Credit Card,DELHI,5,False
+ORD1505,user_505,120,,,Debit Card,DELHI,5,no
+,,-3,N/A,invalid,Credit Card,Hyderabad,1,False
+,user_507,NA,1200,,Debit Card,Bangalore,-1,False
+,CUST508,120,3500.75,15/02/2023,Debit Card,Delhi,1,False
+ORD1509,user_509,25,250.5,15/02/2023,CARD,DELHI,-1,no
+,,120,250.5,,Credit Card,mumbai,-1,False
+,user_511,,250.5,15/02/2023,UPI,,1,yes
+ORD1512,CUST512,65,N/A,15/02/2023,Cash,Mumbai,-1,False
+ORD1513,,NA,₹999,15/02/2023,,DELHI,2,False
+ORD1514,user_514,35,3500.75,2023/03/10,upi,Bangalore,5,no
+,,35,499.99,,Debit Card,mumbai,1,no
+,,NA,N/A,2023-01-15,UPI,Delhi,three,yes
+ORD1517,,NA,499.99,2023/03/10,Credit Card,DELHI,,yes
+,CUST518,35,,,Cash,mumbai,2,True
+,,25,499.99,15/02/2023,CARD,,7,True
+,user_520,,250.5,15/02/2023,Credit Card,Delhi,5,no
+,CUST521,18,499.99,15/02/2023,UPI,Hyderabad,7,False
+,user_522,NA,250.5,2023-01-15,,,1,
+,CUST523,18,3500.75,invalid,Cash,Bangalore,7,
+,,-3,3500.75,invalid,upi,Bangalore,-1,yes
+,,,250.5,2023-01-15,upi,mumbai,1,True
+,user_526,25,1200,invalid,UPI,Hyderabad,-1,True
+ORD1527,user_527,18,499.99,2023/03/10,Debit Card,DELHI,2,yes
+,user_528,120,₹999,invalid,,Hyderabad,-1,yes
+,,65,1200,15/02/2023,upi,,7,True
+ORD1530,,,N/A,invalid,Debit Card,Delhi,,True
+ORD1531,,120,1200,2023-01-15,Cash,DELHI,2,True
+,,50,,,Debit Card,Bangalore,,yes
+ORD1533,,65,499.99,,UPI,Delhi,2,no
+,,120,499.99,15/02/2023,upi,DELHI,1,no
+,user_535,50,499.99,invalid,,Mumbai,three,no
+ORD1536,CUST536,NA,₹999,,UPI,Mumbai,,
+,CUST537,120,1200,,upi,DELHI,,yes
+ORD1538,,,499.99,invalid,,Hyderabad,5,
+,user_539,NA,250.5,2023-01-15,UPI,,7,False
+,CUST540,50,499.99,2023/03/10,UPI,DELHI,three,True
+,CUST541,18,3500.75,2023/03/10,Credit Card,Bangalore,1,yes
+,,-3,₹999,,,,1,True
+ORD1543,user_543,,,invalid,,,-1,
+,CUST544,-3,₹999,,Cash,Hyderabad,three,
+,,35,₹999,,Credit Card,mumbai,1,True
+ORD1546,user_546,35,250.5,15/02/2023,Cash,DELHI,1,no
+,,,499.99,15/02/2023,Credit Card,,three,no
+,CUST548,NA,N/A,2023-01-15,upi,mumbai,2,True
+ORD1549,user_549,35,499.99,15/02/2023,upi,mumbai,7,True
+,user_550,NA,1200,,Cash,Mumbai,7,True
+,CUST551,25,3500.75,15/02/2023,CARD,Delhi,three,yes
+ORD1552,,18,N/A,2023-01-15,CARD,Hyderabad,5,
+ORD1553,,NA,499.99,2023/03/10,,Hyderabad,,no
+,user_554,65,250.5,2023-01-15,Debit Card,Mumbai,2,False
+,,65,3500.75,,upi,DELHI,5,yes
+,CUST556,NA,1200,2023/03/10,Debit Card,Bangalore,three,True
+,,-3,₹999,15/02/2023,UPI,,1,True
+ORD1558,user_558,50,N/A,invalid,Debit Card,Delhi,,yes
+ORD1559,,120,3500.75,2023-01-15,,Bangalore,5,no
+,user_560,50,N/A,invalid,Debit Card,Mumbai,,False
+,user_561,25,3500.75,2023-01-15,upi,DELHI,-1,yes
+,CUST562,120,499.99,15/02/2023,CARD,Delhi,three,False
+ORD1563,CUST563,120,N/A,15/02/2023,CARD,Hyderabad,2,no
+ORD1564,user_564,-3,₹999,2023-01-15,Credit Card,Delhi,5,False
+ORD1565,,50,₹999,2023-01-15,upi,DELHI,,True
+ORD1566,CUST566,35,250.5,invalid,Cash,Bangalore,three,False
+ORD1567,CUST567,NA,N/A,,UPI,Mumbai,2,no
+,user_568,120,₹999,2023-01-15,,mumbai,1,no
+ORD1569,user_569,65,1200,invalid,,Bangalore,1,yes
+,,35,3500.75,15/02/2023,Debit Card,Delhi,5,yes
+ORD1571,,,3500.75,15/02/2023,Cash,Delhi,-1,True
+,,25,₹999,,UPI,Bangalore,5,
+,,25,3500.75,,upi,DELHI,2,False
+,,120,₹999,2023-01-15,CARD,Bangalore,2,no
+,,65,N/A,2023-01-15,Credit Card,Bangalore,7,False
+,,25,499.99,2023/03/10,Debit Card,mumbai,three,False
+,,NA,250.5,,Credit Card,mumbai,three,False
+,,120,₹999,,Credit Card,Mumbai,three,no
+,,120,,2023-01-15,Credit Card,Hyderabad,1,no
+ORD1580,CUST580,50,₹999,15/02/2023,Cash,Delhi,three,
+ORD1581,CUST581,120,499.99,invalid,upi,Hyderabad,5,yes
+ORD1582,user_582,,1200,2023/03/10,upi,,2,True
+,CUST583,-3,499.99,2023/03/10,UPI,DELHI,1,
+ORD1584,user_584,35,₹999,invalid,UPI,Hyderabad,2,
+ORD1585,CUST585,25,₹999,2023/03/10,Cash,Bangalore,5,False
+ORD1586,user_586,120,N/A,15/02/2023,Credit Card,Hyderabad,7,True
+ORD1587,CUST587,120,N/A,invalid,UPI,Bangalore,1,yes
+,CUST588,,₹999,2023-01-15,UPI,Mumbai,7,False
+ORD1589,CUST589,65,N/A,invalid,CARD,Bangalore,-1,True
+ORD1590,CUST590,25,N/A,2023-01-15,Cash,Bangalore,2,no
+,,18,3500.75,,,Delhi,,yes
+,,NA,3500.75,2023-01-15,,Bangalore,1,True
+ORD1593,CUST593,35,N/A,invalid,Debit Card,Delhi,1,yes
+,,NA,₹999,15/02/2023,CARD,Hyderabad,three,no
+,CUST595,120,3500.75,2023/03/10,UPI,DELHI,,True
+,,-3,250.5,invalid,Debit Card,DELHI,2,True
+,,-3,250.5,invalid,,mumbai,,False
+,,35,₹999,15/02/2023,CARD,mumbai,5,no
+,CUST599,35,₹999,,Credit Card,DELHI,2,False
+ORD1600,,65,1200,2023/03/10,CARD,DELHI,1,True
+,CUST601,50,250.5,2023/03/10,Debit Card,Hyderabad,three,yes
+,user_602,35,,15/02/2023,Cash,DELHI,three,True
+,,-3,250.5,,CARD,Delhi,1,yes
+ORD1604,,50,3500.75,2023/03/10,CARD,mumbai,7,True
+,user_605,18,499.99,15/02/2023,upi,Delhi,-1,no
+ORD1606,,50,3500.75,,Debit Card,Mumbai,-1,False
+ORD1607,,50,₹999,invalid,,,7,yes
+,,NA,3500.75,2023-01-15,Debit Card,Hyderabad,three,False
+,,NA,N/A,15/02/2023,Credit Card,Delhi,three,no
+,,18,₹999,2023-01-15,upi,mumbai,1,yes
+,CUST611,65,₹999,15/02/2023,upi,Hyderabad,,False
+,CUST612,18,250.5,2023/03/10,Cash,DELHI,7,
+,,25,₹999,15/02/2023,UPI,mumbai,1,yes
+ORD1614,,,,invalid,upi,Hyderabad,2,True
+,,50,499.99,2023/03/10,Credit Card,mumbai,three,no
+,,18,,2023-01-15,Cash,,2,no
+ORD1617,,35,₹999,invalid,,Mumbai,7,True
+,user_618,NA,N/A,15/02/2023,upi,Hyderabad,1,
+,CUST619,NA,₹999,2023-01-15,Credit Card,Mumbai,,True
+,user_620,NA,1200,,CARD,,5,no
+ORD1621,,65,250.5,15/02/2023,,Mumbai,-1,yes
+,,-3,250.5,2023-01-15,upi,,,False
+,CUST623,,250.5,invalid,upi,DELHI,1,False
+ORD1624,,25,,2023-01-15,Debit Card,Bangalore,2,no
+ORD1625,CUST625,,₹999,2023/03/10,Cash,Delhi,5,False
+,CUST626,50,3500.75,invalid,CARD,Bangalore,,yes
+,user_627,65,3500.75,,Credit Card,,three,True
+,,50,₹999,2023-01-15,upi,Delhi,-1,no
+,user_629,18,3500.75,2023-01-15,upi,Bangalore,2,
+,user_630,,499.99,,Credit Card,Mumbai,7,
+ORD1631,user_631,NA,250.5,,UPI,DELHI,three,False
+,user_632,NA,N/A,15/02/2023,Debit Card,Mumbai,7,yes
+,CUST633,NA,250.5,2023/03/10,upi,Bangalore,three,False
+,CUST634,18,250.5,2023/03/10,UPI,,three,no
+,CUST635,65,₹999,2023/03/10,upi,Delhi,7,yes
+,user_636,,250.5,2023-01-15,upi,Delhi,5,False
+,user_637,50,N/A,2023-01-15,Cash,mumbai,7,True
+ORD1638,,120,1200,15/02/2023,Debit Card,Bangalore,5,True
+,CUST639,-3,499.99,2023-01-15,Cash,DELHI,-1,no
+,,120,1200,15/02/2023,,Mumbai,2,
+,,25,1200,invalid,,Mumbai,7,False
+,CUST642,NA,499.99,2023/03/10,CARD,Hyderabad,5,False
+,user_643,-3,499.99,15/02/2023,CARD,Bangalore,7,no
+,,NA,1200,2023/03/10,Debit Card,Mumbai,three,
+,,,3500.75,2023-01-15,upi,Mumbai,7,no
+,,,,,UPI,mumbai,2,yes
+,user_647,25,N/A,15/02/2023,Credit Card,mumbai,three,no
+ORD1648,user_648,18,1200,,,Delhi,,no
+,,65,250.5,invalid,Credit Card,Mumbai,5,
+ORD1650,,65,3500.75,15/02/2023,UPI,Bangalore,-1,no
+,user_651,25,250.5,2023/03/10,,Mumbai,three,False
+,CUST652,65,3500.75,2023-01-15,Debit Card,DELHI,5,False
+ORD1653,,50,1200,15/02/2023,Credit Card,Mumbai,three,no
+,CUST654,,250.5,invalid,Credit Card,Delhi,2,yes
+ORD1655,user_655,50,250.5,15/02/2023,,DELHI,5,no
+,CUST656,NA,3500.75,,CARD,Hyderabad,-1,no
+,,NA,499.99,15/02/2023,Debit Card,Mumbai,2,
+ORD1658,,-3,250.5,invalid,CARD,mumbai,5,yes
+,CUST659,,,invalid,UPI,Mumbai,2,yes
+ORD1660,,-3,N/A,2023-01-15,Debit Card,Bangalore,5,no
+ORD1661,,NA,3500.75,invalid,Debit Card,DELHI,-1,
+,,120,499.99,15/02/2023,CARD,Mumbai,-1,True
+ORD1663,,120,N/A,,Debit Card,Delhi,three,True
+,,25,1200,15/02/2023,Cash,mumbai,1,True
+ORD1665,,,N/A,invalid,UPI,,2,False
+ORD1666,user_666,120,,,UPI,Delhi,7,no
+ORD1667,,120,3500.75,invalid,Debit Card,Bangalore,5,True
+,user_668,18,3500.75,2023-01-15,UPI,,7,True
+,user_669,,250.5,invalid,UPI,DELHI,-1,False
+,,NA,₹999,2023-01-15,Debit Card,DELHI,2,
+ORD1671,,120,499.99,,,Delhi,,True
+ORD1672,,65,250.5,2023/03/10,Debit Card,Hyderabad,1,yes
+,,,N/A,,upi,Mumbai,7,yes
+,,18,₹999,2023-01-15,upi,mumbai,-1,True
+ORD1675,user_675,65,1200,invalid,Credit Card,Bangalore,-1,False
+,user_676,120,,invalid,Cash,Hyderabad,,
+ORD1677,user_677,25,,15/02/2023,Debit Card,Delhi,three,no
+,user_678,65,499.99,invalid,Debit Card,Hyderabad,three,True
+,,25,1200,,CARD,,-1,False
+,CUST680,35,₹999,,,Bangalore,2,True
+,CUST681,NA,₹999,invalid,CARD,Hyderabad,7,True
+,,,3500.75,2023/03/10,Debit Card,Bangalore,1,no
+,,-3,3500.75,2023/03/10,,Hyderabad,-1,False
+,CUST684,,1200,2023/03/10,CARD,Hyderabad,-1,
+,CUST685,,3500.75,15/02/2023,Cash,Mumbai,,yes
+,user_686,,250.5,invalid,Debit Card,DELHI,1,yes
+,user_687,50,,2023-01-15,,DELHI,5,True
+,,NA,N/A,invalid,Credit Card,,2,True
+,,,250.5,2023-01-15,UPI,DELHI,three,no
+ORD1690,CUST690,,499.99,,,Delhi,,False
+ORD1691,user_691,-3,N/A,2023/03/10,,Bangalore,-1,False
+,,,250.5,2023-01-15,Debit Card,mumbai,2,yes
+ORD1693,,120,499.99,invalid,Cash,DELHI,5,yes
+,user_694,50,250.5,invalid,CARD,Delhi,three,no
+ORD1695,,NA,,2023/03/10,Credit Card,DELHI,7,yes
+ORD1696,,,,15/02/2023,Credit Card,Delhi,2,
+,CUST697,,,2023/03/10,UPI,Bangalore,1,True
+ORD1698,,,499.99,15/02/2023,CARD,,5,True
+,user_699,18,1200,15/02/2023,UPI,Delhi,,yes
+ORD1700,,35,3500.75,15/02/2023,Debit Card,DELHI,three,False
+ORD1701,,25,1200,15/02/2023,Cash,Mumbai,-1,yes
+ORD1702,,65,1200,,upi,Mumbai,1,yes
+ORD1703,user_703,NA,1200,2023/03/10,Credit Card,Delhi,-1,True
+ORD1704,CUST704,,1200,2023/03/10,Debit Card,mumbai,three,yes
+,,-3,,15/02/2023,,Delhi,2,
+,,-3,499.99,15/02/2023,UPI,Bangalore,three,
+,user_707,,3500.75,,UPI,Bangalore,,
+,,65,1200,2023/03/10,Debit Card,Delhi,,yes
+ORD1709,user_709,,,2023-01-15,Cash,Bangalore,,
+,user_710,,₹999,2023/03/10,CARD,Bangalore,1,no
+,,-3,3500.75,15/02/2023,UPI,DELHI,2,False
+,CUST712,-3,3500.75,2023/03/10,upi,Bangalore,-1,
+,,-3,1200,,UPI,Bangalore,2,
+,CUST714,35,3500.75,2023/03/10,Cash,,three,True
+,,,250.5,,upi,DELHI,,True
+,user_716,65,N/A,2023/03/10,Debit Card,Mumbai,7,False
+,,120,,2023-01-15,CARD,Delhi,,
+,,-3,₹999,15/02/2023,upi,Hyderabad,7,False
+,,18,1200,,Debit Card,Mumbai,2,no
+ORD1720,,35,1200,2023-01-15,upi,,-1,False
+,,,N/A,2023-01-15,Cash,Mumbai,5,yes
+ORD1722,,,499.99,2023/03/10,Cash,Delhi,7,True
+ORD1723,,50,,2023/03/10,CARD,DELHI,5,yes
+,CUST724,35,,invalid,Debit Card,,,
+,CUST725,120,250.5,,Credit Card,mumbai,5,yes
+,,NA,499.99,2023-01-15,upi,Hyderabad,-1,no
+,,-3,3500.75,,,,,False
+,,35,,,Debit Card,DELHI,2,False
+ORD1729,user_729,50,N/A,invalid,upi,DELHI,three,no
+,CUST730,,499.99,2023-01-15,CARD,Delhi,2,False
+ORD1731,user_731,35,3500.75,2023/03/10,Debit Card,Delhi,1,False
+,,120,3500.75,,,Mumbai,5,
+ORD1733,,35,3500.75,2023-01-15,upi,,2,yes
+ORD1734,,25,N/A,2023/03/10,CARD,Bangalore,,True
+,,NA,3500.75,2023-01-15,UPI,Bangalore,,True
+ORD1736,,50,N/A,2023/03/10,upi,Hyderabad,2,yes
+ORD1737,,18,N/A,,Cash,Delhi,5,yes
+,user_738,35,1200,2023-01-15,Cash,Mumbai,2,yes
+,CUST739,120,1200,invalid,,Mumbai,2,no
+ORD1740,user_740,120,1200,2023-01-15,UPI,Mumbai,2,False
+ORD1741,CUST741,50,250.5,2023-01-15,UPI,Mumbai,-1,yes
+ORD1742,,50,3500.75,2023-01-15,Debit Card,Mumbai,three,yes
+ORD1743,user_743,-3,₹999,2023/03/10,Cash,Mumbai,7,False
+,,-3,499.99,2023/03/10,Credit Card,DELHI,2,yes
+ORD1745,,18,499.99,2023-01-15,UPI,DELHI,2,
+ORD1746,CUST746,NA,250.5,2023-01-15,UPI,DELHI,,no
+ORD1747,CUST747,NA,₹999,2023-01-15,,Delhi,2,no
+,,NA,1200,,Cash,,three,no
+ORD1749,,-3,1200,15/02/2023,Debit Card,Delhi,three,
+ORD1750,,-3,3500.75,invalid,Debit Card,Bangalore,three,True
+ORD1751,,35,N/A,2023-01-15,Cash,Delhi,-1,True
+ORD1752,,35,N/A,invalid,UPI,Mumbai,three,yes
+ORD1753,,65,499.99,invalid,,Delhi,-1,yes
+ORD1754,,35,N/A,,UPI,DELHI,three,no
+ORD1755,user_755,,,2023-01-15,Credit Card,Hyderabad,1,False
+ORD1756,,50,499.99,15/02/2023,UPI,Mumbai,5,True
+,,,499.99,2023-01-15,upi,Mumbai,,False
+ORD1758,,65,250.5,2023-01-15,Cash,DELHI,three,yes
+ORD1759,,25,N/A,2023/03/10,CARD,mumbai,2,False
+ORD1760,,120,250.5,2023/03/10,Cash,mumbai,,True
+,CUST761,,3500.75,,Cash,Hyderabad,5,no
+ORD1762,user_762,NA,,2023/03/10,upi,Bangalore,,False
+,,,250.5,2023-01-15,Debit Card,DELHI,-1,
+,CUST764,65,,invalid,,Mumbai,7,False
+,,NA,₹999,15/02/2023,Cash,DELHI,-1,True
+ORD1766,user_766,18,N/A,invalid,,,-1,no
+ORD1767,CUST767,,3500.75,invalid,UPI,Hyderabad,-1,no
+,,18,N/A,15/02/2023,upi,DELHI,three,yes
+ORD1769,user_769,35,1200,invalid,upi,DELHI,1,yes
+ORD1770,,,₹999,,CARD,mumbai,2,True
+,CUST771,18,₹999,15/02/2023,CARD,DELHI,5,True
+,,NA,,,UPI,Hyderabad,,
+,user_773,NA,,,Debit Card,DELHI,2,no
+ORD1774,user_774,,250.5,invalid,Debit Card,DELHI,2,False
+,,18,3500.75,,Credit Card,DELHI,7,False
+,user_776,120,₹999,2023/03/10,UPI,,three,
+,CUST777,,1200,2023/03/10,,,-1,False
+,,NA,₹999,2023-01-15,Cash,mumbai,three,True
+,,120,₹999,invalid,,Mumbai,-1,no
+ORD1780,,25,N/A,2023-01-15,upi,Hyderabad,-1,yes
+,,25,,invalid,UPI,Hyderabad,7,no
+ORD1782,,18,3500.75,,,,1,no
+ORD1783,user_783,-3,1200,15/02/2023,,,2,
+,CUST784,120,1200,2023-01-15,Credit Card,Hyderabad,2,yes
+,CUST785,50,₹999,2023/03/10,Cash,Delhi,1,True
+,,35,₹999,invalid,CARD,Hyderabad,5,True
+,,50,1200,2023-01-15,CARD,,5,True
+,user_788,50,3500.75,2023/03/10,CARD,Delhi,three,
+,user_789,,,15/02/2023,upi,Mumbai,1,False
+,,120,3500.75,invalid,Cash,Mumbai,5,True
+,,25,₹999,15/02/2023,Cash,Bangalore,5,True
+,,25,3500.75,,Credit Card,,5,no
+,,65,₹999,2023-01-15,upi,Bangalore,7,no
+,,35,,invalid,Cash,,2,yes
+,user_795,50,N/A,2023/03/10,Credit Card,,three,no
+,user_796,50,N/A,15/02/2023,Debit Card,Delhi,,no
+,,18,3500.75,2023-01-15,,DELHI,7,yes
+ORD1798,CUST798,NA,3500.75,2023/03/10,UPI,Bangalore,2,
+,,120,,2023/03/10,upi,,,True
+ORD1800,,120,N/A,invalid,Cash,Mumbai,1,True
+,CUST801,NA,N/A,,upi,,7,yes
+,,35,₹999,15/02/2023,upi,Delhi,7,no
+,CUST803,65,3500.75,,,,,False
+,,18,499.99,,CARD,Hyderabad,5,
+ORD1805,,NA,₹999,2023/03/10,UPI,Delhi,1,False
+,user_806,18,250.5,15/02/2023,CARD,Mumbai,5,False
+,user_807,,3500.75,,UPI,,2,no
+,CUST808,50,3500.75,,upi,Mumbai,5,
+,CUST809,18,499.99,2023/03/10,Cash,Mumbai,three,
+,user_810,65,250.5,15/02/2023,Credit Card,Mumbai,,
+ORD1811,CUST811,-3,1200,2023/03/10,Credit Card,mumbai,1,yes
+,,35,499.99,2023-01-15,CARD,Bangalore,7,True
+,,50,₹999,2023/03/10,Cash,Mumbai,2,no
+,user_814,-3,3500.75,2023/03/10,CARD,Mumbai,three,False
+,,NA,N/A,2023/03/10,Credit Card,,7,
+ORD1816,user_816,NA,3500.75,15/02/2023,UPI,DELHI,2,no
+,CUST817,-3,,,Cash,DELHI,,True
+,CUST818,,3500.75,invalid,upi,Hyderabad,7,
+,,65,499.99,invalid,upi,Delhi,1,False
+,CUST820,18,₹999,2023-01-15,,Bangalore,7,False
+,CUST821,18,N/A,2023/03/10,UPI,,1,no
+ORD1822,user_822,50,250.5,15/02/2023,Debit Card,Delhi,-1,True
+,,,N/A,,Cash,Bangalore,-1,True
+,,25,1200,15/02/2023,CARD,DELHI,5,True
+ORD1825,,18,3500.75,invalid,Debit Card,Delhi,-1,yes
+,,50,₹999,,upi,mumbai,-1,no
+,,18,₹999,,CARD,,,no
+,,35,₹999,15/02/2023,Cash,mumbai,2,
+ORD1829,,65,₹999,2023-01-15,Cash,mumbai,three,False
+ORD1830,,,499.99,15/02/2023,Debit Card,Bangalore,1,False
+ORD1831,,,499.99,invalid,Cash,Delhi,5,
+,,-3,1200,,CARD,Hyderabad,-1,True
+,user_833,65,₹999,,Credit Card,,2,True
+ORD1834,,18,,15/02/2023,UPI,mumbai,5,False
+,,120,N/A,,Cash,Bangalore,three,no
+,,120,₹999,,Credit Card,Delhi,2,yes
+,,65,499.99,,Cash,Mumbai,three,False
+,user_838,NA,3500.75,2023-01-15,,Mumbai,-1,no
+ORD1839,,-3,499.99,,UPI,Mumbai,,False
+ORD1840,,120,250.5,,Credit Card,Delhi,2,True
+ORD1841,user_841,65,₹999,invalid,Credit Card,Delhi,,
+,,65,₹999,2023/03/10,Credit Card,Mumbai,-1,False
+,,,N/A,2023/03/10,UPI,mumbai,-1,False
+,user_844,18,,15/02/2023,Credit Card,,three,False
+,,18,,15/02/2023,upi,mumbai,7,yes
+,,-3,3500.75,invalid,Cash,DELHI,,True
+,user_847,25,N/A,2023/03/10,upi,mumbai,-1,True
+,CUST848,,3500.75,2023/03/10,CARD,DELHI,2,yes
+,,25,₹999,2023/03/10,Cash,Delhi,-1,True
+ORD1850,,50,₹999,15/02/2023,,Bangalore,5,
+,,65,1200,2023/03/10,CARD,Mumbai,1,True
+ORD1852,user_852,25,₹999,2023-01-15,Credit Card,Bangalore,,False
+,CUST853,35,₹999,,CARD,mumbai,7,
+ORD1854,,35,1200,,,DELHI,2,yes
+,,120,3500.75,2023/03/10,Credit Card,Hyderabad,,True
+ORD1856,,-3,3500.75,,Debit Card,,5,
+,user_857,-3,₹999,15/02/2023,UPI,DELHI,5,False
+,,18,1200,15/02/2023,upi,,5,True
+,,18,,15/02/2023,Credit Card,Bangalore,-1,False
+,,-3,3500.75,2023-01-15,upi,Delhi,2,
+,CUST861,,,2023/03/10,Cash,DELHI,-1,True
+,user_862,18,1200,15/02/2023,,Hyderabad,,False
+,user_863,65,3500.75,15/02/2023,UPI,Mumbai,2,yes
+ORD1864,,65,,,,Hyderabad,three,no
+ORD1865,,65,,2023-01-15,upi,Delhi,,yes
+ORD1866,CUST866,18,499.99,2023-01-15,CARD,Mumbai,1,True
+,,18,₹999,invalid,UPI,Mumbai,1,True
+,,25,3500.75,invalid,,Mumbai,5,True
+,CUST869,35,499.99,2023-01-15,Cash,Bangalore,1,
+ORD1870,,-3,250.5,,,Delhi,three,yes
+ORD1871,,-3,N/A,15/02/2023,CARD,,,False
+,,50,1200,2023-01-15,upi,Delhi,7,True
+,,120,499.99,2023/03/10,Cash,,2,
+ORD1874,user_874,35,499.99,2023/03/10,Debit Card,Hyderabad,1,
+,CUST875,25,₹999,2023/03/10,,Delhi,three,no
+ORD1876,CUST876,,N/A,15/02/2023,,Mumbai,-1,
+ORD1877,user_877,18,N/A,15/02/2023,UPI,,three,
+,,120,₹999,2023/03/10,UPI,Delhi,2,False
+,CUST879,50,250.5,2023-01-15,Cash,Hyderabad,2,no
+ORD1880,user_880,35,1200,2023-01-15,Cash,Mumbai,-1,True
+ORD1881,user_881,,3500.75,2023/03/10,UPI,Bangalore,,yes
+ORD1882,user_882,50,499.99,invalid,UPI,DELHI,1,no
+,,65,3500.75,,,Hyderabad,5,yes
+ORD1884,CUST884,65,1200,15/02/2023,,Hyderabad,1,yes
+,CUST885,65,3500.75,2023-01-15,CARD,Bangalore,7,yes
+ORD1886,,50,250.5,invalid,CARD,Hyderabad,-1,True
+ORD1887,user_887,18,1200,15/02/2023,Debit Card,DELHI,three,
+,user_888,18,499.99,,Cash,Bangalore,,False
+ORD1889,CUST889,120,3500.75,2023-01-15,Cash,Mumbai,7,True
+,,18,499.99,invalid,Cash,Hyderabad,1,True
+,CUST891,NA,499.99,2023/03/10,CARD,Mumbai,three,yes
+,CUST892,35,499.99,15/02/2023,UPI,Delhi,5,no
+ORD1893,CUST893,65,₹999,,CARD,Bangalore,,
+,,35,,2023/03/10,upi,Bangalore,5,yes
+ORD1895,user_895,NA,1200,15/02/2023,Debit Card,Bangalore,,True
+,user_896,25,499.99,2023/03/10,,mumbai,1,
+ORD1897,user_897,25,250.5,,Debit Card,mumbai,5,yes
+,,25,,invalid,UPI,mumbai,1,
+,,65,250.5,2023/03/10,Debit Card,mumbai,1,
+,CUST900,35,1200,2023/03/10,Debit Card,DELHI,,
+,,120,499.99,,Credit Card,Hyderabad,5,yes
+,user_902,,1200,,upi,Hyderabad,three,True
+,CUST903,35,250.5,invalid,UPI,,2,
+,,-3,N/A,invalid,Debit Card,Bangalore,5,no
+,,35,499.99,2023-01-15,upi,Hyderabad,,
+,,-3,499.99,2023-01-15,UPI,DELHI,1,True
+ORD1907,CUST907,50,250.5,2023-01-15,UPI,Delhi,5,
+ORD1908,,,250.5,invalid,UPI,mumbai,1,
+ORD1909,,25,3500.75,15/02/2023,upi,Hyderabad,7,no
+,,-3,N/A,invalid,upi,DELHI,-1,yes
+,user_911,35,250.5,15/02/2023,Debit Card,DELHI,-1,False
+ORD1912,user_912,65,3500.75,,upi,DELHI,,True
+,CUST913,35,₹999,invalid,,Mumbai,,no
+,,,,invalid,Credit Card,Bangalore,1,False
+ORD1915,,,N/A,15/02/2023,Cash,Delhi,,yes
+,CUST916,NA,,invalid,upi,DELHI,1,False
+,user_917,,N/A,2023-01-15,UPI,Mumbai,,
+,user_918,25,,15/02/2023,UPI,Delhi,2,yes
+ORD1919,,,499.99,15/02/2023,Cash,Hyderabad,7,
+,user_920,65,,,,Hyderabad,2,True
+,user_921,65,₹999,invalid,UPI,,1,no
+,,35,N/A,15/02/2023,Cash,Hyderabad,2,no
+,user_923,50,,,,,2,yes
+,,,3500.75,2023-01-15,CARD,Bangalore,,yes
+,CUST925,18,1200,2023-01-15,upi,Mumbai,,True
+,,-3,250.5,2023-01-15,UPI,mumbai,three,True
+ORD1927,,35,N/A,2023-01-15,Cash,,2,True
+,,35,3500.75,2023-01-15,CARD,Delhi,5,
+,user_929,50,250.5,invalid,Credit Card,Bangalore,1,no
+ORD1930,,,1200,,,Delhi,1,True
+,CUST931,NA,N/A,,,Mumbai,,no
+ORD1932,user_932,25,1200,,,Bangalore,2,yes
+ORD1933,,18,,invalid,UPI,,2,False
+,,-3,,2023-01-15,UPI,mumbai,-1,no
+,user_935,-3,499.99,,UPI,Delhi,-1,
+ORD1936,user_936,NA,N/A,15/02/2023,UPI,Bangalore,-1,no
+ORD1937,CUST937,-3,,2023-01-15,Debit Card,mumbai,-1,yes
+ORD1938,user_938,65,250.5,invalid,upi,mumbai,-1,
+,CUST939,120,,15/02/2023,upi,Hyderabad,2,yes
+,,120,1200,invalid,upi,Hyderabad,1,no
+,,NA,₹999,15/02/2023,upi,Hyderabad,5,
+ORD1942,user_942,120,N/A,15/02/2023,Credit Card,Delhi,,yes
+,user_943,NA,,2023/03/10,Credit Card,DELHI,,True
+,,25,N/A,,Debit Card,Hyderabad,2,True
+ORD1945,,NA,250.5,2023-01-15,,mumbai,-1,no
+ORD1946,CUST946,120,,2023/03/10,Credit Card,DELHI,three,True
+,,-3,N/A,,upi,Mumbai,1,yes
+ORD1948,,NA,499.99,invalid,,Mumbai,2,yes
+,,,₹999,2023/03/10,upi,Delhi,7,False
+,,-3,1200,2023/03/10,Cash,Bangalore,2,no
+,user_951,-3,3500.75,2023-01-15,Credit Card,Hyderabad,5,yes
+ORD1952,,120,₹999,invalid,Cash,DELHI,1,False
+,user_953,NA,,2023/03/10,CARD,Hyderabad,three,False
+,user_954,120,1200,2023-01-15,Cash,mumbai,1,yes
+ORD1955,CUST955,120,,15/02/2023,CARD,,,
+,CUST956,50,N/A,,CARD,,three,True
+ORD1957,,-3,₹999,2023-01-15,,Mumbai,,no
+ORD1958,user_958,35,₹999,invalid,Credit Card,Mumbai,5,yes
+,user_959,65,N/A,15/02/2023,CARD,mumbai,1,yes
+,,,₹999,invalid,UPI,,,False
+ORD1961,user_961,65,₹999,,Credit Card,,three,True
+,,NA,499.99,invalid,CARD,Mumbai,5,True
+ORD1963,CUST963,120,₹999,invalid,Cash,DELHI,7,False
+ORD1964,,NA,N/A,2023-01-15,UPI,mumbai,7,no
+,,50,1200,invalid,Debit Card,mumbai,three,False
+,,120,499.99,,Cash,Mumbai,5,no
+,,65,,invalid,,Mumbai,,True
+ORD1968,,120,250.5,,UPI,Mumbai,1,
+ORD1969,,25,499.99,invalid,Debit Card,Hyderabad,7,
+ORD1970,,18,N/A,,Cash,Hyderabad,7,yes
+ORD1971,,120,1200,,CARD,Delhi,three,
+ORD1972,,-3,250.5,2023-01-15,UPI,Mumbai,5,True
+,,65,,2023/03/10,UPI,DELHI,7,False
+ORD1974,CUST974,NA,250.5,15/02/2023,,mumbai,,no
+ORD1975,,18,N/A,2023-01-15,upi,Bangalore,1,no
+,,NA,N/A,2023-01-15,,mumbai,2,no
+,user_977,65,250.5,invalid,CARD,Bangalore,1,no
+,CUST978,18,250.5,2023-01-15,UPI,DELHI,7,yes
+,,18,1200,invalid,,Hyderabad,,yes
+,CUST980,,250.5,15/02/2023,Cash,Bangalore,,True
+,,25,499.99,2023/03/10,CARD,DELHI,7,
+,CUST982,25,N/A,15/02/2023,,Bangalore,2,yes
+,,,₹999,,Credit Card,mumbai,2,False
+,,120,250.5,2023/03/10,CARD,DELHI,1,
+ORD1985,CUST985,35,₹999,15/02/2023,Debit Card,Mumbai,5,True
+,,65,N/A,,Cash,,7,
+,CUST987,50,,2023/03/10,,Bangalore,,yes
+,,120,3500.75,2023/03/10,Cash,Bangalore,2,yes
+ORD1989,,NA,1200,2023-01-15,UPI,Mumbai,three,no
+,,25,₹999,15/02/2023,upi,Hyderabad,three,True
+,,-3,3500.75,2023/03/10,CARD,Hyderabad,1,yes
+,CUST992,NA,N/A,2023-01-15,CARD,,three,False
+,,18,3500.75,,,Hyderabad,2,yes
+,,,250.5,invalid,Debit Card,Bangalore,three,no
+,user_995,-3,3500.75,15/02/2023,upi,Mumbai,1,True
+,CUST996,18,,2023-01-15,Credit Card,Hyderabad,2,yes
+,user_997,50,N/A,2023/03/10,Cash,Delhi,1,
+ORD1998,,65,1200,2023-01-15,,Mumbai,2,False
+,user_999,120,,15/02/2023,Debit Card,,-1,True
