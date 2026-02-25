@@ -1,0 +1,1001 @@
+employee_id,department,designation,age,salary,joining_date,last_promotion_date,experience_years,performance_rating,is_active
+EMP1000,IT,Senior Analyst,60,85000,invalid,01/04/2021,5,3,
+emp_1,IT,Analyst,,55000,10/06/2020,invalid,5,3,True
+EMP1002,Sales,,28,85000,,2022-03-01,3,4,
+EMP1003,it ,Analyst,45,35000,invalid,01/04/2021,1,3,
+,IT,mgr,150,85000,,invalid,12,2,True
+,IT,mgr,,₹75000,2019-05-10,invalid,8,3,no
+,HR ,,35,120000,10/06/2020,,12,poor,
+EMP1007,sales,Analyst,22,,10/06/2020,,-2,1,True
+EMP1008,Finance,ANALYST,150,35000,2021/07/15,,,excellent,True
+EMP1009,it ,,22,120000,10/06/2020,01/04/2021,,4,
+emp_10,Finance,Analyst,-5,35000,,,8,1,no
+,sales,mgr,22,250000,2021/07/15,,,5,yes
+emp_12,Sales,Analyst,60,₹75000,,,8,,
+EMP1013,IT,Senior Analyst,35,120000,,2022-03-01,8,,
+,it ,Analyst,150,₹75000,2019-05-10,01/04/2021,-2,2,yes
+emp_15,,Senior Analyst,150,N/A,10/06/2020,,8,1,
+,IT,,60,250000,,invalid,12,poor,no
+emp_17,sales,Senior Analyst,-5,,,01/04/2021,3,4,False
+emp_18,Finance,Senior Analyst,,,invalid,,ten,2,yes
+,IT,mgr,22,120000,,2022-03-01,ten,4,yes
+EMP1020,IT,mgr,22,85000,invalid,invalid,3,4,yes
+,HR ,Senior Analyst,45,55000,invalid,2022-03-01,ten,4,yes
+emp_22,HR ,Manager,60,,2021/07/15,2022-03-01,5,1,
+emp_23,Finance,,-5,85000,invalid,,-2,5,
+EMP1024,Finance,mgr,35,85000,2021/07/15,01/04/2021,8,3,True
+,Sales,,28,250000,invalid,,8,,True
+,Finance,Senior Analyst,28,₹75000,2019-05-10,2022-03-01,8,5,True
+EMP1027,,ANALYST,35,₹75000,,invalid,5,1,False
+,it ,,45,35000,,01/04/2021,3,3,yes
+,Finance,mgr,28,55000,2019-05-10,2022-03-01,ten,4,yes
+EMP1030,HR,Manager,,85000,2019-05-10,invalid,3,3,True
+,HR ,Analyst,,55000,10/06/2020,2022-03-01,1,4,
+emp_32,Finance,,22,,2021/07/15,2022-03-01,3,5,no
+,it ,Senior Analyst,35,85000,10/06/2020,,1,1,yes
+,sales,Analyst,45,250000,,2022-03-01,-2,5,False
+EMP1035,IT,Senior Analyst,60,,invalid,invalid,12,,yes
+,it ,mgr,45,N/A,,invalid,5,5,True
+EMP1037,,,-5,N/A,2021/07/15,invalid,,3,True
+emp_38,IT,Manager,,35000,2021/07/15,2022-03-01,1,poor,True
+emp_39,it ,Senior Analyst,35,35000,,,3,3,yes
+emp_40,,,60,85000,2021/07/15,01/04/2021,12,5,True
+,,ANALYST,60,250000,2021/07/15,,3,4,yes
+EMP1042,HR ,Manager,22,35000,,2022-03-01,ten,2,True
+,it ,Manager,-5,120000,invalid,,1,excellent,
+emp_44,sales,mgr,45,₹75000,2021/07/15,01/04/2021,8,2,True
+,Finance,,,120000,,01/04/2021,1,1,yes
+,HR ,ANALYST,unknown,55000,10/06/2020,invalid,12,,yes
+,Finance,Analyst,unknown,250000,2021/07/15,01/04/2021,3,excellent,True
+,HR,ANALYST,28,85000,10/06/2020,2022-03-01,5,5,no
+,it ,mgr,-5,55000,2021/07/15,invalid,5,3,False
+,IT,Senior Analyst,,35000,2019-05-10,,,2,yes
+,IT,ANALYST,35,,invalid,invalid,-2,1,yes
+emp_52,Sales,Senior Analyst,60,250000,10/06/2020,invalid,-2,,yes
+EMP1053,HR,mgr,28,120000,10/06/2020,,3,3,True
+,sales,mgr,unknown,₹75000,invalid,01/04/2021,8,1,yes
+,Sales,Senior Analyst,,120000,,01/04/2021,8,3,
+,HR,,-5,N/A,10/06/2020,invalid,8,,no
+emp_57,Finance,ANALYST,35,250000,invalid,,8,,yes
+EMP1058,Finance,mgr,35,85000,2021/07/15,2022-03-01,,excellent,True
+emp_59,HR,Analyst,35,120000,2021/07/15,invalid,8,,yes
+,Sales,Senior Analyst,45,₹75000,,2022-03-01,3,4,yes
+,Finance,Senior Analyst,-5,120000,10/06/2020,01/04/2021,,3,
+,HR ,mgr,,120000,2021/07/15,2022-03-01,3,5,True
+EMP1063,IT,,28,N/A,invalid,2022-03-01,12,excellent,
+,HR ,Manager,35,,,,5,5,no
+,IT,Manager,unknown,N/A,10/06/2020,,-2,,no
+,sales,Analyst,-5,35000,10/06/2020,invalid,ten,4,False
+emp_67,Sales,mgr,45,,10/06/2020,invalid,1,4,yes
+,,mgr,unknown,N/A,invalid,01/04/2021,-2,1,True
+EMP1069,IT,,45,250000,invalid,invalid,ten,poor,
+EMP1070,Sales,,35,N/A,,01/04/2021,5,2,False
+emp_71,Sales,Manager,60,250000,2021/07/15,01/04/2021,12,excellent,False
+emp_72,it ,Manager,unknown,35000,invalid,invalid,,3,
+EMP1073,IT,Senior Analyst,-5,85000,invalid,01/04/2021,3,5,True
+emp_74,Finance,ANALYST,60,35000,invalid,2022-03-01,3,poor,True
+,Finance,mgr,unknown,35000,2019-05-10,invalid,-2,2,True
+EMP1076,IT,mgr,22,120000,,invalid,3,4,
+EMP1077,HR ,mgr,,₹75000,invalid,invalid,-2,poor,True
+EMP1078,HR,Senior Analyst,35,,,invalid,12,4,False
+emp_79,,Manager,,N/A,2019-05-10,01/04/2021,8,1,False
+emp_80,,,35,,invalid,invalid,12,2,no
+EMP1081,sales,Analyst,150,₹75000,10/06/2020,,5,5,yes
+emp_82,sales,Senior Analyst,150,N/A,2021/07/15,01/04/2021,-2,1,yes
+emp_83,Sales,ANALYST,,N/A,,invalid,12,3,no
+,Finance,Analyst,45,,2021/07/15,invalid,3,3,no
+,Sales,,60,55000,2021/07/15,01/04/2021,,2,yes
+,Finance,Senior Analyst,22,N/A,2019-05-10,,3,excellent,yes
+,sales,Analyst,45,N/A,invalid,invalid,5,4,yes
+,HR ,Manager,60,35000,2019-05-10,01/04/2021,-2,excellent,
+emp_89,,Senior Analyst,22,120000,10/06/2020,,1,1,no
+,HR ,Analyst,28,N/A,invalid,2022-03-01,1,2,yes
+emp_91,,Manager,35,55000,10/06/2020,01/04/2021,3,1,False
+,HR ,Senior Analyst,45,35000,,01/04/2021,1,5,
+,sales,,-5,120000,,2022-03-01,ten,,
+,Finance,Senior Analyst,35,120000,2019-05-10,invalid,3,5,
+EMP1095,Finance,Manager,22,N/A,,2022-03-01,1,3,False
+emp_96,IT,Analyst,150,35000,invalid,2022-03-01,,poor,no
+,it ,ANALYST,,,,2022-03-01,1,excellent,
+EMP1098,HR ,Manager,60,₹75000,2021/07/15,,ten,3,yes
+EMP1099,IT,Manager,45,N/A,,,3,1,
+,Sales,Senior Analyst,150,120000,invalid,invalid,12,3,no
+EMP1101,it ,Analyst,-5,,10/06/2020,invalid,12,excellent,False
+,Sales,Manager,unknown,N/A,,01/04/2021,,excellent,True
+,,mgr,22,N/A,2019-05-10,invalid,1,2,True
+,sales,Senior Analyst,28,N/A,invalid,,12,5,
+,it ,Senior Analyst,unknown,,invalid,,1,,no
+,HR,Analyst,28,,10/06/2020,01/04/2021,3,3,False
+emp_107,,,,,2019-05-10,invalid,3,4,
+,Finance,Senior Analyst,150,35000,,,ten,2,no
+emp_109,,mgr,150,120000,2021/07/15,2022-03-01,ten,poor,
+EMP1110,Finance,Manager,-5,35000,2019-05-10,01/04/2021,3,1,yes
+EMP1111,sales,Senior Analyst,-5,N/A,invalid,2022-03-01,8,4,False
+,sales,Analyst,22,85000,10/06/2020,invalid,1,,yes
+,Finance,Senior Analyst,,N/A,invalid,01/04/2021,12,3,
+,IT,Analyst,150,35000,10/06/2020,,1,poor,no
+emp_115,sales,ANALYST,28,250000,2021/07/15,invalid,-2,2,no
+emp_116,IT,Senior Analyst,60,250000,invalid,invalid,12,excellent,no
+emp_117,HR ,Senior Analyst,35,85000,,invalid,-2,excellent,
+,Finance,Analyst,-5,35000,invalid,,5,4,
+,IT,,35,120000,2019-05-10,,3,,False
+,Finance,Senior Analyst,35,,,01/04/2021,8,3,yes
+EMP1121,Finance,Analyst,35,35000,10/06/2020,01/04/2021,3,excellent,True
+,,Manager,22,120000,10/06/2020,01/04/2021,3,3,no
+emp_123,it ,,35,85000,2021/07/15,2022-03-01,1,2,no
+,sales,Analyst,unknown,250000,2021/07/15,01/04/2021,1,5,no
+emp_125,,ANALYST,60,250000,10/06/2020,,-2,poor,no
+EMP1126,HR,mgr,28,N/A,,invalid,1,excellent,True
+,Finance,,150,120000,invalid,2022-03-01,3,1,True
+emp_128,Sales,mgr,60,N/A,2019-05-10,2022-03-01,3,2,
+emp_129,IT,mgr,28,55000,invalid,2022-03-01,5,,yes
+,Finance,,unknown,35000,,2022-03-01,ten,1,
+,IT,ANALYST,60,250000,10/06/2020,invalid,3,,yes
+EMP1132,IT,,,85000,10/06/2020,invalid,5,1,yes
+,it ,,-5,250000,2021/07/15,2022-03-01,1,5,True
+,sales,Analyst,28,,2019-05-10,2022-03-01,8,poor,False
+EMP1135,Finance,Senior Analyst,28,35000,10/06/2020,,12,1,yes
+EMP1136,,mgr,22,35000,,2022-03-01,ten,,yes
+emp_137,Sales,Senior Analyst,,₹75000,10/06/2020,2022-03-01,ten,poor,yes
+emp_138,Finance,mgr,45,250000,2021/07/15,01/04/2021,,3,False
+emp_139,,mgr,150,₹75000,2021/07/15,invalid,ten,3,yes
+EMP1140,IT,Analyst,unknown,250000,2021/07/15,invalid,12,excellent,yes
+EMP1141,IT,mgr,60,85000,,01/04/2021,,3,False
+,Finance,Senior Analyst,22,35000,invalid,2022-03-01,5,poor,True
+,it ,Manager,60,120000,2019-05-10,2022-03-01,5,excellent,yes
+emp_144,sales,mgr,35,55000,,2022-03-01,8,excellent,True
+EMP1145,IT,Analyst,45,35000,2021/07/15,,-2,4,no
+,sales,ANALYST,35,N/A,10/06/2020,invalid,-2,poor,
+emp_147,sales,mgr,22,,2019-05-10,,1,4,yes
+emp_148,HR,mgr,-5,120000,,invalid,3,,yes
+EMP1149,it ,ANALYST,,35000,10/06/2020,01/04/2021,5,5,True
+emp_150,HR ,Analyst,28,N/A,10/06/2020,invalid,ten,1,yes
+emp_151,Sales,Manager,45,120000,invalid,2022-03-01,3,4,
+EMP1152,Sales,,45,₹75000,2021/07/15,invalid,-2,3,True
+,sales,ANALYST,150,N/A,2021/07/15,,,2,no
+EMP1154,Finance,Analyst,35,₹75000,invalid,2022-03-01,,2,
+,,Manager,35,120000,2021/07/15,,5,poor,yes
+,it ,Manager,60,250000,2021/07/15,invalid,5,3,True
+,Finance,ANALYST,22,250000,2019-05-10,2022-03-01,3,1,False
+,,ANALYST,35,250000,2019-05-10,invalid,,poor,yes
+EMP1159,Finance,Analyst,60,₹75000,10/06/2020,2022-03-01,3,5,no
+,sales,ANALYST,60,55000,,,,,True
+EMP1161,HR ,,22,35000,2021/07/15,2022-03-01,3,,no
+emp_162,HR,,28,120000,2019-05-10,01/04/2021,5,3,yes
+,it ,Analyst,35,N/A,invalid,,-2,4,
+,sales,Analyst,unknown,N/A,invalid,01/04/2021,8,2,yes
+,sales,mgr,45,250000,,invalid,5,,True
+EMP1166,Finance,,-5,₹75000,10/06/2020,2022-03-01,,2,no
+emp_167,HR,,-5,₹75000,invalid,01/04/2021,ten,2,yes
+,Finance,ANALYST,35,120000,,,1,4,yes
+emp_169,it ,mgr,60,120000,2021/07/15,01/04/2021,,2,
+,,ANALYST,60,250000,2021/07/15,invalid,12,excellent,no
+,HR ,ANALYST,-5,250000,invalid,01/04/2021,-2,excellent,True
+emp_172,sales,ANALYST,150,250000,10/06/2020,01/04/2021,3,poor,
+emp_173,Finance,Manager,45,120000,10/06/2020,invalid,8,1,False
+EMP1174,IT,ANALYST,35,,2019-05-10,,3,1,False
+emp_175,IT,,-5,120000,10/06/2020,2022-03-01,ten,5,False
+,it ,Analyst,22,250000,invalid,,1,,False
+,Finance,Senior Analyst,,₹75000,,01/04/2021,ten,1,False
+,HR,Senior Analyst,,85000,2019-05-10,invalid,8,3,yes
+emp_179,HR ,mgr,28,35000,,invalid,-2,poor,False
+emp_180,sales,mgr,,,,01/04/2021,ten,excellent,no
+,HR ,Manager,-5,35000,10/06/2020,invalid,-2,3,
+EMP1182,sales,ANALYST,45,₹75000,10/06/2020,invalid,1,poor,True
+emp_183,HR,Senior Analyst,150,120000,2021/07/15,2022-03-01,1,5,False
+EMP1184,sales,mgr,150,55000,10/06/2020,2022-03-01,5,,True
+emp_185,Finance,,22,250000,invalid,01/04/2021,8,,no
+,Sales,Senior Analyst,60,N/A,2019-05-10,01/04/2021,12,1,True
+,,ANALYST,150,250000,2021/07/15,01/04/2021,12,4,no
+emp_188,Finance,,28,₹75000,10/06/2020,01/04/2021,-2,3,
+,HR,mgr,45,55000,10/06/2020,invalid,12,4,yes
+emp_190,it ,ANALYST,unknown,35000,invalid,invalid,-2,1,
+EMP1191,Sales,mgr,unknown,N/A,2021/07/15,01/04/2021,,,yes
+EMP1192,IT,Analyst,150,,,invalid,1,1,
+EMP1193,Finance,Analyst,60,35000,10/06/2020,,5,poor,no
+emp_194,HR,ANALYST,35,N/A,2019-05-10,2022-03-01,5,2,False
+,sales,Senior Analyst,60,120000,2021/07/15,invalid,,4,yes
+,Sales,mgr,unknown,₹75000,2019-05-10,2022-03-01,12,,no
+,sales,Manager,22,120000,10/06/2020,,-2,poor,yes
+,HR,mgr,45,250000,,2022-03-01,-2,4,
+emp_199,IT,Analyst,28,250000,2019-05-10,invalid,12,4,
+,Sales,mgr,22,35000,2021/07/15,01/04/2021,,2,no
+emp_201,,ANALYST,unknown,120000,2019-05-10,,1,excellent,True
+EMP1202,sales,Analyst,unknown,,10/06/2020,01/04/2021,5,excellent,True
+EMP1203,IT,Analyst,60,N/A,,invalid,12,excellent,
+emp_204,HR ,Senior Analyst,35,N/A,invalid,invalid,-2,2,yes
+EMP1205,,Analyst,150,35000,10/06/2020,,5,,
+,sales,Senior Analyst,45,120000,,invalid,8,4,yes
+,,mgr,22,₹75000,invalid,invalid,,5,
+emp_208,Sales,mgr,,55000,2019-05-10,2022-03-01,,5,
+EMP1209,,,unknown,55000,10/06/2020,2022-03-01,5,2,True
+,Finance,Manager,28,250000,2021/07/15,2022-03-01,3,3,yes
+emp_211,Sales,Senior Analyst,60,35000,2021/07/15,2022-03-01,12,3,yes
+,Sales,,60,55000,2021/07/15,invalid,12,5,no
+,,Analyst,22,,10/06/2020,2022-03-01,-2,2,True
+,HR,mgr,60,120000,,,12,,False
+emp_215,IT,,28,55000,2019-05-10,invalid,3,excellent,yes
+emp_216,,Senior Analyst,60,120000,invalid,invalid,8,2,
+,it ,,28,250000,2021/07/15,2022-03-01,,2,yes
+,it ,,unknown,N/A,10/06/2020,01/04/2021,12,poor,False
+,,Analyst,unknown,55000,2019-05-10,01/04/2021,-2,,True
+emp_220,it ,Manager,unknown,35000,2019-05-10,invalid,,1,yes
+,sales,Analyst,150,,,,8,poor,no
+emp_222,HR,,45,35000,invalid,invalid,5,,False
+,HR,Manager,,120000,2019-05-10,,-2,1,True
+,Finance,Manager,60,250000,2021/07/15,invalid,1,3,
+,IT,mgr,28,₹75000,invalid,invalid,-2,2,
+emp_226,it ,Analyst,45,₹75000,,01/04/2021,1,excellent,True
+EMP1227,it ,Senior Analyst,150,250000,2019-05-10,invalid,5,4,yes
+,it ,Manager,,,10/06/2020,,3,4,no
+,HR ,,45,120000,invalid,,5,,yes
+EMP1230,sales,,45,85000,2021/07/15,2022-03-01,3,4,
+emp_231,,Senior Analyst,150,35000,10/06/2020,2022-03-01,ten,excellent,
+EMP1232,sales,ANALYST,28,35000,2021/07/15,invalid,8,1,True
+emp_233,HR,Manager,unknown,N/A,invalid,01/04/2021,3,excellent,yes
+emp_234,Finance,Analyst,22,85000,2019-05-10,invalid,12,excellent,
+,Finance,ANALYST,45,N/A,2021/07/15,,12,3,no
+,IT,mgr,28,,10/06/2020,invalid,,,False
+EMP1237,,mgr,-5,N/A,10/06/2020,invalid,8,3,no
+EMP1238,Finance,Analyst,28,250000,,01/04/2021,8,5,
+,,,22,,10/06/2020,invalid,12,2,True
+,HR ,mgr,-5,,invalid,,12,3,False
+emp_241,IT,Senior Analyst,60,₹75000,invalid,01/04/2021,12,excellent,False
+,,ANALYST,,N/A,2019-05-10,,ten,2,no
+,Sales,mgr,unknown,N/A,2021/07/15,01/04/2021,5,,
+,IT,Senior Analyst,35,55000,2021/07/15,invalid,ten,1,True
+,Finance,mgr,-5,85000,2019-05-10,2022-03-01,3,poor,False
+,Finance,ANALYST,28,120000,2019-05-10,invalid,8,excellent,
+,HR,Senior Analyst,-5,250000,2021/07/15,01/04/2021,-2,3,True
+EMP1248,it ,Manager,-5,35000,2019-05-10,invalid,ten,1,False
+,,Analyst,-5,35000,invalid,2022-03-01,,3,
+,HR ,Senior Analyst,,250000,2021/07/15,2022-03-01,ten,4,no
+emp_251,sales,Senior Analyst,unknown,55000,invalid,,-2,poor,yes
+EMP1252,IT,,150,₹75000,2019-05-10,,8,2,yes
+emp_253,HR ,Analyst,22,120000,2019-05-10,01/04/2021,,3,yes
+,sales,Senior Analyst,,250000,2021/07/15,,12,4,False
+,IT,ANALYST,60,55000,,invalid,8,1,True
+,,Manager,28,35000,2019-05-10,01/04/2021,ten,2,no
+,IT,ANALYST,150,55000,,2022-03-01,8,excellent,False
+EMP1258,,Analyst,28,250000,invalid,,ten,5,yes
+emp_259,HR ,ANALYST,unknown,85000,invalid,,8,5,
+emp_260,IT,Manager,35,120000,2019-05-10,,8,3,True
+emp_261,,ANALYST,45,85000,invalid,2022-03-01,5,5,False
+,IT,Manager,-5,250000,,invalid,1,5,
+emp_263,IT,,28,35000,10/06/2020,,5,3,False
+,IT,Senior Analyst,-5,55000,10/06/2020,,1,3,False
+,it ,ANALYST,-5,120000,2019-05-10,01/04/2021,3,excellent,no
+EMP1266,Sales,Senior Analyst,,,2021/07/15,2022-03-01,1,excellent,True
+,Sales,ANALYST,35,55000,,01/04/2021,8,3,True
+,Sales,Senior Analyst,60,120000,10/06/2020,,8,4,False
+,HR ,mgr,unknown,N/A,2021/07/15,01/04/2021,ten,poor,no
+,IT,ANALYST,,120000,10/06/2020,invalid,-2,2,
+emp_271,Sales,Analyst,150,120000,,2022-03-01,1,,False
+,,Manager,28,85000,2021/07/15,invalid,ten,1,False
+,Finance,ANALYST,,120000,10/06/2020,,12,2,yes
+,,Analyst,22,120000,2019-05-10,2022-03-01,,3,
+,,Analyst,45,N/A,2021/07/15,01/04/2021,1,5,False
+,it ,Analyst,45,120000,2019-05-10,,ten,3,False
+emp_277,it ,Senior Analyst,-5,35000,10/06/2020,2022-03-01,-2,2,no
+EMP1278,sales,Analyst,unknown,250000,2019-05-10,01/04/2021,5,3,
+EMP1279,sales,Senior Analyst,60,250000,,2022-03-01,3,5,False
+,IT,Senior Analyst,60,55000,10/06/2020,01/04/2021,3,poor,False
+,HR ,,60,85000,10/06/2020,invalid,-2,1,no
+,Finance,Senior Analyst,28,55000,invalid,01/04/2021,,1,no
+emp_283,Finance,,35,55000,2019-05-10,2022-03-01,12,excellent,
+EMP1284,,,35,₹75000,,invalid,1,3,True
+,Sales,Manager,-5,85000,10/06/2020,,8,poor,no
+,HR ,,28,120000,invalid,2022-03-01,1,1,False
+,IT,Analyst,unknown,N/A,2021/07/15,invalid,ten,,no
+,IT,Analyst,45,250000,invalid,2022-03-01,3,1,no
+emp_289,IT,Senior Analyst,35,85000,2019-05-10,,12,poor,False
+emp_290,it ,mgr,,,10/06/2020,2022-03-01,3,2,False
+,HR,Manager,150,120000,10/06/2020,,8,excellent,no
+,IT,mgr,,250000,10/06/2020,invalid,ten,,False
+EMP1293,HR,,60,N/A,2021/07/15,01/04/2021,8,excellent,
+,IT,Analyst,unknown,250000,,2022-03-01,,3,False
+,it ,Senior Analyst,unknown,,10/06/2020,invalid,12,poor,
+EMP1296,Sales,,,250000,invalid,2022-03-01,3,5,no
+emp_297,sales,,150,120000,10/06/2020,01/04/2021,-2,2,
+,HR,ANALYST,28,85000,2021/07/15,,-2,2,
+,,Senior Analyst,22,250000,10/06/2020,invalid,ten,4,no
+EMP1300,IT,ANALYST,28,120000,2019-05-10,,,2,True
+EMP1301,IT,Analyst,60,N/A,2019-05-10,,-2,5,no
+,HR,,unknown,250000,2021/07/15,invalid,8,excellent,True
+EMP1303,sales,mgr,45,85000,invalid,2022-03-01,1,poor,False
+,it ,Manager,35,85000,2021/07/15,,1,excellent,yes
+,,mgr,-5,55000,10/06/2020,01/04/2021,8,,
+,Sales,mgr,35,55000,invalid,,12,poor,True
+,IT,mgr,35,,invalid,invalid,-2,excellent,False
+,,Senior Analyst,150,120000,,,3,,no
+,HR,,28,₹75000,invalid,,,,True
+emp_310,sales,Manager,28,55000,invalid,2022-03-01,,,
+EMP1311,IT,Manager,35,₹75000,2021/07/15,,1,4,
+EMP1312,Sales,Analyst,22,55000,2021/07/15,,3,4,no
+,it ,Senior Analyst,22,N/A,,invalid,1,3,
+,Sales,ANALYST,45,55000,10/06/2020,invalid,,4,True
+emp_315,IT,Manager,22,250000,,invalid,12,excellent,True
+emp_316,HR,Senior Analyst,60,120000,2019-05-10,01/04/2021,8,excellent,no
+emp_317,it ,ANALYST,45,120000,,01/04/2021,,excellent,
+,HR,Senior Analyst,60,₹75000,10/06/2020,01/04/2021,-2,2,
+,HR ,ANALYST,35,,2019-05-10,2022-03-01,8,poor,False
+,HR,ANALYST,60,35000,invalid,,-2,4,True
+,Sales,Analyst,-5,55000,10/06/2020,2022-03-01,8,excellent,
+,it ,Manager,45,85000,2019-05-10,2022-03-01,5,poor,True
+EMP1323,IT,Manager,-5,₹75000,,2022-03-01,12,2,False
+,HR ,Manager,22,250000,,01/04/2021,5,5,True
+,Finance,,150,85000,2019-05-10,2022-03-01,8,2,yes
+EMP1326,HR ,ANALYST,28,,,invalid,3,2,yes
+EMP1327,it ,Senior Analyst,45,35000,,2022-03-01,1,4,no
+EMP1328,IT,mgr,22,35000,2021/07/15,2022-03-01,-2,,True
+,,Senior Analyst,45,35000,2019-05-10,01/04/2021,12,1,True
+emp_330,,mgr,150,,,invalid,1,3,True
+emp_331,Finance,ANALYST,150,,2021/07/15,01/04/2021,8,2,yes
+,sales,,unknown,₹75000,,2022-03-01,8,1,yes
+,,Analyst,-5,,2021/07/15,,1,1,no
+,IT,Manager,22,85000,2019-05-10,01/04/2021,12,poor,no
+emp_335,it ,,60,55000,,invalid,8,5,False
+emp_336,HR ,,45,N/A,10/06/2020,,-2,3,True
+emp_337,Sales,Senior Analyst,,85000,invalid,2022-03-01,3,,no
+emp_338,,mgr,22,35000,2021/07/15,2022-03-01,-2,3,no
+,Finance,Senior Analyst,-5,55000,,01/04/2021,1,3,False
+EMP1340,,Manager,unknown,₹75000,,,ten,5,True
+EMP1341,Finance,Manager,45,N/A,10/06/2020,01/04/2021,5,poor,yes
+EMP1342,it ,mgr,150,55000,,invalid,,poor,yes
+emp_343,HR,mgr,22,,,,-2,2,yes
+,IT,,-5,35000,invalid,invalid,1,poor,
+,Sales,mgr,22,₹75000,invalid,,12,4,yes
+,Sales,mgr,150,250000,10/06/2020,invalid,ten,2,
+,sales,Senior Analyst,60,N/A,invalid,invalid,3,excellent,yes
+EMP1348,HR,mgr,35,55000,,invalid,3,2,yes
+EMP1349,Sales,Manager,,₹75000,10/06/2020,01/04/2021,3,,False
+EMP1350,it ,Senior Analyst,45,85000,10/06/2020,2022-03-01,1,,yes
+emp_351,,mgr,45,120000,,01/04/2021,1,5,no
+,Sales,Analyst,45,₹75000,,invalid,-2,excellent,no
+emp_353,Sales,Senior Analyst,22,35000,,01/04/2021,ten,excellent,False
+,sales,Manager,35,35000,invalid,,-2,4,no
+,it ,Manager,45,120000,,invalid,,3,no
+,IT,Manager,22,85000,invalid,01/04/2021,ten,2,no
+EMP1357,Finance,Senior Analyst,45,,,,3,4,True
+EMP1358,IT,Manager,45,55000,invalid,invalid,5,excellent,yes
+EMP1359,HR,Analyst,unknown,,2019-05-10,,ten,5,yes
+emp_360,HR,,150,85000,2021/07/15,01/04/2021,3,1,False
+emp_361,it ,ANALYST,45,35000,invalid,2022-03-01,,1,
+,,ANALYST,unknown,85000,2019-05-10,01/04/2021,5,,True
+,sales,Senior Analyst,28,250000,,invalid,8,5,True
+emp_364,HR,ANALYST,60,250000,2021/07/15,,-2,5,no
+emp_365,IT,,-5,85000,2021/07/15,2022-03-01,-2,poor,False
+EMP1366,it ,mgr,28,55000,10/06/2020,01/04/2021,-2,5,False
+EMP1367,it ,,28,85000,invalid,2022-03-01,3,4,False
+,HR,Manager,,,,2022-03-01,8,excellent,yes
+emp_369,Sales,Senior Analyst,150,85000,10/06/2020,,3,5,True
+emp_370,sales,Manager,28,,,2022-03-01,1,poor,no
+,Sales,Manager,60,250000,2021/07/15,01/04/2021,3,3,False
+EMP1372,Sales,Manager,45,250000,2021/07/15,,,2,False
+,HR,,150,N/A,10/06/2020,2022-03-01,3,4,no
+,Finance,Senior Analyst,150,,,01/04/2021,1,,False
+EMP1375,,Analyst,150,,invalid,01/04/2021,12,,yes
+,IT,Manager,,85000,invalid,01/04/2021,3,2,yes
+EMP1377,HR,,35,35000,10/06/2020,01/04/2021,12,2,True
+,HR ,Senior Analyst,-5,35000,,2022-03-01,3,2,True
+EMP1379,Finance,Senior Analyst,-5,N/A,2021/07/15,01/04/2021,8,excellent,yes
+emp_380,Finance,Senior Analyst,45,₹75000,invalid,2022-03-01,ten,5,yes
+,,,60,,2019-05-10,invalid,8,5,False
+,,mgr,150,35000,,2022-03-01,8,4,True
+emp_383,Finance,mgr,60,N/A,,01/04/2021,-2,3,yes
+EMP1384,Finance,Manager,45,85000,2021/07/15,,12,3,yes
+,it ,Manager,45,,10/06/2020,01/04/2021,-2,5,True
+,HR,Manager,60,250000,10/06/2020,01/04/2021,-2,2,True
+emp_387,IT,,28,85000,2019-05-10,invalid,12,,True
+,it ,mgr,60,250000,,,12,3,
+EMP1389,Finance,,28,₹75000,10/06/2020,2022-03-01,-2,2,yes
+emp_390,,mgr,60,35000,2021/07/15,01/04/2021,8,excellent,no
+,HR ,mgr,35,85000,2021/07/15,,1,,False
+,Sales,mgr,28,85000,2021/07/15,,5,excellent,
+,Finance,Manager,60,35000,invalid,,1,4,
+,Finance,mgr,22,N/A,2019-05-10,,,poor,
+,HR,ANALYST,45,N/A,2019-05-10,,12,3,True
+emp_396,Finance,mgr,150,,,01/04/2021,1,excellent,False
+,Sales,ANALYST,22,250000,2021/07/15,invalid,8,5,no
+EMP1398,it ,ANALYST,28,120000,10/06/2020,invalid,5,,no
+,Finance,ANALYST,60,250000,invalid,,1,3,True
+EMP1400,sales,Manager,60,250000,10/06/2020,2022-03-01,3,3,no
+EMP1401,Finance,Analyst,22,250000,,invalid,1,1,
+,sales,Manager,28,120000,2019-05-10,,ten,5,no
+emp_403,it ,Manager,35,120000,2019-05-10,01/04/2021,5,4,True
+emp_404,,mgr,-5,N/A,,invalid,12,1,no
+emp_405,HR,Manager,unknown,250000,2019-05-10,invalid,-2,poor,no
+EMP1406,Sales,Senior Analyst,28,85000,invalid,2022-03-01,12,3,no
+EMP1407,IT,mgr,45,₹75000,2021/07/15,,,poor,True
+EMP1408,IT,,22,N/A,10/06/2020,invalid,-2,4,True
+EMP1409,Sales,Analyst,150,120000,2019-05-10,invalid,5,poor,yes
+emp_410,,Analyst,28,N/A,2021/07/15,,12,poor,False
+,sales,Analyst,-5,85000,invalid,01/04/2021,-2,3,True
+EMP1412,it ,Senior Analyst,35,55000,,01/04/2021,-2,2,True
+,Sales,Senior Analyst,45,₹75000,2021/07/15,,ten,5,no
+EMP1414,Sales,,45,,invalid,,,3,True
+,HR ,,22,55000,invalid,invalid,3,3,yes
+,HR,mgr,45,120000,2021/07/15,01/04/2021,1,,False
+,sales,,60,₹75000,,01/04/2021,,3,False
+,HR ,ANALYST,28,250000,2021/07/15,invalid,12,2,False
+,sales,Senior Analyst,unknown,85000,10/06/2020,,3,1,False
+,IT,,-5,85000,2021/07/15,,5,excellent,no
+EMP1421,it ,Manager,35,120000,10/06/2020,invalid,1,2,
+,Sales,Manager,35,₹75000,invalid,invalid,,3,False
+,HR,,,,2021/07/15,01/04/2021,12,2,False
+EMP1424,it ,,35,35000,2021/07/15,invalid,-2,poor,True
+,Sales,ANALYST,-5,120000,10/06/2020,invalid,12,3,no
+EMP1426,it ,Manager,22,85000,10/06/2020,01/04/2021,12,5,yes
+emp_427,,Manager,-5,55000,2019-05-10,invalid,1,4,no
+,Finance,Senior Analyst,22,N/A,,2022-03-01,1,2,
+,,ANALYST,unknown,55000,2021/07/15,,3,2,True
+emp_430,HR,mgr,22,120000,10/06/2020,01/04/2021,,,True
+EMP1431,,mgr,,35000,invalid,invalid,1,,yes
+emp_432,Sales,,-5,,2021/07/15,invalid,-2,,no
+,Sales,mgr,45,35000,2021/07/15,2022-03-01,,2,
+EMP1434,it ,,60,55000,2019-05-10,01/04/2021,-2,1,
+,sales,,-5,N/A,,2022-03-01,5,,False
+,HR ,mgr,22,N/A,2019-05-10,2022-03-01,12,1,no
+EMP1437,Finance,Manager,45,85000,invalid,01/04/2021,8,poor,yes
+,,mgr,,N/A,invalid,invalid,,4,yes
+emp_439,IT,mgr,-5,55000,2019-05-10,01/04/2021,8,3,False
+EMP1440,HR,ANALYST,-5,250000,invalid,01/04/2021,8,,no
+,sales,mgr,150,35000,,01/04/2021,ten,1,no
+emp_442,Sales,ANALYST,,250000,invalid,,-2,poor,
+EMP1443,it ,ANALYST,35,85000,10/06/2020,invalid,3,3,
+EMP1444,Sales,Senior Analyst,28,85000,2021/07/15,invalid,3,1,False
+emp_445,HR,Analyst,-5,N/A,2021/07/15,2022-03-01,1,2,False
+,IT,Analyst,45,,10/06/2020,,-2,,yes
+,Sales,mgr,150,35000,2019-05-10,01/04/2021,8,poor,False
+EMP1448,it ,Senior Analyst,150,₹75000,10/06/2020,,ten,,False
+EMP1449,IT,mgr,28,250000,2019-05-10,01/04/2021,ten,5,yes
+,sales,mgr,35,85000,invalid,2022-03-01,12,excellent,no
+,it ,mgr,-5,85000,,2022-03-01,8,3,
+emp_452,HR,Manager,45,55000,10/06/2020,,ten,5,no
+,sales,mgr,-5,₹75000,2021/07/15,2022-03-01,5,poor,True
+,HR ,ANALYST,28,35000,invalid,01/04/2021,3,poor,False
+EMP1455,Sales,mgr,35,250000,invalid,invalid,5,poor,True
+EMP1456,,Analyst,45,35000,10/06/2020,2022-03-01,1,5,
+emp_457,IT,Senior Analyst,22,,2021/07/15,invalid,8,3,True
+,it ,ANALYST,45,N/A,,01/04/2021,3,1,False
+emp_459,,Manager,150,120000,10/06/2020,invalid,8,3,
+,Sales,Senior Analyst,28,120000,invalid,01/04/2021,ten,5,yes
+,HR ,,,,,invalid,3,excellent,True
+,HR ,ANALYST,22,35000,2021/07/15,2022-03-01,12,2,
+emp_463,Finance,mgr,unknown,250000,2021/07/15,,12,4,yes
+,IT,ANALYST,45,₹75000,2021/07/15,,8,1,True
+emp_465,IT,Analyst,unknown,N/A,10/06/2020,2022-03-01,-2,,True
+emp_466,HR,Senior Analyst,-5,,,invalid,1,5,
+EMP1467,Finance,ANALYST,150,,10/06/2020,01/04/2021,,poor,yes
+,it ,Analyst,-5,120000,10/06/2020,invalid,8,1,no
+,HR ,,35,120000,2019-05-10,invalid,1,,True
+EMP1470,HR ,mgr,35,250000,2021/07/15,2022-03-01,1,excellent,True
+,Sales,ANALYST,,250000,2021/07/15,,ten,3,False
+emp_472,Finance,Senior Analyst,150,120000,10/06/2020,,8,4,no
+,Sales,ANALYST,unknown,35000,invalid,invalid,ten,1,
+,sales,Analyst,-5,55000,,,ten,1,True
+EMP1475,Finance,mgr,,250000,invalid,,12,excellent,
+,HR,,28,N/A,2021/07/15,invalid,5,1,
+,sales,mgr,150,120000,2019-05-10,2022-03-01,5,4,yes
+,HR,Senior Analyst,22,N/A,2021/07/15,2022-03-01,8,5,False
+EMP1479,,Analyst,45,120000,10/06/2020,01/04/2021,1,3,
+,sales,Senior Analyst,60,N/A,2019-05-10,01/04/2021,5,2,yes
+EMP1481,it ,,28,N/A,10/06/2020,01/04/2021,-2,1,yes
+emp_482,Finance,,22,85000,2021/07/15,01/04/2021,5,poor,False
+emp_483,sales,,60,N/A,invalid,,12,1,
+,HR ,Senior Analyst,unknown,35000,2019-05-10,2022-03-01,12,poor,
+EMP1485,Sales,mgr,28,55000,2021/07/15,invalid,-2,2,yes
+emp_486,HR,ANALYST,35,35000,,invalid,5,1,no
+emp_487,Finance,Senior Analyst,unknown,120000,2021/07/15,2022-03-01,1,5,yes
+,HR,mgr,unknown,₹75000,2019-05-10,invalid,,2,yes
+EMP1489,sales,,,N/A,2019-05-10,,5,1,yes
+,it ,mgr,,55000,10/06/2020,invalid,3,excellent,False
+EMP1491,Sales,Senior Analyst,unknown,,,2022-03-01,3,,True
+EMP1492,Sales,Manager,,85000,2019-05-10,,-2,3,no
+,sales,ANALYST,22,₹75000,2019-05-10,invalid,-2,4,False
+emp_494,HR,Senior Analyst,22,55000,,invalid,8,3,False
+,HR,ANALYST,-5,85000,10/06/2020,invalid,-2,2,yes
+,Finance,,45,55000,2019-05-10,2022-03-01,12,4,yes
+,Finance,ANALYST,,,2019-05-10,2022-03-01,8,1,no
+EMP1498,it ,Manager,45,N/A,10/06/2020,invalid,3,3,
+EMP1499,Sales,ANALYST,,55000,2021/07/15,01/04/2021,,,
+,sales,mgr,-5,250000,2019-05-10,2022-03-01,3,poor,no
+,,Senior Analyst,60,N/A,invalid,2022-03-01,,2,False
+EMP1502,it ,,150,35000,10/06/2020,,1,4,False
+emp_503,IT,Manager,35,35000,2021/07/15,,ten,5,
+emp_504,it ,Senior Analyst,-5,250000,2021/07/15,2022-03-01,5,5,no
+emp_505,Finance,Manager,22,120000,10/06/2020,invalid,3,5,True
+EMP1506,it ,Analyst,45,85000,2019-05-10,invalid,3,excellent,False
+emp_507,sales,Manager,60,35000,2021/07/15,invalid,5,5,no
+,HR ,Analyst,60,85000,2021/07/15,01/04/2021,8,1,True
+,HR,Analyst,unknown,35000,,invalid,1,poor,True
+emp_510,it ,Senior Analyst,unknown,250000,2021/07/15,invalid,5,4,True
+emp_511,sales,Senior Analyst,28,120000,invalid,,ten,1,yes
+,Finance,Senior Analyst,60,120000,10/06/2020,2022-03-01,ten,3,yes
+,it ,mgr,45,85000,2021/07/15,01/04/2021,12,4,
+emp_514,it ,Analyst,35,,10/06/2020,invalid,8,poor,True
+,,Manager,unknown,85000,2019-05-10,invalid,ten,excellent,True
+,it ,Senior Analyst,45,,2019-05-10,,8,excellent,True
+emp_517,Finance,Manager,-5,85000,2019-05-10,01/04/2021,5,3,no
+emp_518,Finance,ANALYST,45,85000,10/06/2020,,12,excellent,False
+EMP1519,Finance,Manager,-5,N/A,2021/07/15,invalid,8,1,False
+,it ,Analyst,45,120000,invalid,2022-03-01,1,3,True
+emp_521,it ,Analyst,60,,invalid,2022-03-01,1,,
+EMP1522,Finance,Analyst,35,₹75000,2021/07/15,,3,2,yes
+,,Senior Analyst,-5,,10/06/2020,2022-03-01,1,3,False
+emp_524,HR ,Senior Analyst,unknown,250000,invalid,2022-03-01,3,excellent,no
+emp_525,sales,Manager,-5,250000,10/06/2020,2022-03-01,1,1,False
+emp_526,sales,Manager,35,,2021/07/15,invalid,ten,1,True
+,sales,Manager,60,,invalid,01/04/2021,12,3,no
+EMP1528,HR,Senior Analyst,60,85000,2021/07/15,,3,poor,yes
+emp_529,,,28,250000,10/06/2020,invalid,1,5,no
+emp_530,,ANALYST,35,120000,10/06/2020,,,poor,yes
+EMP1531,,ANALYST,45,₹75000,2019-05-10,invalid,ten,4,no
+emp_532,Finance,mgr,35,35000,invalid,2022-03-01,-2,2,no
+emp_533,HR,mgr,-5,,invalid,,,poor,False
+,,Manager,45,55000,10/06/2020,01/04/2021,8,excellent,False
+,HR,ANALYST,28,35000,10/06/2020,invalid,3,4,yes
+,IT,Senior Analyst,150,55000,invalid,01/04/2021,5,poor,True
+EMP1537,IT,Analyst,45,120000,2021/07/15,2022-03-01,5,3,True
+EMP1538,,mgr,60,N/A,2021/07/15,01/04/2021,1,3,True
+,Sales,ANALYST,unknown,,10/06/2020,01/04/2021,-2,1,no
+,IT,Senior Analyst,60,N/A,,2022-03-01,-2,4,False
+EMP1541,HR,Analyst,45,35000,2019-05-10,invalid,8,poor,yes
+,sales,mgr,28,120000,,,-2,excellent,no
+,HR,ANALYST,35,250000,invalid,invalid,5,1,
+,sales,Manager,45,120000,2019-05-10,invalid,,poor,yes
+,HR ,,22,35000,,invalid,8,excellent,
+,HR ,Senior Analyst,28,85000,10/06/2020,01/04/2021,,,False
+,,,35,85000,2019-05-10,2022-03-01,ten,3,True
+,IT,Manager,60,35000,2021/07/15,01/04/2021,,1,no
+,HR,Manager,150,250000,2021/07/15,2022-03-01,ten,4,False
+emp_550,it ,mgr,28,N/A,,01/04/2021,12,poor,
+,HR,Senior Analyst,unknown,₹75000,,,12,,no
+,,Analyst,60,35000,invalid,,,,yes
+emp_553,IT,Manager,150,,invalid,2022-03-01,8,2,yes
+,sales,,28,55000,2019-05-10,,12,3,no
+,HR,Analyst,-5,35000,2019-05-10,invalid,12,3,no
+,HR ,Senior Analyst,,35000,2021/07/15,01/04/2021,8,3,
+,Sales,Manager,22,55000,invalid,invalid,-2,1,True
+,,Manager,45,₹75000,10/06/2020,,,2,True
+EMP1559,IT,ANALYST,60,250000,2021/07/15,,8,5,False
+,,ANALYST,unknown,250000,10/06/2020,2022-03-01,-2,3,True
+,HR ,ANALYST,45,,10/06/2020,,3,excellent,True
+,HR ,,unknown,,2021/07/15,invalid,,,no
+emp_563,,ANALYST,-5,35000,,2022-03-01,3,4,
+,sales,Senior Analyst,-5,₹75000,,,,1,False
+,IT,mgr,45,250000,2019-05-10,2022-03-01,3,,True
+EMP1566,HR ,Manager,,N/A,invalid,2022-03-01,1,1,no
+emp_567,,ANALYST,45,₹75000,10/06/2020,2022-03-01,1,5,
+EMP1568,it ,Senior Analyst,60,55000,invalid,invalid,3,1,False
+EMP1569,sales,Analyst,22,250000,invalid,,,3,
+emp_570,,Analyst,35,₹75000,10/06/2020,invalid,8,,
+,Sales,,150,120000,2019-05-10,invalid,5,1,False
+EMP1572,it ,Analyst,22,120000,2021/07/15,invalid,8,excellent,
+,HR ,mgr,60,₹75000,10/06/2020,01/04/2021,5,1,False
+,HR ,Analyst,150,35000,invalid,invalid,,,False
+,it ,Analyst,22,₹75000,,,3,4,
+,it ,Analyst,,250000,2021/07/15,01/04/2021,1,2,
+,IT,mgr,-5,₹75000,2019-05-10,invalid,5,poor,True
+,HR,ANALYST,45,N/A,2021/07/15,01/04/2021,3,5,yes
+EMP1579,HR,,28,85000,invalid,01/04/2021,1,5,no
+,,Senior Analyst,28,55000,,2022-03-01,8,3,False
+EMP1581,HR ,Senior Analyst,45,55000,2019-05-10,invalid,8,excellent,True
+EMP1582,sales,Senior Analyst,unknown,₹75000,invalid,01/04/2021,1,excellent,False
+EMP1583,sales,,45,85000,2021/07/15,invalid,5,1,yes
+EMP1584,Finance,Manager,150,,2019-05-10,invalid,-2,excellent,no
+emp_585,IT,Senior Analyst,60,85000,2021/07/15,,8,excellent,False
+emp_586,Sales,Manager,,35000,,2022-03-01,,excellent,no
+emp_587,HR ,ANALYST,-5,250000,10/06/2020,01/04/2021,ten,5,yes
+emp_588,,Manager,150,35000,2019-05-10,2022-03-01,-2,3,
+emp_589,sales,Manager,unknown,55000,2019-05-10,01/04/2021,1,poor,yes
+,Finance,mgr,unknown,55000,2021/07/15,01/04/2021,8,2,True
+,HR,ANALYST,-5,85000,2019-05-10,,1,3,yes
+emp_592,HR,ANALYST,28,,2021/07/15,2022-03-01,8,,no
+EMP1593,Finance,ANALYST,28,,2019-05-10,,,2,
+EMP1594,sales,,-5,N/A,invalid,invalid,3,5,True
+EMP1595,Sales,,-5,55000,invalid,2022-03-01,12,1,
+,it ,Senior Analyst,150,120000,10/06/2020,01/04/2021,12,1,yes
+EMP1597,it ,,45,250000,,01/04/2021,12,5,
+EMP1598,IT,ANALYST,unknown,55000,invalid,,5,5,False
+,HR,ANALYST,-5,85000,,,1,2,True
+,HR ,Analyst,-5,,2019-05-10,01/04/2021,1,poor,False
+EMP1601,,Senior Analyst,22,N/A,invalid,,5,3,True
+,sales,ANALYST,,N/A,invalid,01/04/2021,-2,,yes
+,Sales,,unknown,120000,invalid,invalid,,1,True
+EMP1604,IT,,35,35000,10/06/2020,invalid,3,excellent,yes
+,,mgr,-5,₹75000,2019-05-10,01/04/2021,5,,True
+,Finance,,unknown,55000,,,5,5,yes
+,sales,Analyst,-5,N/A,2021/07/15,01/04/2021,,4,yes
+emp_608,IT,mgr,-5,35000,2019-05-10,2022-03-01,-2,1,yes
+,HR ,mgr,unknown,₹75000,2021/07/15,2022-03-01,12,2,no
+,it ,Manager,35,120000,10/06/2020,invalid,12,3,True
+emp_611,Sales,Analyst,22,₹75000,2021/07/15,2022-03-01,-2,4,False
+EMP1612,HR ,,35,₹75000,invalid,invalid,,excellent,no
+emp_613,Sales,,unknown,₹75000,invalid,01/04/2021,3,4,no
+EMP1614,Finance,Analyst,,35000,10/06/2020,01/04/2021,12,poor,no
+,it ,mgr,,85000,10/06/2020,,,poor,no
+,,mgr,35,₹75000,2019-05-10,,3,4,yes
+emp_617,Finance,Analyst,-5,120000,10/06/2020,2022-03-01,8,2,yes
+emp_618,it ,ANALYST,45,250000,2021/07/15,,12,5,True
+,IT,Manager,35,120000,10/06/2020,01/04/2021,-2,5,False
+,IT,Analyst,150,N/A,2021/07/15,invalid,12,2,False
+,sales,ANALYST,35,₹75000,invalid,01/04/2021,ten,1,False
+EMP1622,IT,mgr,unknown,120000,10/06/2020,,ten,2,
+,,Senior Analyst,22,N/A,invalid,01/04/2021,5,excellent,no
+emp_624,HR ,Manager,,N/A,2019-05-10,,ten,poor,True
+,HR ,Senior Analyst,150,₹75000,2019-05-10,01/04/2021,8,2,True
+,,Senior Analyst,45,35000,10/06/2020,,1,poor,yes
+emp_627,it ,Senior Analyst,22,N/A,2021/07/15,,ten,1,False
+emp_628,HR ,Analyst,45,85000,2021/07/15,invalid,3,1,no
+emp_629,IT,mgr,45,35000,2019-05-10,2022-03-01,ten,excellent,True
+EMP1630,IT,,,N/A,10/06/2020,,5,excellent,
+emp_631,Sales,Senior Analyst,28,,invalid,2022-03-01,-2,excellent,no
+,IT,Analyst,150,55000,invalid,2022-03-01,3,,False
+,,,22,35000,invalid,,-2,poor,
+,sales,,28,55000,2019-05-10,invalid,5,1,False
+EMP1635,HR ,Manager,28,35000,10/06/2020,,3,1,True
+EMP1636,IT,Senior Analyst,-5,250000,,invalid,-2,3,yes
+,HR ,Analyst,unknown,55000,10/06/2020,invalid,5,poor,
+emp_638,IT,mgr,-5,₹75000,,invalid,ten,4,True
+,Finance,mgr,-5,85000,invalid,2022-03-01,3,,
+EMP1640,IT,,22,35000,invalid,2022-03-01,1,1,yes
+EMP1641,,mgr,,35000,,,5,5,
+,HR,Senior Analyst,45,250000,,invalid,-2,3,yes
+EMP1643,IT,Senior Analyst,-5,₹75000,10/06/2020,01/04/2021,,3,
+EMP1644,Finance,,-5,55000,2021/07/15,invalid,1,1,
+,sales,Manager,45,,2021/07/15,invalid,-2,1,no
+emp_646,IT,,22,₹75000,10/06/2020,invalid,5,3,yes
+EMP1647,HR,Senior Analyst,22,250000,10/06/2020,invalid,8,1,True
+emp_648,it ,,unknown,,10/06/2020,,,poor,False
+,HR ,mgr,28,N/A,10/06/2020,2022-03-01,-2,4,yes
+,it ,Senior Analyst,45,,invalid,,,4,yes
+emp_651,it ,Senior Analyst,unknown,,2021/07/15,01/04/2021,8,excellent,True
+,Sales,,28,55000,,01/04/2021,8,,False
+,it ,ANALYST,28,₹75000,2019-05-10,2022-03-01,1,,yes
+,sales,,150,₹75000,invalid,invalid,8,4,True
+,Finance,Manager,60,35000,invalid,invalid,-2,1,yes
+EMP1656,,mgr,,120000,2019-05-10,invalid,8,2,True
+emp_657,it ,Analyst,unknown,120000,,invalid,1,2,True
+,sales,mgr,35,250000,invalid,invalid,,3,yes
+emp_659,it ,Manager,22,85000,2019-05-10,01/04/2021,5,5,no
+emp_660,Finance,,22,120000,2021/07/15,2022-03-01,12,1,yes
+,sales,mgr,-5,₹75000,2021/07/15,,1,3,
+,Sales,Analyst,60,55000,2019-05-10,invalid,ten,1,True
+emp_663,IT,Senior Analyst,28,N/A,2021/07/15,01/04/2021,3,,
+,sales,Manager,22,N/A,10/06/2020,invalid,-2,3,no
+,IT,ANALYST,60,,,,8,1,True
+,HR ,Analyst,45,250000,10/06/2020,,12,1,no
+emp_667,HR ,Manager,28,250000,,,1,2,yes
+emp_668,HR,Senior Analyst,45,120000,,invalid,5,excellent,yes
+,HR,Manager,35,₹75000,2021/07/15,2022-03-01,3,3,
+EMP1670,HR ,mgr,22,₹75000,2019-05-10,,ten,2,no
+EMP1671,Finance,,-5,,10/06/2020,01/04/2021,12,5,False
+EMP1672,HR,Analyst,unknown,35000,2021/07/15,invalid,8,poor,
+,it ,mgr,unknown,N/A,invalid,,5,3,True
+,Sales,mgr,35,,,01/04/2021,12,5,no
+,Finance,Manager,28,250000,2021/07/15,,5,5,yes
+EMP1676,Finance,mgr,45,₹75000,2021/07/15,2022-03-01,,5,
+,Sales,,35,85000,10/06/2020,2022-03-01,8,1,no
+EMP1678,IT,mgr,35,,2019-05-10,invalid,ten,3,yes
+,,Senior Analyst,35,₹75000,2019-05-10,01/04/2021,-2,excellent,yes
+EMP1680,it ,Manager,45,,2021/07/15,invalid,5,,False
+,Sales,mgr,,N/A,2019-05-10,invalid,8,3,False
+,HR ,ANALYST,150,250000,invalid,,ten,5,
+emp_683,HR ,Manager,unknown,N/A,10/06/2020,,1,3,False
+,,ANALYST,150,55000,invalid,,1,excellent,
+,Sales,ANALYST,150,85000,invalid,2022-03-01,-2,3,
+EMP1686,,mgr,-5,,10/06/2020,2022-03-01,12,,
+,,Analyst,28,120000,10/06/2020,,3,excellent,True
+emp_688,,ANALYST,-5,N/A,,invalid,5,,False
+,IT,mgr,-5,₹75000,2021/07/15,,-2,poor,no
+,it ,,,120000,2019-05-10,,8,1,False
+emp_691,HR ,mgr,35,120000,10/06/2020,01/04/2021,-2,3,yes
+emp_692,Finance,Manager,-5,,10/06/2020,2022-03-01,1,3,
+,,Manager,,250000,10/06/2020,01/04/2021,8,poor,yes
+,HR,Senior Analyst,,N/A,10/06/2020,01/04/2021,ten,,yes
+,Finance,,60,₹75000,2019-05-10,invalid,5,,
+,HR ,Senior Analyst,35,,10/06/2020,2022-03-01,8,5,yes
+emp_697,sales,Senior Analyst,35,250000,2021/07/15,01/04/2021,12,,True
+,HR,mgr,45,₹75000,2019-05-10,,5,1,False
+emp_699,Sales,Senior Analyst,22,120000,2021/07/15,2022-03-01,,,True
+,it ,Manager,22,35000,10/06/2020,2022-03-01,-2,,
+,HR,,28,N/A,10/06/2020,01/04/2021,,poor,yes
+,Finance,Analyst,unknown,35000,2019-05-10,01/04/2021,1,poor,no
+emp_703,sales,Analyst,150,55000,10/06/2020,,8,,True
+EMP1704,Finance,Manager,-5,,2021/07/15,,12,excellent,True
+emp_705,HR ,ANALYST,unknown,85000,,invalid,ten,5,yes
+EMP1706,,Analyst,22,₹75000,10/06/2020,2022-03-01,8,5,
+,HR,Analyst,-5,250000,2019-05-10,,5,5,False
+,HR,,unknown,,,invalid,1,4,
+EMP1709,,mgr,45,,2019-05-10,invalid,12,excellent,yes
+,sales,ANALYST,-5,,2019-05-10,,12,1,yes
+emp_711,sales,mgr,28,85000,,01/04/2021,12,,False
+,HR,mgr,unknown,120000,invalid,invalid,3,poor,True
+,Sales,Analyst,45,250000,invalid,invalid,5,poor,True
+EMP1714,IT,ANALYST,45,120000,10/06/2020,2022-03-01,3,poor,no
+,,,unknown,₹75000,2021/07/15,2022-03-01,5,1,False
+EMP1716,Finance,,22,250000,2021/07/15,,5,4,no
+,Finance,mgr,22,250000,2019-05-10,invalid,,4,False
+EMP1718,it ,Analyst,unknown,250000,,invalid,12,poor,no
+emp_719,Sales,Senior Analyst,22,250000,2021/07/15,invalid,-2,,yes
+,IT,mgr,,N/A,invalid,01/04/2021,-2,5,True
+,IT,Senior Analyst,22,120000,2021/07/15,,1,,False
+EMP1722,it ,Manager,22,,2021/07/15,01/04/2021,12,4,no
+EMP1723,Finance,mgr,,₹75000,,2022-03-01,,2,no
+,HR,,28,120000,,01/04/2021,ten,3,
+,HR ,mgr,60,85000,invalid,01/04/2021,12,,False
+emp_726,HR,Senior Analyst,35,85000,,invalid,,,False
+emp_727,IT,,22,N/A,2019-05-10,,5,,yes
+EMP1728,HR,Manager,-5,55000,2019-05-10,2022-03-01,5,5,
+,it ,Analyst,22,N/A,,2022-03-01,8,,yes
+,it ,,45,35000,,,-2,poor,True
+emp_731,IT,Analyst,60,85000,,01/04/2021,8,,True
+,sales,ANALYST,150,55000,10/06/2020,invalid,ten,,no
+emp_733,,Senior Analyst,45,35000,10/06/2020,,8,excellent,False
+emp_734,Sales,mgr,,120000,2019-05-10,01/04/2021,-2,4,False
+emp_735,HR,,,35000,2021/07/15,invalid,12,1,True
+emp_736,Finance,ANALYST,22,₹75000,2019-05-10,,1,1,False
+emp_737,HR,Analyst,28,N/A,,invalid,1,5,yes
+emp_738,it ,,,35000,10/06/2020,01/04/2021,ten,5,
+EMP1739,sales,,45,₹75000,2021/07/15,01/04/2021,,poor,yes
+emp_740,it ,ANALYST,,₹75000,2019-05-10,,5,5,False
+,sales,mgr,28,120000,2019-05-10,invalid,1,3,
+emp_742,,Analyst,35,35000,invalid,,3,3,
+,HR,Senior Analyst,-5,₹75000,,invalid,12,4,yes
+EMP1744,sales,Analyst,45,85000,invalid,01/04/2021,,2,True
+emp_745,HR,ANALYST,-5,250000,2019-05-10,2022-03-01,ten,poor,True
+,sales,ANALYST,,,2019-05-10,,1,excellent,no
+,HR,Senior Analyst,28,120000,invalid,,8,4,False
+emp_748,IT,Analyst,-5,120000,2021/07/15,2022-03-01,3,4,False
+,IT,Manager,35,250000,2019-05-10,01/04/2021,-2,poor,
+,HR ,Manager,22,85000,2021/07/15,2022-03-01,1,3,True
+emp_751,it ,Senior Analyst,35,55000,,,5,2,
+,IT,ANALYST,60,250000,2021/07/15,01/04/2021,3,1,True
+emp_753,HR ,,22,250000,,invalid,3,1,
+,HR ,,35,85000,2019-05-10,invalid,8,5,False
+,it ,Manager,-5,85000,,2022-03-01,12,4,yes
+,it ,mgr,28,₹75000,invalid,invalid,,excellent,no
+,sales,Analyst,35,N/A,10/06/2020,01/04/2021,,,False
+EMP1758,HR ,Manager,unknown,55000,,2022-03-01,ten,1,
+EMP1759,sales,Senior Analyst,22,55000,invalid,2022-03-01,5,4,yes
+,,ANALYST,150,250000,10/06/2020,invalid,-2,excellent,
+EMP1761,HR ,mgr,22,250000,,,,4,True
+,Sales,Senior Analyst,60,₹75000,2021/07/15,2022-03-01,12,1,True
+EMP1763,HR,Manager,35,85000,,invalid,-2,,True
+,it ,Manager,45,35000,10/06/2020,invalid,5,4,True
+,HR,Senior Analyst,28,55000,2021/07/15,invalid,5,3,
+,IT,Analyst,35,120000,10/06/2020,invalid,-2,poor,yes
+emp_767,sales,Manager,,₹75000,2021/07/15,,,2,True
+,Sales,Senior Analyst,150,120000,2021/07/15,2022-03-01,3,4,False
+,IT,Analyst,-5,35000,10/06/2020,01/04/2021,12,2,False
+,HR ,,45,120000,2019-05-10,2022-03-01,3,3,no
+EMP1771,it ,Senior Analyst,60,85000,invalid,,-2,1,yes
+,HR ,mgr,60,55000,2021/07/15,01/04/2021,1,4,True
+emp_773,Finance,Manager,35,,invalid,01/04/2021,1,3,
+emp_774,Finance,Manager,-5,250000,,2022-03-01,3,poor,yes
+,Finance,mgr,45,₹75000,10/06/2020,2022-03-01,1,2,no
+EMP1776,IT,Senior Analyst,28,35000,invalid,01/04/2021,5,3,False
+EMP1777,Finance,Senior Analyst,45,85000,10/06/2020,,3,1,yes
+,HR ,Analyst,150,35000,10/06/2020,invalid,ten,,True
+,,Manager,-5,85000,2021/07/15,2022-03-01,,1,yes
+,Sales,,150,N/A,2019-05-10,,5,1,
+,HR,Manager,45,85000,2021/07/15,01/04/2021,5,4,False
+,Finance,Analyst,35,250000,invalid,invalid,5,5,
+,Finance,Analyst,-5,85000,2019-05-10,2022-03-01,8,,False
+emp_784,,ANALYST,-5,85000,invalid,invalid,1,poor,True
+,Sales,ANALYST,unknown,35000,2021/07/15,2022-03-01,,1,
+EMP1786,Finance,mgr,22,,2021/07/15,,12,,yes
+,,mgr,unknown,120000,,invalid,-2,poor,
+,HR,Analyst,-5,55000,10/06/2020,,8,2,no
+,HR ,Analyst,150,250000,10/06/2020,01/04/2021,-2,poor,no
+,HR ,Manager,unknown,35000,,2022-03-01,8,5,
+EMP1791,IT,Manager,,55000,2019-05-10,,1,4,yes
+EMP1792,IT,mgr,,₹75000,2021/07/15,,8,3,True
+,HR ,mgr,,120000,,invalid,,5,yes
+,HR ,Manager,unknown,,,,8,,False
+EMP1795,sales,Senior Analyst,60,55000,invalid,2022-03-01,8,4,False
+,HR ,Senior Analyst,150,55000,2019-05-10,,5,4,no
+,IT,,35,35000,invalid,,3,poor,True
+,HR,,unknown,120000,,,5,excellent,
+,IT,,45,35000,invalid,invalid,8,5,no
+,HR,Senior Analyst,35,55000,2019-05-10,,8,3,
+emp_801,sales,Analyst,150,55000,10/06/2020,,5,2,False
+,HR,Senior Analyst,150,N/A,2021/07/15,2022-03-01,1,1,no
+,HR,Analyst,45,250000,2021/07/15,,,poor,False
+,it ,mgr,35,35000,10/06/2020,01/04/2021,,,
+,Finance,Analyst,unknown,85000,2021/07/15,,8,2,True
+emp_806,,ANALYST,35,₹75000,2021/07/15,2022-03-01,1,poor,yes
+EMP1807,it ,ANALYST,150,250000,2019-05-10,invalid,12,1,True
+,Sales,Manager,28,N/A,10/06/2020,2022-03-01,8,5,no
+emp_809,it ,,35,,invalid,invalid,1,excellent,yes
+,it ,mgr,35,₹75000,invalid,,1,5,yes
+emp_811,HR,Senior Analyst,,35000,10/06/2020,01/04/2021,ten,1,
+emp_812,IT,ANALYST,60,N/A,10/06/2020,2022-03-01,3,2,True
+,,Manager,150,N/A,invalid,,-2,2,yes
+EMP1814,sales,mgr,45,250000,,,12,poor,False
+,IT,Senior Analyst,,₹75000,,invalid,-2,3,yes
+,sales,Manager,35,85000,invalid,01/04/2021,12,,
+,,Analyst,45,,,invalid,1,1,yes
+EMP1818,,mgr,-5,120000,,,3,poor,no
+,sales,,,N/A,10/06/2020,,-2,3,True
+,sales,Senior Analyst,60,55000,invalid,,5,5,yes
+emp_821,,Manager,unknown,250000,,,1,2,yes
+emp_822,HR ,Manager,60,N/A,,2022-03-01,3,4,no
+emp_823,HR,Analyst,unknown,55000,2019-05-10,invalid,3,2,yes
+,HR ,,45,55000,2019-05-10,2022-03-01,-2,5,False
+EMP1825,HR ,Manager,,₹75000,2021/07/15,2022-03-01,12,excellent,yes
+EMP1826,HR ,Analyst,60,120000,10/06/2020,01/04/2021,,5,yes
+,Finance,Senior Analyst,35,250000,2021/07/15,,,5,True
+,Finance,Analyst,28,₹75000,2019-05-10,01/04/2021,,3,False
+EMP1829,sales,,150,85000,10/06/2020,01/04/2021,12,,no
+EMP1830,HR,Senior Analyst,28,250000,,01/04/2021,5,4,yes
+EMP1831,it ,Analyst,45,₹75000,2019-05-10,invalid,1,poor,
+,IT,mgr,22,₹75000,2019-05-10,invalid,-2,1,yes
+,Finance,ANALYST,,35000,2021/07/15,01/04/2021,-2,3,
+,,mgr,unknown,85000,2019-05-10,invalid,-2,,no
+,sales,Analyst,unknown,₹75000,10/06/2020,01/04/2021,1,,
+,,Senior Analyst,35,85000,invalid,invalid,3,4,no
+,HR ,Analyst,22,120000,,,8,1,True
+emp_838,,ANALYST,60,35000,2021/07/15,01/04/2021,ten,poor,True
+,HR ,Analyst,35,35000,invalid,2022-03-01,1,,False
+emp_840,Finance,mgr,60,,2021/07/15,2022-03-01,,,yes
+,Sales,Analyst,unknown,,,01/04/2021,3,,
+,sales,Senior Analyst,,120000,2021/07/15,,3,excellent,False
+,Finance,mgr,150,85000,2021/07/15,invalid,3,excellent,False
+,it ,,28,55000,invalid,,ten,poor,
+,Finance,Manager,-5,85000,2019-05-10,invalid,-2,poor,no
+EMP1846,it ,Manager,60,85000,10/06/2020,2022-03-01,8,excellent,True
+EMP1847,sales,,unknown,85000,2021/07/15,,5,2,yes
+,HR,Senior Analyst,28,250000,2021/07/15,2022-03-01,1,2,False
+emp_849,Sales,Manager,unknown,85000,2019-05-10,2022-03-01,3,4,yes
+,sales,Senior Analyst,,120000,2019-05-10,,12,1,False
+EMP1851,Finance,Analyst,,,2021/07/15,01/04/2021,12,4,True
+,HR ,Senior Analyst,,N/A,10/06/2020,invalid,ten,3,yes
+emp_853,Finance,Analyst,-5,55000,,01/04/2021,5,excellent,yes
+emp_854,HR,Senior Analyst,35,55000,10/06/2020,,1,3,yes
+emp_855,,ANALYST,60,85000,invalid,invalid,1,4,False
+,,Analyst,,₹75000,invalid,invalid,12,1,False
+emp_857,sales,Senior Analyst,150,250000,invalid,invalid,8,excellent,yes
+,Finance,,28,85000,10/06/2020,01/04/2021,12,5,False
+,it ,Manager,60,35000,10/06/2020,2022-03-01,3,5,False
+,sales,Analyst,45,₹75000,invalid,invalid,3,5,
+emp_861,,,60,N/A,2021/07/15,01/04/2021,12,1,
+,Sales,Manager,,250000,invalid,2022-03-01,1,4,yes
+emp_863,sales,mgr,unknown,55000,2019-05-10,,-2,excellent,no
+emp_864,Finance,Analyst,28,250000,,2022-03-01,ten,,
+EMP1865,it ,mgr,28,55000,10/06/2020,01/04/2021,8,2,
+EMP1866,Sales,Senior Analyst,28,85000,10/06/2020,01/04/2021,12,4,
+,,Manager,22,85000,2019-05-10,01/04/2021,12,,True
+EMP1868,HR ,ANALYST,35,,10/06/2020,2022-03-01,,poor,
+,Finance,ANALYST,unknown,N/A,10/06/2020,,,5,False
+,IT,,-5,N/A,10/06/2020,2022-03-01,12,1,True
+,IT,Senior Analyst,,55000,2019-05-10,2022-03-01,,,no
+EMP1872,sales,mgr,45,N/A,,2022-03-01,1,excellent,False
+,it ,mgr,-5,55000,,2022-03-01,3,,True
+,Sales,,150,,invalid,,8,3,
+,IT,mgr,35,120000,2019-05-10,01/04/2021,8,excellent,no
+,HR,Analyst,60,35000,10/06/2020,invalid,5,4,True
+,Sales,Analyst,,120000,2021/07/15,01/04/2021,1,1,True
+,HR ,Senior Analyst,,85000,2019-05-10,invalid,ten,4,False
+,HR,Analyst,28,250000,,invalid,,2,False
+,,,,55000,2019-05-10,01/04/2021,3,4,
+EMP1881,,ANALYST,-5,N/A,2019-05-10,2022-03-01,1,2,True
+,it ,mgr,-5,85000,10/06/2020,01/04/2021,-2,2,True
+,HR,Senior Analyst,60,35000,10/06/2020,invalid,,5,
+emp_884,IT,,28,250000,2021/07/15,2022-03-01,,5,yes
+,HR,,,55000,,01/04/2021,5,5,True
+EMP1886,IT,Analyst,,N/A,2021/07/15,,-2,5,yes
+,HR,Analyst,unknown,55000,2021/07/15,2022-03-01,-2,1,
+,it ,,60,₹75000,2019-05-10,01/04/2021,1,5,no
+emp_889,HR ,,60,250000,,invalid,,poor,
+EMP1890,HR,Analyst,60,55000,2019-05-10,01/04/2021,12,1,
+EMP1891,sales,Senior Analyst,28,,,invalid,12,2,True
+,Finance,Senior Analyst,35,85000,10/06/2020,2022-03-01,-2,4,no
+,,,35,35000,2019-05-10,invalid,12,5,no
+EMP1894,it ,ANALYST,-5,120000,10/06/2020,invalid,5,1,False
+,it ,Manager,,250000,,01/04/2021,12,2,no
+,Sales,ANALYST,35,55000,invalid,,5,3,
+emp_897,Sales,Manager,22,250000,,2022-03-01,3,2,no
+EMP1898,sales,,45,,2021/07/15,2022-03-01,,poor,no
+emp_899,IT,Manager,150,35000,,,3,4,True
+emp_900,IT,mgr,unknown,,10/06/2020,invalid,1,3,no
+,HR,ANALYST,-5,250000,10/06/2020,01/04/2021,12,5,
+EMP1902,IT,,28,85000,2019-05-10,,5,,
+emp_903,sales,Manager,45,N/A,,invalid,-2,5,no
+emp_904,IT,Senior Analyst,28,120000,invalid,01/04/2021,,3,no
+,Sales,Analyst,150,55000,2021/07/15,2022-03-01,12,1,yes
+,HR,Manager,28,,,2022-03-01,12,excellent,False
+emp_907,HR,Analyst,unknown,250000,,01/04/2021,-2,3,True
+,IT,Senior Analyst,35,55000,2021/07/15,,3,3,False
+emp_909,sales,Analyst,35,35000,invalid,01/04/2021,3,poor,yes
+emp_910,,Analyst,-5,120000,2021/07/15,invalid,1,3,yes
+,Finance,mgr,-5,N/A,,invalid,,4,True
+,sales,Analyst,unknown,55000,2019-05-10,,ten,3,True
+,Finance,Analyst,28,N/A,invalid,01/04/2021,1,1,yes
+emp_914,Sales,Manager,unknown,N/A,2021/07/15,2022-03-01,ten,,True
+emp_915,Sales,,28,55000,2021/07/15,invalid,1,1,no
+EMP1916,sales,Analyst,35,,invalid,invalid,8,excellent,False
+,,,45,,invalid,,1,4,False
+emp_918,Sales,Senior Analyst,45,₹75000,10/06/2020,01/04/2021,,3,
+EMP1919,sales,Senior Analyst,unknown,120000,2019-05-10,2022-03-01,5,1,False
+EMP1920,,,150,250000,10/06/2020,01/04/2021,12,4,True
+,IT,mgr,60,N/A,2019-05-10,01/04/2021,8,2,True
+,sales,ANALYST,60,85000,2019-05-10,invalid,8,poor,
+emp_923,,Analyst,28,,2019-05-10,2022-03-01,1,excellent,False
+,IT,,-5,55000,invalid,,3,5,
+,Sales,ANALYST,150,N/A,2021/07/15,invalid,ten,excellent,
+,,ANALYST,45,35000,2021/07/15,invalid,-2,3,no
+,HR ,Senior Analyst,22,120000,2019-05-10,01/04/2021,-2,1,yes
+,sales,mgr,22,35000,10/06/2020,2022-03-01,3,excellent,False
+EMP1929,Sales,Senior Analyst,-5,N/A,invalid,,12,4,yes
+EMP1930,IT,Analyst,,35000,10/06/2020,2022-03-01,1,1,False
+EMP1931,,,45,55000,2021/07/15,invalid,5,poor,
+,HR,mgr,unknown,₹75000,invalid,invalid,1,4,True
+EMP1933,HR ,Senior Analyst,-5,120000,2021/07/15,,ten,excellent,True
+EMP1934,it ,,35,35000,10/06/2020,invalid,8,5,no
+emp_935,,Analyst,60,120000,10/06/2020,01/04/2021,ten,2,False
+,it ,Manager,unknown,55000,invalid,01/04/2021,1,4,False
+emp_937,,Analyst,35,120000,2019-05-10,2022-03-01,1,,
+EMP1938,sales,Senior Analyst,-5,₹75000,2019-05-10,01/04/2021,5,2,yes
+,it ,,28,120000,,invalid,ten,1,no
+EMP1940,Sales,Manager,45,85000,invalid,invalid,1,5,
+,Finance,Analyst,22,,10/06/2020,invalid,,excellent,False
+,IT,Senior Analyst,60,,2021/07/15,invalid,5,3,yes
+EMP1943,Finance,mgr,45,35000,10/06/2020,01/04/2021,-2,,
+,HR ,ANALYST,28,₹75000,invalid,2022-03-01,-2,5,
+,HR,Manager,-5,35000,10/06/2020,01/04/2021,3,,True
+,IT,Senior Analyst,45,35000,2019-05-10,,8,5,
+,IT,Analyst,,N/A,2019-05-10,,1,excellent,no
+,it ,ANALYST,60,₹75000,,2022-03-01,,2,True
+emp_949,it ,,-5,55000,invalid,2022-03-01,5,1,no
+emp_950,sales,mgr,45,55000,2021/07/15,2022-03-01,,,False
+,HR ,Manager,45,55000,10/06/2020,,1,1,True
+EMP1952,HR ,Analyst,28,250000,,2022-03-01,-2,4,False
+,,Senior Analyst,,120000,,,3,2,False
+,HR ,Analyst,,₹75000,2019-05-10,2022-03-01,1,3,yes
+,it ,ANALYST,60,250000,2019-05-10,01/04/2021,,3,no
+EMP1956,HR,mgr,150,55000,2019-05-10,invalid,,poor,False
+,sales,Analyst,35,120000,10/06/2020,,8,poor,no
+EMP1958,,ANALYST,35,55000,2021/07/15,,-2,2,yes
+,HR,,unknown,120000,10/06/2020,invalid,8,3,
+emp_960,IT,Manager,60,₹75000,,01/04/2021,12,3,
+,,Manager,35,35000,2021/07/15,,3,poor,yes
+emp_962,Sales,Analyst,,N/A,10/06/2020,,12,1,True
+,HR,mgr,45,55000,,,12,1,yes
+,IT,ANALYST,45,55000,2021/07/15,2022-03-01,-2,4,no
+,sales,mgr,-5,,10/06/2020,,12,poor,no
+,it ,Analyst,45,N/A,10/06/2020,01/04/2021,1,,no
+,,,22,85000,invalid,01/04/2021,12,poor,False
+emp_968,IT,Manager,22,120000,2021/07/15,2022-03-01,5,poor,True
+EMP1969,it ,,150,250000,2019-05-10,2022-03-01,,,
+,HR ,ANALYST,22,55000,10/06/2020,invalid,-2,,False
+emp_971,it ,Analyst,150,,2019-05-10,2022-03-01,1,5,yes
+EMP1972,,ANALYST,22,55000,10/06/2020,invalid,,3,
+,IT,,60,N/A,,01/04/2021,5,poor,False
+emp_974,,mgr,unknown,85000,2021/07/15,01/04/2021,3,4,False
+,,Senior Analyst,28,55000,10/06/2020,01/04/2021,-2,,yes
+EMP1976,HR,Analyst,unknown,250000,2019-05-10,,1,poor,False
+emp_977,IT,ANALYST,28,,2019-05-10,invalid,8,4,
+EMP1978,HR,Senior Analyst,28,₹75000,10/06/2020,invalid,8,1,True
+,sales,Senior Analyst,28,85000,10/06/2020,2022-03-01,5,2,yes
+EMP1980,it ,Manager,45,N/A,2019-05-10,01/04/2021,-2,excellent,
+,sales,mgr,-5,85000,,,-2,,yes
+,HR ,,unknown,55000,10/06/2020,,5,,
+EMP1983,HR ,mgr,150,,invalid,01/04/2021,1,1,False
+,sales,Manager,35,₹75000,invalid,2022-03-01,5,1,no
+emp_985,sales,mgr,-5,,invalid,invalid,-2,1,
+,sales,Manager,35,,2021/07/15,,-2,5,no
+EMP1987,Sales,ANALYST,150,120000,2021/07/15,invalid,,4,no
+EMP1988,Finance,ANALYST,35,55000,,01/04/2021,-2,5,
+,HR,Analyst,45,120000,,invalid,3,1,True
+emp_990,,Senior Analyst,-5,85000,2019-05-10,01/04/2021,12,5,yes
+,it ,Analyst,,120000,10/06/2020,2022-03-01,-2,4,yes
+EMP1992,Sales,Analyst,45,120000,invalid,invalid,1,excellent,no
+EMP1993,sales,,35,120000,10/06/2020,2022-03-01,12,,no
+EMP1994,Sales,,-5,85000,2019-05-10,2022-03-01,12,1,True
+EMP1995,Finance,,60,55000,2019-05-10,2022-03-01,1,4,yes
+EMP1996,IT,Analyst,35,250000,invalid,invalid,-2,5,
+EMP1997,Sales,Senior Analyst,150,250000,2021/07/15,invalid,3,excellent,yes
+emp_998,Finance,,60,85000,2019-05-10,,12,,True
+EMP1999,it ,Manager,150,₹75000,invalid,2022-03-01,ten,5,yes
