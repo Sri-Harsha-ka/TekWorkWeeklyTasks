@@ -1,0 +1,12 @@
+
+1. Test
+2. 2 or 3 algo 
+3. Project list 
+4. Demo 
+5. Stream lit + Fast API
+
+Project : 
+	1. Description : Problem statement
+	2. Model ( Evaluation metrics )
+	3. Fast API
+	4. UI ( Stream lit , React JS )
