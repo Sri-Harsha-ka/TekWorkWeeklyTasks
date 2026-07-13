@@ -1,141 +1,139 @@
+from pathlib import Path
+import os
+import pickle
+import re
+import warnings
+
+os.environ.setdefault("TF_CPP_MIN_LOG_LEVEL", "3")
+os.environ.setdefault("GLOG_minloglevel", "3")
+os.environ.setdefault("TF_ENABLE_ONEDNN_OPTS", "0")
+
 import numpy as np
+import pandas as pd
 import streamlit as st
+
+warnings.filterwarnings("ignore", message=r".*tf\.reset_default_graph.*")
+warnings.filterwarnings("ignore", category=FutureWarning)
+
 import tensorflow as tf
 
-
-CLASS_NAMES = ["Normal", "Elevated", "Critical"]
-
-
-def generate_synthetic_dataset(total_samples=240, random_state=42):
-	rng = np.random.default_rng(random_state)
-	bpm_values = rng.uniform(35.0, 185.0, size=total_samples).astype(np.float32)
-	labels = np.array([label_bpm(value) for value in bpm_values], dtype=np.int32)
-	shuffle_indices = rng.permutation(total_samples)
-	return bpm_values[shuffle_indices], labels[shuffle_indices]
+tf.get_logger().setLevel("ERROR")
 
 
-def label_bpm(bpm_value):
-	if 60.0 <= bpm_value <= 100.0:
-		return 0
-	if 40.0 <= bpm_value < 60.0 or 100.0 < bpm_value <= 140.0:
-		return 1
-	return 2
+ROOT_DIR = Path(__file__).resolve().parent
+MODEL_DIR = ROOT_DIR / "model"
+MODEL_PATH = MODEL_DIR / "wordmood_model.h5"
+TOKENIZER_PATH = MODEL_DIR / "tokenizer.pkl"
+LABEL_ENCODER_PATH = MODEL_DIR / "label_encoder.pkl"
 
+EMOTION_EMOJIS = {
+    "joy": "😊",
+    "anger": "😠",
+    "sadness": "😢",
+    "fear": "😨",
+    "neutral": "😐",
+}
 
-def preprocess_data(bpm_values, labels, test_ratio=0.2, random_state=42):
-	rng = np.random.default_rng(random_state)
-	indices = rng.permutation(len(bpm_values))
-
-	split_index = int(len(bpm_values) * (1.0 - test_ratio))
-	train_indices = indices[:split_index]
-	test_indices = indices[split_index:]
-
-	x_train = bpm_values[train_indices].astype(np.float32)
-	y_train = labels[train_indices].astype(np.int32)
-	x_test = bpm_values[test_indices].astype(np.float32)
-	y_test = labels[test_indices].astype(np.int32)
-
-	mean_value = float(x_train.mean())
-	std_value = float(x_train.std())
-	if std_value == 0.0:
-		std_value = 1.0
-
-	x_train_scaled = ((x_train - mean_value) / std_value).reshape(-1, 1, 1)
-	x_test_scaled = ((x_test - mean_value) / std_value).reshape(-1, 1, 1)
-
-	return x_train_scaled, x_test_scaled, y_train, y_test, mean_value, std_value
-
-
-def build_model():
-	model = tf.keras.Sequential(
-		[
-			tf.keras.layers.SimpleRNN(16, input_shape=(1, 1), activation="tanh", return_sequences=False),
-			tf.keras.layers.Dense(16, activation="relu"),
-			tf.keras.layers.Dense(3, activation="softmax"),
-		]
-	)
-	model.compile(
-		optimizer="adam",
-		loss="sparse_categorical_crossentropy",
-		metrics=["accuracy"],
-	)
-	return model
+EMOTION_COLORS = {
+    "joy": "#f6b93b",
+    "anger": "#e55039",
+    "sadness": "#4a69bd",
+    "fear": "#7f8fa6",
+    "neutral": "#60a3bc",
+}
 
 
 @st.cache_resource(show_spinner=False)
-def train_model():
-	bpm_values, labels = generate_synthetic_dataset()
-	x_train, x_test, y_train, y_test, mean_value, std_value = preprocess_data(bpm_values, labels)
+def load_artifacts():
+    if not MODEL_PATH.exists() or not TOKENIZER_PATH.exists() or not LABEL_ENCODER_PATH.exists():
+        return None
 
-	model = build_model()
-	history = model.fit(
-		x_train,
-		y_train,
-		validation_data=(x_test, y_test),
-		epochs=14,
-		batch_size=16,
-		verbose=0,
-	)
+    model = tf.keras.models.load_model(MODEL_PATH, compile=False)
 
-	test_loss, test_accuracy = model.evaluate(x_test, y_test, verbose=0)
+    with TOKENIZER_PATH.open("rb") as file_handle:
+        tokenizer = pickle.load(file_handle)
 
-	return {
-		"model": model,
-		"mean_value": mean_value,
-		"std_value": std_value,
-		"history": history,
-		"test_loss": float(test_loss),
-		"test_accuracy": float(test_accuracy),
-	}
+    with LABEL_ENCODER_PATH.open("rb") as file_handle:
+        label_encoder = pickle.load(file_handle)
+
+    return {"model": model, "tokenizer": tokenizer, "label_encoder": label_encoder}
 
 
-def predict_bpm(model, bpm_value, mean_value, std_value):
-	scaled_value = (np.array([[bpm_value]], dtype=np.float32) - mean_value) / std_value
-	model_input = scaled_value.reshape(1, 1, 1)
-	probabilities = model.predict(model_input, verbose=0)[0]
-	predicted_index = int(np.argmax(probabilities))
-	predicted_class = CLASS_NAMES[predicted_index]
-	confidence = float(probabilities[predicted_index])
-	return predicted_class, probabilities, confidence
+def clean_word(word: str) -> str:
+    return word.strip().lower()
+
+
+def contains_multiple_words_or_numbers(word: str) -> bool:
+    return bool(re.search(r"\s|\d", word))
+
+
+def encode_word(word: str, tokenizer: dict) -> np.ndarray:
+    char_to_index = tokenizer["char_to_index"]
+    max_length = int(tokenizer["max_length"])
+    unknown_index = int(tokenizer.get("unknown_index", 1))
+
+    sequence = [char_to_index.get(character, unknown_index) for character in word[:max_length]]
+    if len(sequence) < max_length:
+        sequence.extend([0] * (max_length - len(sequence)))
+
+    return np.asarray([sequence], dtype=np.int32)
+
+
+def predict_emotion(word: str, model, tokenizer: dict, label_encoder: dict):
+    processed_word = clean_word(word)
+    encoded_word = encode_word(processed_word, tokenizer)
+
+    probabilities = model.predict(encoded_word, verbose=0)[0]
+    predicted_index = int(np.argmax(probabilities))
+    predicted_emotion = label_encoder["index_to_emotion"][str(predicted_index)]
+
+    return predicted_emotion, probabilities
 
 
 def main():
-	st.set_page_config(page_title="Heart Rate Anomaly Detector", page_icon="❤️", layout="centered")
+    st.set_page_config(page_title="WordMood", page_icon="💬", layout="centered")
 
-	trained = train_model()
-	model = trained["model"]
-	mean_value = trained["mean_value"]
-	std_value = trained["std_value"]
+    artifacts = load_artifacts()
+    if artifacts is None:
+        st.title("WordMood - One Word, One Emotion")
+        st.error("Model artifacts are missing. Run `python model/train.py` from the project root first.")
+        st.stop()
 
-	st.title("Heart Rate Anomaly Detector")
-	st.write(
-		"Enter a single heart rate reading in BPM. The model classifies it as Normal, Elevated, or Critical using a one-to-one RNN."
-	)
+    model = artifacts["model"]
+    tokenizer = artifacts["tokenizer"]
+    label_encoder = artifacts["label_encoder"]
 
-	# col1, col2 = st.columns(2)
-	# col1.metric("Test Accuracy", f"{trained['test_accuracy'] * 100:.1f}%")
-	# col2.metric("Test Loss", f"{trained['test_loss']:.3f}")
+    emotions = [label_encoder["index_to_emotion"][str(index)] for index in range(len(label_encoder["index_to_emotion"]))]
 
-	bpm_value = st.number_input("Heart rate (BPM)", min_value=0.0, max_value=220.0, value=72.0, step=1.0)
+    st.sidebar.title("How it works")
+    st.sidebar.write("One word is treated as a short character sequence.")
+    st.sidebar.write("The LSTM reads that sequence and predicts one emotion label.")
+    st.sidebar.write("This is a One-to-One RNN: one input, one output.")
 
-	if st.button("Predict"):
-		predicted_class, probabilities, confidence = predict_bpm(model, bpm_value, mean_value, std_value)
+    st.title("WordMood")
+    st.caption(
+        "One word in, one emotion out. A small One-to-One RNN demo built for contrast with One-to-Many generators."
+    )
 
-		if predicted_class == "Critical":
-			st.error(f"Prediction: {predicted_class}")
-		elif predicted_class == "Elevated":
-			st.warning(f"Prediction: {predicted_class}")
-		else:
-			st.success(f"Prediction: {predicted_class}")
+    word_input = st.text_input("Enter a single word", placeholder="e.g. joyful")
 
-		st.write(f"Confidence: **{confidence * 100:.2f}%**")
-		st.write("Class probabilities:")
-		st.write({name: f"{prob * 100:.2f}%" for name, prob in zip(CLASS_NAMES, probabilities)})
+    if st.button("Predict emotion"):
+        if not word_input.strip():
+            st.info("Enter a single word to get a prediction.")
+            st.stop()
 
-	st.caption(
-		"Synthetic data uses simple threshold rules: 60-100 BPM = Normal, 40-59 or 101-140 BPM = Elevated, and values outside those ranges = Critical."
-	)
+        if contains_multiple_words_or_numbers(word_input):
+            st.warning("Please enter a single word without spaces or numbers.")
+            st.stop()
+
+        predicted_emotion, probabilities = predict_emotion(word_input, model, tokenizer, label_encoder)
+        emoji = EMOTION_EMOJIS.get(predicted_emotion, "")
+
+        st.subheader(f"{emoji} {predicted_emotion.title()}")
+
+        probabilities_df = pd.DataFrame({"emotion": emotions, "confidence": probabilities}).set_index("emotion")
+        st.bar_chart(probabilities_df)
 
 
 if __name__ == "__main__":
-	main()
+    main()
