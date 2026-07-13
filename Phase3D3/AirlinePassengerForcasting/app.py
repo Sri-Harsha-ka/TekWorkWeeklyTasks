@@ -175,6 +175,12 @@ st.markdown("""
 # ------------------------------------------------
 # Data & Header
 # ------------------------------------------------
+
+from pathlib import Path
+
+BASE_DIR = Path(__file__).parent
+
+csv_path = BASE_DIR / "data" / "airline-passengers.csv"
  
 loader = DataLoader("data/airline-passengers.csv")
 df = loader.load_data()
