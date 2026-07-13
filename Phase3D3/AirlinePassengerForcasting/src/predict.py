@@ -17,13 +17,16 @@ from src.data_loader import DataLoader
 from src.preprocessing import Preprocessor
 from src.sequence_generator import SequenceGenerator
 from src.train_test_split import TimeSeriesSplit
- 
+from pathlib import Path
  
 class Predictor:
  
     def __init__(self):
  
-        self.data_path = "./data/airline-passengers.csv"
+        BASE_DIR = Path(__file__).resolve().parent.parent
+        # src -> AirlinePassengerForcasting
+
+        self.data_path = BASE_DIR / "data" / "airline-passengers.csv"
  
         self.model_path = "models/lstm_model.keras"
  
