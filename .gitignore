@@ -6,12 +6,10 @@ venv/
 env/
 myenv/
 
-*.keras
-*.h5
+
 *.pth
 *.pt
 
-*.pkl
 
 outputs/
 
