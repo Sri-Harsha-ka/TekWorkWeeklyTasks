@@ -26,11 +26,12 @@ class Predictor:
         BASE_DIR = Path(__file__).resolve().parent.parent
         # src -> AirlinePassengerForcasting
 
+
         self.data_path = BASE_DIR / "data" / "airline-passengers.csv"
- 
-        self.model_path = "models/lstm_model.keras"
- 
-        self.scaler_path = "models/scaler.pkl"
+
+        self.model_path = BASE_DIR / "models" / "lstm_model.keras"
+
+        self.scaler_path = BASE_DIR / "models" / "scaler.pkl"
  
     def predict(self):
  

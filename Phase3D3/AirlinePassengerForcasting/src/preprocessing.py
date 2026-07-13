@@ -15,7 +15,7 @@ class Preprocessor:
         
         sc_df = pd.DataFrame(sc_values , columns=["Passengers"] ,index=df.index)
         
-        joblib.dump(self.sc , "models/scaler.pkl")
+        # joblib.dump(self.sc , "models/scaler.pkl")
         
         return sc_df
 
