@@ -182,7 +182,7 @@ BASE_DIR = Path(__file__).parent
 
 csv_path = BASE_DIR / "data" / "airline-passengers.csv"
  
-loader = DataLoader("data/airline-passengers.csv")
+loader = DataLoader(csv_path)
 df = loader.load_data()
  
 st.markdown('<div class="hero-card">', unsafe_allow_html=True)
