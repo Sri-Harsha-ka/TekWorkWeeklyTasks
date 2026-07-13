@@ -68,22 +68,22 @@ class Evaluator:
         # Save Metrics
         # -----------------------------
  
-        with open(
-            "outputs/metrics.txt",
-            "w"
-        ) as file:
+        # with open(
+        #     "outputs/metrics.txt",
+        #     "w"
+        # ) as file:
  
-            file.write("Model Evaluation\n")
+        #     file.write("Model Evaluation\n")
  
-            file.write("=====================\n")
+        #     file.write("=====================\n")
  
-            file.write(f"MAE  : {mae:.4f}\n")
+        #     file.write(f"MAE  : {mae:.4f}\n")
  
-            file.write(f"MSE  : {mse:.4f}\n")
+        #     file.write(f"MSE  : {mse:.4f}\n")
  
-            file.write(f"RMSE : {rmse:.4f}\n")
+        #     file.write(f"RMSE : {rmse:.4f}\n")
  
-        print("\nMetrics Saved Successfully.")
+        # print("\nMetrics Saved Successfully.")
  
         return mae, mse, rmse
    
