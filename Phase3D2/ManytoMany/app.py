@@ -12,8 +12,7 @@ def generate_sequences(num_sequences=250, input_len=10, output_len=5, n_sensors=
     Generate synthetic multi-sensor temperature sequences.
 
     Each sequence is a sum of sine waves with different frequencies/phases per sensor,
-    plus Gaussian noise. We return normalized sequences and the scaling parameters
-    so plots can show values in the original range.
+    plus Gaussian noise.
     """
     rng = np.random.RandomState(seed)
     total_len = input_len + output_len
@@ -33,19 +32,22 @@ def generate_sequences(num_sequences=250, input_len=10, output_len=5, n_sensors=
             noise = rng.normal(scale=noise_std, size=total_len)
             data[i, :, s] = base_temps[s] + seasonal + trend + noise
 
-    # Compute per-sensor min/max for simple min-max scaling
+    return data
+
+
+def fit_min_max_scaler(data):
     mins = data.min(axis=(0, 1))
     maxs = data.max(axis=(0, 1))
+
+    return mins, maxs
+
+
+def scale_sequences(data, mins, maxs):
 
     def scale(x):
         return (x - mins) / (maxs - mins + 1e-8)
 
-    data_scaled = scale(data)
-
-    X = data_scaled[:, :input_len, :]
-    y = data_scaled[:, input_len:, :]
-
-    return X, y, mins, maxs
+    return scale(data)
 
 
 def train_test_split(X, y, test_frac=0.2, shuffle=True, seed=123):
@@ -58,6 +60,10 @@ def train_test_split(X, y, test_frac=0.2, shuffle=True, seed=123):
     train_idx = idx[:split]
     test_idx = idx[split:]
     return X[train_idx], X[test_idx], y[train_idx], y[test_idx]
+
+
+def make_residual_targets(y, last_observed_step):
+    return y - last_observed_step[:, None, :]
 
 
 @st.cache_resource
@@ -117,12 +123,24 @@ def main():
     epochs = st.sidebar.slider('Epochs', 5, 50, 15)
     batch_size = st.sidebar.selectbox('Batch size', [8, 16, 32], index=1)
 
-    X, y, mins, maxs = generate_sequences(num_sequences=num_sequences,
-                                          input_len=input_len,
-                                          output_len=output_len,
-                                          n_sensors=n_sensors)
+    sequences = generate_sequences(num_sequences=num_sequences,
+                                   input_len=input_len,
+                                   output_len=output_len,
+                                   n_sensors=n_sensors)
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_frac=0.2)
+    train_sequences, test_sequences, _, _ = train_test_split(sequences, sequences, test_frac=0.2)
+
+    mins, maxs = fit_min_max_scaler(train_sequences)
+    train_scaled = scale_sequences(train_sequences, mins, maxs)
+    test_scaled = scale_sequences(test_sequences, mins, maxs)
+
+    X_train = train_scaled[:, :input_len, :]
+    y_train = train_scaled[:, input_len:, :]
+    X_test = test_scaled[:, :input_len, :]
+    y_test = test_scaled[:, input_len:, :]
+
+    y_train_residual = make_residual_targets(y_train, X_train[:, -1, :])
+    y_test_residual = make_residual_targets(y_test, X_test[:, -1, :])
 
     st.sidebar.markdown(f'Training samples: {X_train.shape[0]}')
     st.sidebar.markdown(f'Test samples: {X_test.shape[0]}')
@@ -130,7 +148,7 @@ def main():
     # --- Build / train model ---
     with st.spinner('Training model — this may take a short moment'):
         model, history = build_and_train_model(
-            X_train, y_train, X_test, y_test,
+            X_train, y_train_residual, X_test, y_test_residual,
             input_len=input_len, output_len=output_len, n_sensors=n_sensors,
             epochs=epochs, batch_size=batch_size, verbose=0
         )
@@ -158,12 +176,13 @@ def main():
     X_sample = X_test[sample_idx:sample_idx + 1]
     y_sample = y_test[sample_idx:sample_idx + 1]
 
-    y_pred = model.predict(X_sample)
+    y_pred_residual = model.predict(X_sample)
 
     # Inverse scale to original temperature units
     input_orig = inverse_scale(X_sample[0], mins, maxs)  # shape (input_len, n_sensors)
     actual_orig = inverse_scale(y_sample[0], mins, maxs)  # shape (output_len, n_sensors)
-    pred_orig = inverse_scale(y_pred[0], mins, maxs)
+    pred_scaled = y_pred_residual + X_sample[:, -1:, :]
+    pred_orig = inverse_scale(pred_scaled[0], mins, maxs)
 
     st.subheader('Selected sequence prediction')
     st.write(f'Sample index (test set): {sample_idx}')
@@ -175,14 +194,14 @@ def main():
     # Show numeric comparison for all sensors
     st.subheader('Numeric comparison (next 5 hours)')
     hours = [f'+{i+1}h' for i in range(output_len)]
-    comp_table = np.concatenate([actual_orig, pred_orig], axis=1)  # shape (output_len, sensors*2)
     # Build a simple display
     for s in range(n_sensors):
         actual_s = actual_orig[:, s]
         pred_s = pred_orig[:, s]
+        last_input_value = float(input_orig[-1, s])
         rows = []
         for h in range(output_len):
-            rows.append({'Hour': hours[h], 'Actual': float(actual_s[h]), 'Predicted': float(pred_s[h])})
+            rows.append({'Hour': hours[h], 'Last observed': last_input_value, 'Actual': float(actual_s[h]), 'Predicted': float(pred_s[h]), 'Delta vs last': float(pred_s[h] - last_input_value)})
         st.write(f'Sensor {s}')
         st.table(rows)
 
